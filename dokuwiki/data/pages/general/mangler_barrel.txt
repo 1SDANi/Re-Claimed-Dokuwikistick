@@ -1,0 +1,11 @@
+^ Mangler Barrel ^
+| 1 Pellets per Round |
+| Error Enabled |
+| +3 Rounds Reloaded |
+
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

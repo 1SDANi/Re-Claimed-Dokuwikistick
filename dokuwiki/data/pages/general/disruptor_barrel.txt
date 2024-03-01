@@ -1,0 +1,11 @@
+^ Disruptor Barrel ^
+| 1 Pellets per Round |
+| Error Enabled |
+| +5 Rounds Reloaded |
+
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

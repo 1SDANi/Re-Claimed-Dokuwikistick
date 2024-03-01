@@ -1,0 +1,17 @@
+==== Bullet ====
+----
+
+200% damage: [[general: Head]]
+
+150% damage: [[general: Light Armor]]
+
+100% damage: [[general: Loose Flesh]], [[general: Floodflesh]]
+
+75% damage: [[general: Heavy Armor]], [[general: Energy Shield]]
+
+18.75% damage: [[general: Impenetrable]]
+
+== See Also ==
+----
+
+[[General: AP-Rounds]]

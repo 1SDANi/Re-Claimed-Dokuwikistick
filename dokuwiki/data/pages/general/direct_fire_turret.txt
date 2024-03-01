@@ -1,0 +1,7 @@
+[[general: Machine Gun]]
+
+[[general: Plasma Cannon]]
+
+[[general: Needle Cannon]]
+
+[[general: Defender Beam]]

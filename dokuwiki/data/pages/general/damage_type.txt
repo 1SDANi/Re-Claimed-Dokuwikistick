@@ -1,0 +1,16 @@
+==== Damage Type ====
+
+----
+
+
+[[general: Bullet]]
+
+[[general: Plasma]]
+
+[[general: Shrapnel]]
+
+[[general: Nova]]
+
+[[general: Power]]
+
+[[general: Floodforce]]

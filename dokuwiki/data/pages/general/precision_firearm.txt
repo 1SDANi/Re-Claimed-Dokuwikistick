@@ -1,0 +1,7 @@
+[[general: Sniper Rifle]]
+
+[[general: Focus Rifle]]
+
+[[general: Skewer]]
+
+[[general: Obliterator Laser]]

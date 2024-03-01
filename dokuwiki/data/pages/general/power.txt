@@ -1,0 +1,9 @@
+==== Power ====
+
+----
+
+
+400% damage: [[general: Impenetrable]]
+
+100% damage: [[general: Light Armor]], [[general: Heavy Armor]], [[general: Energy Shield]], [[general: Loose Flesh]], [[general: Head]], [[general: Floodflesh]]
+

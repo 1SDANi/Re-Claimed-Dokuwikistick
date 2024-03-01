@@ -1,0 +1,7 @@
+[[general: Magnum]]
+
+[[general: Plasma Pistol]]
+
+[[general: Mauler]]
+
+[[general: Constructor Beam]]

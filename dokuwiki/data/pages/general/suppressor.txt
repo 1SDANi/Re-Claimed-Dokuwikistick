@@ -1,0 +1,11 @@
+^ Suppressor ^
+| [[general: Semi-Automatic]] |
+| -1 [[general: Volume]] |
+| +1 [[general: Stability]] |
+
+
+
+== See Also ==
+----
+
+[[General: Sidekick]]

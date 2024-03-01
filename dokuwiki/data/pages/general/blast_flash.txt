@@ -1,0 +1,10 @@
+^ Blast Flash ^ [[general: Shrapnel]] [[general: Damage Type]] ^
+| 100 Impact Damage | High Knockback |
+| Instant | Large |
+| Explosion Damage | Detonates in front of face |
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

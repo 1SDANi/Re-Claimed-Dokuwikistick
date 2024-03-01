@@ -1,0 +1,10 @@
+==== Plasma Rifle ====
+----
+
+^ Role: [[general: Personal Defense]] ^ Projectile: [[general: Stable Directed Energy Bolts]] ^ Firing Mode: [[general: Fully Automatic]] ^
+| Rounds per Second: 10 | Rounds per Shot: 1 | Pellets per Round : 1 |
+| Heat per Round: 7.5% | Cooling per Second: 50% | Seconds to Overheat: 4 |
+| Battery per Round: 0.5% | Rounds per Battery: 200 |
+| Damage per Second: 200 | Damage per Overheat: 800 |
+| [[general: Accuracy]]: 3 | [[general: Stability]]: 2 | [[general: Zoom]]: 0 |
+| [[general: Volume]]: [[general: Loud]] |

@@ -1,0 +1,7 @@
+[[general: Missile Pod]]
+
+[[general: Fuel Rod Cannon]]
+
+[[general: EMP Cannon]]
+
+[[general: Monitor Laser]]

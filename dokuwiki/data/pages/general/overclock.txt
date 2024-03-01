@@ -1,0 +1,11 @@
+^ Overclock ^
+| -1 [[general: Accuracy]] |
+| 200% Heat per Round |
+| +2 Pellets per Round |
+
+
+
+== See Also ==
+----
+
+[[General: Plasma Pistol]]

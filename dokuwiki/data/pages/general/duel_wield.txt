@@ -1,0 +1,13 @@
+^ Dual Wield ^
+| 150% Minimum Error |
+| 150% Maximum Error |
+| 200% Error Acceleration |
+| 50% Error Deceleration |
+| Cannot [[general: Melee]] |
+| Cannot throw [[general: Grenades]] |
+
+== See Also ==
+----
+[[general: Personal Handgun]]
+
+[[general: Personal Defense]]

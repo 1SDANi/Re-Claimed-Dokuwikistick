@@ -1,0 +1,15 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1708952095;s:8:"modified";i:1709305476;}s:11:"last_change";a:8:{s:4:"date";i:1709305476;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:5:"start";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:22;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:8:"relation";a:2:{s:10:"references";a:8:{s:20:"general:update_plans";b:1;s:16:"general:concepts";b:1;s:35:"ce:halo_re_claimed_-_combat_evolved";b:1;s:38:"vd:halo_re_claimed_-_villains_deformed";b:0;s:35:"hh:halo_re_claimed_-_heroes_honored";b:0;s:35:"ee:halo_re_claimed_-_eternal_encore";b:0;s:37:"ih:halo_re_claimed_-_immortal_harmony";b:0;s:40:"id:halo_re_claimed_-_infinite_dissonance";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:243:"Update Plans
+
+ Concepts
+
+ Halo Re Claimed - Combat Evolved
+
+ Halo Re Claimed - Villains Deformed
+
+ Halo Re Claimed - Heroes Honored
+
+ Halo Re Claimed - Eternal Encore
+
+ Halo Re Claimed - Immortal Harmony
+
+ Halo Re Claimed - Infinite Dissonance";}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1708952095;s:8:"modified";i:1709305476;}s:11:"last_change";a:8:{s:4:"date";i:1709305476;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:5:"start";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:22;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

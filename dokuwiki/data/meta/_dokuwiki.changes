@@ -1,0 +1,548 @@
+1708952095	127.0.0.1	C	start		created		240
+1708952147	127.0.0.1	E	start				6
+1708952157	127.0.0.1	E	start				0
+1708952222	127.0.0.1	E	start				-12
+1708952234	127.0.0.1	E	start				3
+1708952310	127.0.0.1	E	start				-3
+1708952323	127.0.0.1	C	halo_re_claimed_-_combat_evolved		created		14
+1708960036	127.0.0.1	C	ce:levels		created		128
+1708960671	127.0.0.1	E	ce:levels				20
+1708960738	127.0.0.1	C	ce:chapter_1_-_damnation		created		52
+1708960807	127.0.0.1	C	ce:chapter_2_-_bravery		created		55
+1708960881	127.0.0.1	C	ce:chapter_3_-_mendacity		created		47
+1708960973	127.0.0.1	C	ce:chapter_4_-_lunacy		created		53
+1708961150	127.0.0.1	C	ce:chapter_5_-_salvation		created		50
+1708961654	127.0.0.1	C	ce:autumn		created		466
+1708964158	127.0.0.1	E	ce:autumn				1442
+1708965049	127.0.0.1	E	ce:autumn				3
+1708965064	127.0.0.1	E	ce:autumn				6
+1708965074	127.0.0.1	E	ce:autumn				-2
+1708982213	127.0.0.1	E	ce:autumn				2
+1708982280	127.0.0.1	E	ce:autumn				45
+1708983138	127.0.0.1	C	general:weapons		created		1166
+1708983179	127.0.0.1	E	general:weapons				43
+1708983212	127.0.0.1	E	general:weapons				-78
+1708983216	127.0.0.1	C	general:sidearms		created		99
+1708983280	127.0.0.1	E	general:weapons				-75
+1708983284	127.0.0.1	C	general:personal_defense		created		104
+1708983512	127.0.0.1	E	general:weapons				-76
+1708983516	127.0.0.1	C	general:assault_weapon		created		103
+1708983654	127.0.0.1	E	general:weapons				1
+1708983660	127.0.0.1	C	general:automatic_rifle		created		103
+1708983717	127.0.0.1	E	general:weapons				-84
+1708983721	127.0.0.1	C	general:marksman_rifle		created		111
+1708983771	127.0.0.1	E	general:weapons				-79
+1708983885	127.0.0.1	E	general:weapons				3
+1708983931	127.0.0.1	C	general:precision_rifle		created		104
+1708984083	127.0.0.1	E	general:weapons				-79
+1708984087	127.0.0.1	C	general:ordinance_launcher		created		110
+1708984121	127.0.0.1	E	general:weapons				-81
+1708984124	127.0.0.1	C	general:close_quarters		created		108
+1708984152	127.0.0.1	E	general:weapons				-77
+1708984158	127.0.0.1	C	general:suppressive_turret		created		108
+1708984273	127.0.0.1	E	general:weapons				-73
+1708984277	127.0.0.1	C	general:surface-to-air_turret		created		107
+1708984348	127.0.0.1	E	general:weapons				-77
+1708984356	127.0.0.1	C	general:direct_fire_turret		created		108
+1708984419	127.0.0.1	E	general:weapons				-92
+1708984422	127.0.0.1	C	general:hand_grenade		created		117
+1708984462	127.0.0.1	E	general:weapons				2
+1708984465	127.0.0.1	C	general:covering_fire_turret		created		108
+1708984514	127.0.0.1	E	general:weapons				-3
+1708984518	127.0.0.1	C	general:air_defense_turret		created		107
+1708984525	127.0.0.1	E	general:weapons				-7
+1708984528	127.0.0.1	C	general:air_defense		created		107
+1708984549	127.0.0.1	E	general:weapons				-7
+1708984553	127.0.0.1	C	general:direct_fire		created		108
+1708984565	127.0.0.1	E	general:weapons				-7
+1708984568	127.0.0.1	C	general:covering_fire		created		108
+1708984604	127.0.0.1	C	general:magnum		created		40
+1708984794	127.0.0.1	E	general:weapons				8
+1708984798	127.0.0.1	C	general:personal_handgun		created		99
+1708984809	127.0.0.1	E	general:magnum				9
+1708984869	127.0.0.1	E	general:weapons				2
+1708984872	127.0.0.1	C	general:automatic_firearm		created		103
+1708984895	127.0.0.1	E	general:weapons				2
+1708984898	127.0.0.1	C	general:marksman_firearm		created		111
+1708984917	127.0.0.1	E	general:weapons				2
+1708984920	127.0.0.1	C	general:precision_firearm		created		104
+1708984957	127.0.0.1	E	general:magnum				30
+1708985057	127.0.0.1	C	general:ap-rounds		created		29
+1708985061	127.0.0.1	E	general:ap-rounds				1
+1708985118	127.0.0.1	E	general:magnum				35
+1708985146	127.0.0.1	E	general:magnum				-2
+1708985439	127.0.0.1	E	general:magnum				73
+1708985469	127.0.0.1	E	general:ap-rounds				47
+1708985487	127.0.0.1	C	general:damage_type		created		82
+1708985537	127.0.0.1	C	general:bullet		created		24
+1708985548	127.0.0.1	E	general:bullet				-1
+1708985881	127.0.0.1	C	general:armor_type		created		170
+1708985914	127.0.0.1	E	general:damage_type				40
+1708986023	127.0.0.1	E	general:armor_type				40
+1708986042	127.0.0.1	E	general:armor_type				-40
+1708986047	127.0.0.1	E	general:bullet				187
+1708986161	127.0.0.1	E	general:bullet				26
+1708986250	127.0.0.1	C	general:shrapnel		created		235
+1708986320	127.0.0.1	C	general:plasma		created		238
+1708986408	127.0.0.1	E	general:plasma				-1
+1708986418	127.0.0.1	E	general:shrapnel				0
+1708986427	127.0.0.1	E	general:bullet				0
+1708986497	127.0.0.1	C	general:nova		created		233
+1708986513	127.0.0.1	E	general:nova				0
+1708986564	127.0.0.1	E	general:damage_type				0
+1708986611	127.0.0.1	C	general:power		created		198
+1708986717	127.0.0.1	C	general:flood		created		194
+1708987017	127.0.0.1	E	general:magnum				135
+1708987053	127.0.0.1	C	general:dual_wielding		created		60
+1708987130	127.0.0.1	C	general:plasma_pistol		created		353
+1708987139	127.0.0.1	E	general:magnum				6
+1708987147	127.0.0.1	E	general:plasma_pistol				1
+1708987170	127.0.0.1	E	general:magnum				42
+1708987185	127.0.0.1	C	general:semi-automatic		created		26
+1708987194	127.0.0.1	E	general:magnum				1
+1708987200	127.0.0.1	C	general:fully_automatic		created		19
+1708987540	127.0.0.1	C	general:unstable_directed_energy_bolts		created		285
+1708987568	127.0.0.1	C	general:charged		created		37
+1708987574	127.0.0.1	E	general:charged				6
+1708987592	127.0.0.1	E	general:ap-rounds				27
+1708987614	127.0.0.1	E	general:ap-rounds				1
+1708987707	127.0.0.1	E	general:unstable_directed_energy_bolts				-10
+1708987726	127.0.0.1	C	general:charge		created		57
+1708987884	127.0.0.1	E	general:plasma_pistol				4
+1708987935	127.0.0.1	E	general:plasma_pistol				42
+1708988030	127.0.0.1	E	general:plasma_pistol				31
+1708988135	127.0.0.1	E	general:plasma_pistol				70
+1708988154	127.0.0.1	E	general:plasma_pistol				0
+1708988875	127.0.0.1	C	general:mauler		created		191
+1708988913	127.0.0.1	E	general:mauler				22
+1708988933	127.0.0.1	E	general:mauler				1
+1708990627	127.0.0.1	C	general:ap-spikes		created		213
+1708990634	127.0.0.1	E	general:mauler				0
+1708990718	127.0.0.1	E	general:ap-spikes				-73
+1708992883	127.0.0.1	C	general:constructor_beam		created		488
+1708992998	127.0.0.1	E	general:constructor_beam				-44
+1708993198	127.0.0.1	C	general:breathing_nova		created		320
+1709047990	127.0.0.1	E	general:flood				5
+1709047998	127.0.0.1	E	general:shrapnel				5
+1709048012	127.0.0.1	E	general:bullet				5
+1709048019	127.0.0.1	E	general:plasma				5
+1709048030	127.0.0.1	E	general:nova				5
+1709048037	127.0.0.1	E	general:power				5
+1709048139	127.0.0.1	E	general:ap-spikes				11
+1709048149	127.0.0.1	E	general:ap-spikes				14
+1709048161	127.0.0.1	E	general:ap-spikes				-1
+1709048195	127.0.0.1	E	general:ap-spikes				9
+1709048207	127.0.0.1	E	general:ap-spikes				17
+1709048249	127.0.0.1	E	general:ap-spikes				-28
+1709048255	127.0.0.1	E	general:ap-spikes				2
+1709048293	127.0.0.1	E	general:shrapnel				29
+1709048303	127.0.0.1	E	general:ap-spikes				3
+1709048315	127.0.0.1	E	general:shrapnel				-2
+1709048357	127.0.0.1	E	general:power				26
+1709048367	127.0.0.1	E	general:power				-2
+1709048384	127.0.0.1	E	general:damage_type				30
+1709048403	127.0.0.1	E	general:flood				23
+1709048414	127.0.0.1	E	general:flood				5
+1709048424	127.0.0.1	E	general:damage_type				5
+1709048429	127.0.0.1	C	general:floodforce		created		227
+1709048454	127.0.0.1	E	general:nova				21
+1709048474	127.0.0.1	E	general:plasma				23
+1709048486	127.0.0.1	E	general:bullet				23
+1709049607	127.0.0.1	E	start				4
+1709049636	127.0.0.1	C	ce:halo_re_claimed_-_combat_evolved		created		14
+1709049684	127.0.0.1	E	general:armor_type				27
+1709049728	127.0.0.1	E	start				23
+1709049739	127.0.0.1	C	general:concepts		created		25
+1709050181	127.0.0.1	C	general:damage_chart		created		431
+1709050205	127.0.0.1	E	general:bullet				0
+1709050213	127.0.0.1	E	general:armor_type				0
+1709050221	127.0.0.1	E	general:plasma				0
+1709050263	127.0.0.1	E	general:shrapnel				0
+1709050283	127.0.0.1	E	general:nova				0
+1709050294	127.0.0.1	E	general:power				0
+1709050300	127.0.0.1	E	general:floodforce				0
+1709050314	127.0.0.1	E	general:damage_chart				0
+1709050323	127.0.0.1	E	general:concepts				0
+1709050335	127.0.0.1	C	general:damage_table		created		433
+1709050362	127.0.0.1	E	general:damage_table				-14
+1709050380	127.0.0.1	E	general:damage_table				-24
+1709051179	127.0.0.1	E	general:armor_type				5
+1709051250	127.0.0.1	E	general:bullet				0
+1709051839	127.0.0.1	E	general:damage_table				239
+1709052588	127.0.0.1	E	general:magnum				15
+1709052604	127.0.0.1	E	general:plasma_pistol				15
+1709052636	127.0.0.1	E	general:mauler				15
+1709052643	127.0.0.1	E	general:constructor_beam				15
+1709052656	127.0.0.1	E	general:breathing_nova				31
+1709052676	127.0.0.1	E	general:personal_handgun				33
+1709052689	127.0.0.1	E	general:ap-rounds				26
+1709052711	127.0.0.1	E	general:fully_automatic				32
+1709052726	127.0.0.1	E	general:dual_wielding				30
+1709052743	127.0.0.1	E	general:charge				23
+1709052756	127.0.0.1	E	general:semi-automatic				31
+1709052777	127.0.0.1	E	general:semi-automatic				52
+1709052823	127.0.0.1	E	general:unstable_directed_energy_bolts				47
+1709052970	127.0.0.1	E	general:concepts				22
+1709053005	127.0.0.1	E	general:personal_defense				33
+1709053185	127.0.0.1	C	general:submachine_gun		created		479
+1709053226	127.0.0.1	E	general:magnum				50
+1709053236	127.0.0.1	E	general:submachine_gun				0
+1709053292	127.0.0.1	E	general:plasma_pistol				48
+1709053318	127.0.0.1	E	general:plasma_pistol				31
+1709053686	127.0.0.1	E	general:plasma_pistol				33
+1709053737	127.0.0.1	E	general:ap-spikes				0
+1709053758	127.0.0.1	E	general:mauler				49
+1709053792	127.0.0.1	E	general:mauler				0
+1709053806	127.0.0.1	E	general:constructor_beam				49
+1709054010	127.0.0.1	E	general:plasma_pistol				-11
+1709054077	127.0.0.1	E	general:constructor_beam				93
+1709054093	127.0.0.1	E	general:magnum				23
+1709054168	127.0.0.1	E	general:plasma_pistol				43
+1709054181	127.0.0.1	E	general:plasma_pistol				0
+1709054262	127.0.0.1	E	general:constructor_beam				0
+1709054277	127.0.0.1	E	general:magnum				0
+1709054297	127.0.0.1	E	general:plasma_pistol				0
+1709054313	127.0.0.1	E	general:magnum				1
+1709054320	127.0.0.1	C	general:ap-bullets		created		132
+1709054351	127.0.0.1	E	general:mauler				0
+1709054385	127.0.0.1	E	general:submachine_gun				23
+1709054399	127.0.0.1	E	general:submachine_gun				13
+1709054408	127.0.0.1	E	general:magnum				12
+1709054416	127.0.0.1	E	general:plasma_pistol				13
+1709054424	127.0.0.1	E	general:constructor_beam				13
+1709054428	127.0.0.1	E	general:constructor_beam				-1
+1709054440	127.0.0.1	E	general:plasma_pistol				-1
+1709054476	127.0.0.1	E	general:mauler				82
+1709054491	127.0.0.1	E	general:mauler				0
+1709054503	127.0.0.1	E	general:submachine_gun				-1
+1709054512	127.0.0.1	E	general:submachine_gun				1
+1709055457	127.0.0.1	C	general:plasma_rifle		created		467
+1709055504	127.0.0.1	C	general:stable_directed_energy_bolts		created		154
+1709055552	127.0.0.1	E	general:plasma_rifle				-5
+1709055828	127.0.0.1	E	general:plasma_rifle				171
+1709055866	127.0.0.1	E	general:plasma_rifle				3
+1709056039	127.0.0.1	E	general:plasma_rifle				-2
+1709056158	127.0.0.1	E	general:plasma_rifle				21
+1709056178	127.0.0.1	E	general:plasma_rifle				2
+1709056219	127.0.0.1	E	general:plasma_rifle				-3
+1709056310	127.0.0.1	E	general:plasma_rifle				5
+1709056327	127.0.0.1	E	general:plasma_rifle				3
+1709056402	127.0.0.1	E	general:plasma_rifle				2
+1709056421	127.0.0.1	E	general:plasma_rifle				1
+1709056434	127.0.0.1	E	general:plasma_rifle				0
+1709056501	127.0.0.1	E	general:stable_directed_energy_bolts				17
+1709056508	127.0.0.1	E	general:stable_directed_energy_bolts				-2
+1709056517	127.0.0.1	E	general:stable_directed_energy_bolts				-17
+1709056730	127.0.0.1	E	general:magnum				43
+1709056768	127.0.0.1	E	general:magnum				25
+1709056844	127.0.0.1	E	general:personal_handgun				104
+1709056909	127.0.0.1	E	general:ap-bullets				-4
+1709056971	127.0.0.1	E	general:unstable_directed_energy_bolts				-7
+1709057405	127.0.0.1	E	general:plasma_pistol				79
+1709057507	127.0.0.1	E	general:plasma_pistol				27
+1709057518	127.0.0.1	E	general:plasma_pistol				-27
+1709057615	127.0.0.1	E	general:magnum				2
+1709057707	127.0.0.1	E	general:plasma_rifle				-1
+1709057739	127.0.0.1	E	general:plasma_pistol				26
+1709057746	127.0.0.1	E	general:plasma_pistol				1
+1709057975	127.0.0.1	E	general:mauler				73
+1709058021	127.0.0.1	E	general:ap-spikes				-8
+1709062056	127.0.0.1	E	general:constructor_beam				29
+1709062084	127.0.0.1	E	general:constructor_beam				26
+1709062296	127.0.0.1	E	general:constructor_beam				23
+1709062535	127.0.0.1	E	general:constructor_beam				25
+1709062556	127.0.0.1	E	general:constructor_beam				-1
+1709062623	127.0.0.1	E	general:constructor_beam				0
+1709063069	127.0.0.1	E	general:submachine_gun				574
+1709063098	127.0.0.1	E	general:constructor_beam				-22
+1709063455	127.0.0.1	E	general:submachine_gun				-487
+1709063497	127.0.0.1	E	general:submachine_gun				-9
+1709063511	127.0.0.1	E	general:submachine_gun				2
+1709076082	127.0.0.1	E	general:personal_defense				104
+1709080152	127.0.0.1	C	general:spiker		created		558
+1709080195	127.0.0.1	E	general:submachine_gun				-2
+1709080252	127.0.0.1	E	general:ap-spikes				1
+1709081683	127.0.0.1	E	general:constructor_beam				17
+1709081697	127.0.0.1	E	general:constructor_beam				2
+1709081983	127.0.0.1	C	general:pursuer_pulser		created		656
+1709082125	127.0.0.1	E	general:breathing_nova				0
+1709082143	127.0.0.1	E	general:ap-bullets				3
+1709082207	127.0.0.1	E	general:pursuer_pulser				-1
+1709082331	127.0.0.1	C	general:singing_nova		created		205
+1709082629	127.0.0.1	E	general:pursuer_pulser				0
+1709082715	127.0.0.1	E	general:pursuer_pulser				0
+1709082720	127.0.0.1	E	general:pursuer_pulser				0
+1709087316	127.0.0.1	E	general:weapons				1055
+1709087326	127.0.0.1	E	general:marksman_firearm				-5
+1709087419	127.0.0.1	E	general:weapons				48
+1709087438	127.0.0.1	E	general:personal_defense				2
+1709087446	127.0.0.1	C	general:protector_pulser		created		657
+1709143221	127.0.0.1	E	general:weapons				189
+1709143446	127.0.0.1	E	general:weapons				195
+1709143464	127.0.0.1	E	general:weapons				2
+1709143470	127.0.0.1	C	general:constructor_welder		created		713
+1709143474	127.0.0.1	E	general:constructor_welder				1
+1709143657	127.0.0.1	E	general:weapons				212
+1709143689	127.0.0.1	E	general:weapons				-10
+1709143783	127.0.0.1	E	general:weapons				-38
+1709143953	127.0.0.1	E	general:magnum				177
+1709144391	127.0.0.1	E	general:magnum				-52
+1709144424	127.0.0.1	E	general:magnum				8
+1709144479	127.0.0.1	C	general:volume		created		73
+1709144486	127.0.0.1	E	general:volume				0
+1709144493	127.0.0.1	E	general:volume				-11
+1709144514	127.0.0.1	E	general:volume				64
+1709144584	127.0.0.1	E	general:volume				12
+1709144597	127.0.0.1	E	general:volume				-10
+1709144602	127.0.0.1	E	general:volume				5
+1709144607	127.0.0.1	E	general:volume				5
+1709144657	127.0.0.1	C	general:marksman_scope		created		83
+1709144661	127.0.0.1	E	general:marksman_scope				2
+1709144716	127.0.0.1	C	general:zoom		created		41
+1709144722	127.0.0.1	E	general:zoom				7
+1709145090	127.0.0.1	C	general:suppressor		created		72
+1709145294	127.0.0.1	C	1_general:accuracy		created		158
+1709145306	127.0.0.1	E	1_general:accuracy				16
+1709145378	127.0.0.1	E	1_general:accuracy				-60
+1709145394	127.0.0.1	E	1_general:accuracy				0
+1709145462	127.0.0.1	E	general:dual_wielding				62
+1709145487	127.0.0.1	E	general:dual_wielding				11
+1709145499	127.0.0.1	E	general:dual_wielding				32
+1709145516	127.0.0.1	E	general:dual_wielding				-1
+1709145605	127.0.0.1	E	general:marksman_scope				-7
+1709145614	127.0.0.1	C	general:duel_wield		created		191
+1709145625	127.0.0.1	E	general:duel_wield				17
+1709145643	127.0.0.1	E	general:duel_wield				4
+1709145648	127.0.0.1	E	general:duel_wield				-1
+1709145655	127.0.0.1	E	general:duel_wield				0
+1709145670	127.0.0.1	E	general:duel_wield				3
+1709145675	127.0.0.1	E	general:duel_wield				-10
+1709145683	127.0.0.1	E	general:duel_wield				4
+1709145687	127.0.0.1	E	general:duel_wield				0
+1709145691	127.0.0.1	E	general:duel_wield				2
+1709145698	127.0.0.1	E	general:duel_wield				1
+1709145720	127.0.0.1	E	general:magnum				-50
+1709145741	127.0.0.1	E	general:magnum				24
+1709145747	127.0.0.1	E	general:magnum				2
+1709145752	127.0.0.1	E	general:magnum				2
+1709145758	127.0.0.1	E	general:magnum				0
+1709145825	127.0.0.1	E	general:duel_wield				55
+1709145881	127.0.0.1	C	general:stability		created		133
+1709145902	127.0.0.1	E	general:magnum				0
+1709145923	127.0.0.1	E	general:magnum				-127
+1709145980	127.0.0.1	E	general:magnum				25
+1709146006	127.0.0.1	C	general:accuracy		created		114
+1709146570	127.0.0.1	E	general:plasma_pistol				-125
+1709146596	127.0.0.1	E	general:mauler				-10
+1709146609	127.0.0.1	E	general:zoom				-7
+1709146616	127.0.0.1	E	general:magnum				0
+1709146622	127.0.0.1	E	general:plasma_pistol				0
+1709146627	127.0.0.1	E	general:mauler				0
+1709146649	127.0.0.1	E	general:plasma_pistol				43
+1709146656	127.0.0.1	E	general:mauler				43
+1709146666	127.0.0.1	E	general:constructor_beam				-162
+1709146678	127.0.0.1	E	general:constructor_beam				80
+1709146696	127.0.0.1	E	general:submachine_gun				-160
+1709146716	127.0.0.1	E	general:submachine_gun				0
+1709146725	127.0.0.1	E	general:submachine_gun				0
+1709146748	127.0.0.1	E	general:magnum				0
+1709146755	127.0.0.1	E	general:plasma_pistol				0
+1709146761	127.0.0.1	E	general:mauler				0
+1709146768	127.0.0.1	E	general:constructor_beam				0
+1709146797	127.0.0.1	E	general:constructor_beam				0
+1709146813	127.0.0.1	E	general:mauler				0
+1709146841	127.0.0.1	E	general:submachine_gun				42
+1709146906	127.0.0.1	E	general:plasma_rifle				-117
+1709147092	127.0.0.1	E	general:plasma_rifle				0
+1709147134	127.0.0.1	E	general:plasma_rifle				0
+1709147213	127.0.0.1	E	general:stable_directed_energy_bolts				1
+1709147653	127.0.0.1	E	general:unstable_directed_energy_bolts				-33
+1709147697	127.0.0.1	E	general:spiker				-119
+1709147704	127.0.0.1	E	general:spiker				0
+1709147730	127.0.0.1	E	general:protector_pulser				-119
+1709147804	127.0.0.1	E	general:fully_automatic				88
+1709147838	127.0.0.1	E	general:weapons				1
+1709147990	127.0.0.1	E	general:weapons				16
+1709148014	127.0.0.1	E	general:suppressor				-2
+1709148039	127.0.0.1	E	general:marksman_scope				30
+1709148073	127.0.0.1	E	general:marksman_scope				23
+1709148085	127.0.0.1	E	general:marksman_scope				19
+1709148093	127.0.0.1	E	general:suppressor				44
+1709148143	127.0.0.1	E	general:suppressor				32
+1709148151	127.0.0.1	E	general:suppressor				11
+1709148156	127.0.0.1	E	general:suppressor				-11
+1709148175	127.0.0.1	E	general:semi-automatic				25
+1709148365	127.0.0.1	E	general:magnum				30
+1709148526	127.0.0.1	E	general:magnum				41
+1709148901	127.0.0.1	C	general:he-bullets		created		133
+1709148907	127.0.0.1	E	general:he-bullets				2
+1709148941	127.0.0.1	E	general:he-bullets				41
+1709148966	127.0.0.1	E	general:magnum				0
+1709148972	127.0.0.1	E	general:magnum				0
+1709148978	127.0.0.1	E	general:magnum				-12
+1709148989	127.0.0.1	E	general:magnum				-31
+1709149041	127.0.0.1	E	general:magnum				4
+1709149217	127.0.0.1	E	general:magnum				2
+1709149232	127.0.0.1	E	general:magnum				31
+1709149431	127.0.0.1	E	general:magnum				28
+1709149599	127.0.0.1	E	general:magnum				3
+1709149609	127.0.0.1	E	general:magnum				-10
+1709149831	127.0.0.1	E	general:magnum				-6
+1709149857	127.0.0.1	E	general:magnum				-3
+1709149877	127.0.0.1	E	general:magnum				-13
+1709149882	127.0.0.1	E	general:magnum				0
+1709149904	127.0.0.1	E	general:weapons				2
+1709149911	127.0.0.1	E	general:weapons				-2
+1709149918	127.0.0.1	E	general:weapons				2
+1709149928	127.0.0.1	C	general:sidekick		created		613
+1709149991	127.0.0.1	D	1_general:accuracy		removed		-114
+1709150012	127.0.0.1	D	general:magnum		removed		-613
+1709150175	127.0.0.1	E	ce:autumn				145
+1709150192	127.0.0.1	E	ce:autumn				-7
+1709150215	127.0.0.1	E	general:weapons				0
+1709150488	127.0.0.1	E	general:sidekick				10
+1709150514	127.0.0.1	E	general:suppressor				-29
+1709150528	127.0.0.1	E	general:marksman_scope				-30
+1709150541	127.0.0.1	E	general:marksman_scope				29
+1709150548	127.0.0.1	E	general:marksman_scope				2
+1709150560	127.0.0.1	E	general:sidekick				0
+1709150569	127.0.0.1	E	general:suppressor				30
+1709150577	127.0.0.1	E	general:suppressor				2
+1709150593	127.0.0.1	E	general:suppressor				0
+1709150631	127.0.0.1	C	general:muzzle_brake		created		81
+1709150676	127.0.0.1	E	general:muzzle_brake				28
+1709150800	127.0.0.1	E	general:muzzle_brake				25
+1709150805	127.0.0.1	E	general:muzzle_brake				0
+1709150859	127.0.0.1	E	general:sidekick				-12
+1709150994	127.0.0.1	E	general:sidekick				11
+1709151011	127.0.0.1	C	general:semi-automatic_conversion		created		143
+1709151018	127.0.0.1	D	general:semi-automatic_conversion		removed		-143
+1709151025	127.0.0.1	E	general:sidekick				-5
+1709151044	127.0.0.1	C	general:semi-auto_conversion		created		100
+1709151057	127.0.0.1	E	general:semi-automatic				35
+1709151075	127.0.0.1	E	general:semi-auto_conversion				30
+1709151150	127.0.0.1	E	general:sidekick				0
+1709151170	127.0.0.1	C	general:optical_camera		created		147
+1709151176	127.0.0.1	E	general:optical_camera				-25
+1709151519	127.0.0.1	D	general:marksman_scope		removed		-151
+1709151605	127.0.0.1	E	general:sidekick				0
+1709151711	127.0.0.1	E	general:sidekick				-6
+1709151719	127.0.0.1	C	general:smart_laser		created		122
+1709151739	127.0.0.1	C	general:smart_scope		created		152
+1709151752	127.0.0.1	E	general:smart_laser				-3
+1709151762	127.0.0.1	E	general:smart_scope				-3
+1709151805	127.0.0.1	E	general:smart_scope				-1
+1709151809	127.0.0.1	E	general:sidekick				0
+1709151842	127.0.0.1	E	general:sidekick				0
+1709151856	127.0.0.1	E	general:smart_scope				-29
+1709151862	127.0.0.1	E	general:smart_laser				29
+1709151897	127.0.0.1	E	general:he-bullets				2
+1709152172	127.0.0.1	E	general:semi-auto_conversion				0
+1709165605	127.0.0.1	E	general:personal_handgun				2
+1709165652	127.0.0.1	E	general:plasma_pistol				87
+1709165662	127.0.0.1	E	general:plasma_pistol				-2
+1709165681	127.0.0.1	C	general:overclock		created		135
+1709165734	127.0.0.1	E	general:plasma_pistol				0
+1709165836	127.0.0.1	E	general:overclock				-14
+1709165845	127.0.0.1	E	general:overclock				5
+1709165868	127.0.0.1	E	general:plasma_pistol				-3
+1709166036	127.0.0.1	C	general:bayonet		created		144
+1709166151	127.0.0.1	E	general:plasma_pistol				3
+1709166312	127.0.0.1	C	general:safety_override		created		160
+1709166687	127.0.0.1	E	general:plasma_pistol				123
+1709166698	127.0.0.1	E	general:smart_laser				27
+1709166701	127.0.0.1	E	general:smart_laser				1
+1709166759	127.0.0.1	C	general:guided_directed_energy_bolts		created		279
+1709166780	127.0.0.1	E	general:guided_directed_energy_bolts				49
+1709166790	127.0.0.1	E	general:unstable_directed_energy_bolts				-1
+1709166808	127.0.0.1	E	general:unstable_directed_energy_bolts				49
+1709166812	127.0.0.1	E	general:unstable_directed_energy_bolts				-1
+1709166844	127.0.0.1	E	general:ap-bullets				44
+1709166862	127.0.0.1	E	general:fully_automatic				26
+1709166868	127.0.0.1	E	general:sidekick				0
+1709166908	127.0.0.1	C	general:heat_lift		created		109
+1709166918	127.0.0.1	E	general:heat_lift				0
+1709167082	127.0.0.1	E	general:heat_lift				41
+1709167098	127.0.0.1	E	general:heat_lift				17
+1709167672	127.0.0.1	E	general:mauler				106
+1709167678	127.0.0.1	E	general:mauler				2
+1709167689	127.0.0.1	E	general:mauler				-2
+1709167699	127.0.0.1	E	general:mauler				4
+1709167997	127.0.0.1	E	general:mauler				0
+1709168061	127.0.0.1	E	general:mauler				0
+1709168082	127.0.0.1	E	general:mauler				11
+1709168199	127.0.0.1	E	general:plasma_pistol				-67
+1709168266	127.0.0.1	E	general:mauler				-39
+1709168320	127.0.0.1	C	general:mangler_barrel		created		134
+1709168329	127.0.0.1	E	general:mangler_barrel				-7
+1709168402	127.0.0.1	C	general:overloadable_barrel		created		190
+1709168445	127.0.0.1	D	general:overloadable_barrel		removed		-190
+1709168551	127.0.0.1	E	general:mauler				-5
+1709168557	127.0.0.1	C	general:mangler_action		created		190
+1709168653	127.0.0.1	C	general:blast_propellant		created		145
+1709168658	127.0.0.1	E	general:blast_propellant				2
+1709168819	127.0.0.1	C	general:blast_flash		created		173
+1709168833	127.0.0.1	E	general:blast_flash				43
+1709168841	127.0.0.1	E	general:ap-spikes				43
+1709168876	127.0.0.1	E	general:ap-spikes				-15
+1709168890	127.0.0.1	E	general:blast_flash				-1
+1709168926	127.0.0.1	E	general:unstable_directed_energy_bolts				-24
+1709168949	127.0.0.1	E	general:guided_directed_energy_bolts				-23
+1709168985	127.0.0.1	E	general:ap-bullets				-16
+1709169009	127.0.0.1	E	general:he-bullets				-15
+1709169033	127.0.0.1	E	general:bullet				46
+1709169072	127.0.0.1	E	general:shrapnel				66
+1709169077	127.0.0.1	E	general:shrapnel				1
+1709169097	127.0.0.1	C	general:he-rounds		created		162
+1709169102	127.0.0.1	D	general:he-bullets		removed		-163
+1709169121	127.0.0.1	E	general:bullet				-1
+1709169143	127.0.0.1	E	general:sidekick				-1
+1709169149	127.0.0.1	D	general:ap-bullets		removed		-159
+1709169156	127.0.0.1	E	general:ap-rounds				27
+1709169168	127.0.0.1	E	general:sidekick				-1
+1709169202	127.0.0.1	E	general:plasma				107
+1709169230	127.0.0.1	E	general:blast_propellant				0
+1709170102	127.0.0.1	E	general:mauler				98
+1709170112	127.0.0.1	E	general:mauler				11
+1709170120	127.0.0.1	E	general:mauler				2
+1709170138	127.0.0.1	C	general:disruptor_barrel		created		129
+1709170240	127.0.0.1	E	general:overclock				-13
+1709170293	127.0.0.1	E	general:overclock				16
+1709170299	127.0.0.1	E	general:overclock				0
+1709170338	127.0.0.1	E	general:bayonet				13
+1709170351	127.0.0.1	E	general:overclock				13
+1709170401	127.0.0.1	C	general:disruptor_action		created		78
+1709170533	127.0.0.1	E	general:mauler				1
+1709170540	127.0.0.1	E	general:mauler				-1
+1709170561	127.0.0.1	E	general:mangler_action				0
+1709170590	127.0.0.1	E	general:mangler_action				0
+1709170610	127.0.0.1	E	general:blast_flash				1
+1709170658	127.0.0.1	E	general:disruptor_action				30
+1709170687	127.0.0.1	E	general:disruptor_action				1
+1709170714	127.0.0.1	E	general:disruptor_action				30
+1709170768	127.0.0.1	E	general:disruptor_action				51
+1709170818	127.0.0.1	C	general:emp_discharge		created		220
+1709170964	127.0.0.1	E	general:mauler				-8
+1709171003	127.0.0.1	E	general:mauler				79
+1709171078	127.0.0.1	C	general:toothless		created		179
+1709171088	127.0.0.1	E	general:toothless				-2
+1709171129	127.0.0.1	E	general:toothless				29
+1709171143	127.0.0.1	C	general:melee		created		23
+1709171197	127.0.0.1	E	general:melee				16
+1709171223	127.0.0.1	E	general:mauler				-10
+1709171255	127.0.0.1	E	general:bayonet				16
+1709171275	127.0.0.1	E	general:toothless				-26
+1709304236	127.0.0.1	E	start				27
+1709304280	127.0.0.1	C	general:update_plans		created		43
+1709304566	127.0.0.1	C	general:alpha_1-1a		created		420
+1709304578	127.0.0.1	E	general:alpha_1-1a				15
+1709304597	127.0.0.1	E	general:alpha_1-1a				27
+1709304638	127.0.0.1	E	general:alpha_1-1a				73
+1709304646	127.0.0.1	E	general:alpha_1-1a				9
+1709304655	127.0.0.1	E	general:alpha_1-1a				6
+1709304668	127.0.0.1	E	general:alpha_1-1a				16
+1709304680	127.0.0.1	E	general:alpha_1-1a				10
+1709304686	127.0.0.1	E	general:alpha_1-1a				-2
+1709304698	127.0.0.1	E	general:alpha_1-1a				-6
+1709304770	127.0.0.1	E	general:alpha_1-1a				11
+1709305476	127.0.0.1	E	start				22

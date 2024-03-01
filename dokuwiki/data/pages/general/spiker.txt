@@ -1,0 +1,7 @@
+^ Role: [[general: Personal Defense]] ^ Projectile: [[general: AP-Spikes]] ^ Firing Mode: [[general: Fully Automatic]] ^
+| Rounds per Second: 15 | Rounds per Shot: 1 | Pellets per Round: 1 |
+| Rounds Reloaded: 40 | Seconds until Empty: 2.67 |
+| Max Rounds: 200 |
+| Damage per Second: 375 | Damage per Reload: 1000 |
+| [[general: Accuracy]]: 2 | [[general: Stability]]: 2 | [[general: Zoom]]: 0 |
+| [[general: Volume]]: [[general: Loud]] |

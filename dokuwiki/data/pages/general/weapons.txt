@@ -1,0 +1,14 @@
+^ Weapons ^ [[general: UNSC]] ^ [[general: Sangheili Command]] ^ [[general: Jiralhanae Command]] ^ [[general: Sentinel]] ^
+| [[general: Personal Handgun]] | [[general: Sidekick]] | [[general: Plasma Pistol]] | [[general: Mauler]] | [[general: Constructor Welder]] |
+| [[general: Personal Defense]] | [[general: Submachine Gun]] | [[general: Plasma Rifle]] | [[general: Spiker]] | [[general: Protector Pulser]] |
+| [[general: Automatic Firearm]] | [[general: Assault Rifle]] | [[general: Plasma Carbine]] | [[general: Needler]] | [[general: Aggressor Beam]] |
+| [[general: Marksman Firearm]] | [[general: Battle Rifle]] | [[general: Fuel Rod Carbine]] | [[general: Impaler]] | [[general: Guardian Beam]] |
+| [[general: Precision Firearm]] | [[general: Sniper Rifle]] | [[general: Beam Rifle]] | [[general: Shocker]] | [[general: Obliterator Laser]] |
+| [[general: Missile Launcher]] | [[general: Rocket Launcher]] | [[general: Fuel Rod Gun]] | [[general: Skewer]] | [[general: Enforcer Cannon]] |
+| [[general: Bomb Launcher]] | [[general: Grenade Launcher]] | [[general: Shade Rifle]] | [[general: Blaster]] | [[general: Steward Launcher]] |
+| [[general: Close Quarters]] | [[general: Shotgun]] | [[general: Disintegration Jet]] | [[general: Ravager]] |  [[general: Destroyer Scorcher]] |
+| [[general: Melee Weapon]] | [[general: Machete]] | [[general: Energy Sword]] | [[general: Smasher]] | [[general: Enforcer Arm]] |
+| [[general: Covering Fire]] | [[general: Flamethrower]] | [[general: Shade Cannon]] | [[general: Spike Cannon]] | [[general: Destroyer Beam]] |
+| [[general: Air Defense]] | [[general: Missile Pod]] | [[general: Fuel Rod Cannon]] | [[general: Shock Cannon]] | [[general: Monitor Laser]] |
+| [[general: Direct Fire]] | [[general: Machine Gun]] | [[general: Plasma Cannon]] | [[general: Needle Cannon]] | [[general: Destroyer Beam]] |
+| [[general: Hand Grenade]] | [[general: Fragmentation Grenade]] | [[general: Plasma Grenade]] | [[general: Blast Grenade]] | [[general: Nova Grenade]] |

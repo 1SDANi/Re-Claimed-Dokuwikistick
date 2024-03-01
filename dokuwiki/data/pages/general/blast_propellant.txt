@@ -1,0 +1,11 @@
+^ Blast Propellant ^
+| +1 [[general: Volume]] |
+| [[general: AP-Spikes]] |
+| [[general: Blast Flash]] |
+
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

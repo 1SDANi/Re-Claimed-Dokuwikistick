@@ -1,0 +1,4 @@
+^ Singing Nova ^ [[general: Damage Type]]: [[general: Nova]] ^
+| Impact Damage: 3 | Knockback: None |
+| Speed: Speed: Instant (None with [[general: Charge]])| Size: Small |
+| 4 burn damage over 4 seconds |

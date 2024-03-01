@@ -1,0 +1,41 @@
+[Mon Feb 26 07:39:41.020233 2024] [mpm_winnt:notice] [pid 24316:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Feb 26 07:39:41.020233 2024] [mpm_winnt:notice] [pid 24316:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 26 07:39:41.020233 2024] [core:notice] [pid 24316:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/H3EK/wiki/server'
+[Mon Feb 26 07:39:41.023233 2024] [mpm_winnt:notice] [pid 24316:tid 356] AH00418: Parent: Created child process 17540
+[Mon Feb 26 07:39:41.708916 2024] [mpm_winnt:notice] [pid 17540:tid 360] AH00354: Child: Starting 24 worker threads.
+[Mon Feb 26 07:39:41.840448 2024] [authz_core:error] [pid 17540:tid 828] [client 127.0.0.1:40640] AH01630: client denied by server configuration: C:/Users/bandd/Documents/H3EK/wiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Mon Feb 26 07:40:15.274011 2024] [authz_core:error] [pid 17540:tid 840] [client 127.0.0.1:40642] AH01630: client denied by server configuration: C:/Users/bandd/Documents/H3EK/wiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Tue Feb 27 10:24:02.791785 2024] [core:warn] [pid 15336:tid 376] AH00098: pid file C:/Users/bandd/Documents/H3EK/wiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 10:24:03.138717 2024] [mpm_winnt:notice] [pid 15336:tid 376] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Feb 27 10:24:03.139720 2024] [mpm_winnt:notice] [pid 15336:tid 376] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 10:24:03.139720 2024] [core:notice] [pid 15336:tid 376] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/H3EK/wiki/server'
+[Tue Feb 27 10:24:03.143225 2024] [mpm_winnt:notice] [pid 15336:tid 376] AH00418: Parent: Created child process 13804
+[Tue Feb 27 10:24:03.709388 2024] [mpm_winnt:notice] [pid 13804:tid 352] AH00354: Child: Starting 24 worker threads.
+[Tue Feb 27 10:30:28.889658 2024] [core:warn] [pid 13476:tid 360] AH00098: pid file C:/Users/bandd/Documents/H3EK/wiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 10:30:29.092581 2024] [mpm_winnt:notice] [pid 13476:tid 360] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Feb 27 10:30:29.092581 2024] [mpm_winnt:notice] [pid 13476:tid 360] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 10:30:29.092581 2024] [core:notice] [pid 13476:tid 360] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/H3EK/wiki/server'
+[Tue Feb 27 10:30:29.095583 2024] [mpm_winnt:notice] [pid 13476:tid 360] AH00418: Parent: Created child process 16468
+[Tue Feb 27 10:30:29.631233 2024] [mpm_winnt:notice] [pid 16468:tid 356] AH00354: Child: Starting 24 worker threads.
+[Tue Feb 27 13:18:38.655259 2024] [php:warn] [pid 16468:tid 904] [client 127.0.0.1:4763] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\H3EK\\wiki\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=general:mauler
+[Tue Feb 27 13:18:42.184013 2024] [php:warn] [pid 16468:tid 904] [client 127.0.0.1:4766] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\H3EK\\wiki\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=general:mauler
+[Tue Feb 27 20:11:42.058943 2024] [php:warn] [pid 16468:tid 900] [client 127.0.0.1:7071] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\H3EK\\wiki\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=general:pursuer_pulser&do=edit
+[Wed Feb 28 10:54:56.915868 2024] [core:warn] [pid 13848:tid 380] AH00098: pid file C:/Users/bandd/Documents/H3EK/wiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 28 10:54:57.125900 2024] [mpm_winnt:notice] [pid 13848:tid 380] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Feb 28 10:54:57.125900 2024] [mpm_winnt:notice] [pid 13848:tid 380] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Feb 28 10:54:57.125900 2024] [core:notice] [pid 13848:tid 380] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/H3EK/wiki/server'
+[Wed Feb 28 10:54:57.128899 2024] [mpm_winnt:notice] [pid 13848:tid 380] AH00418: Parent: Created child process 17500
+[Wed Feb 28 10:54:57.636972 2024] [mpm_winnt:notice] [pid 17500:tid 380] AH00354: Child: Starting 24 worker threads.
+[Wed Feb 28 12:45:56.047498 2024] [php:warn] [pid 17500:tid 868] [client 127.0.0.1:11685] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\H3EK\\wiki\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=general:weapons
+[Fri Mar 01 09:43:27.769767 2024] [core:warn] [pid 8744:tid 384] AH00098: pid file C:/Users/bandd/Documents/H3EK/wiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 01 09:43:27.974819 2024] [mpm_winnt:notice] [pid 8744:tid 384] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Mar 01 09:43:27.974819 2024] [mpm_winnt:notice] [pid 8744:tid 384] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Mar 01 09:43:27.974819 2024] [core:notice] [pid 8744:tid 384] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/H3EK/wiki/server'
+[Fri Mar 01 09:43:27.977817 2024] [mpm_winnt:notice] [pid 8744:tid 384] AH00418: Parent: Created child process 7392
+[Fri Mar 01 09:43:28.652879 2024] [mpm_winnt:notice] [pid 7392:tid 352] AH00354: Child: Starting 24 worker threads.
+[Fri Mar 01 09:57:36.745122 2024] [core:warn] [pid 11532:tid 368] AH00098: pid file C:/Users/bandd/Documents/Halo Reclaimed/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 01 09:57:36.967356 2024] [mpm_winnt:notice] [pid 11532:tid 368] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Mar 01 09:57:36.967356 2024] [mpm_winnt:notice] [pid 11532:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Mar 01 09:57:36.967356 2024] [core:notice] [pid 11532:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Halo Reclaimed/server'
+[Fri Mar 01 09:57:36.971354 2024] [mpm_winnt:notice] [pid 11532:tid 368] AH00418: Parent: Created child process 19712
+[Fri Mar 01 09:57:37.482681 2024] [mpm_winnt:notice] [pid 19712:tid 364] AH00354: Child: Starting 24 worker threads.

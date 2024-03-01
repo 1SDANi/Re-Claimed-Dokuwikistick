@@ -1,0 +1,6 @@
+==== Charge ====
+----
+
+[[general: Plasma Pistol]]
+
+[[general: Constructor Beam]]

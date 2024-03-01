@@ -1,0 +1,7 @@
+[[general: Shotgun]]
+
+[[general: Energy Sword]]
+
+[[general: Gravity Hammer]]
+
+[[general: Defender Scorcher]]

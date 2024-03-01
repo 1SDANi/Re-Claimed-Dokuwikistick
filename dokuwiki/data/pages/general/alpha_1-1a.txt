@@ -1,0 +1,36 @@
+==== Alpha 1-1a ====
+----
+== Documentation ==
+----
+
+Document [[general: Formatting]]
+
+Document [[general: Philosophy]]
+
+Document [[ce: Autumn]] and all pages it links to, recursively
+
+----
+== Gameplay ==
+----
+
+Model the geometry for [[ce: Autumn]]
+
+Implement the BSP for [[ce: Autumn]]
+
+Implement [[general: Master Chief]]
+
+Implement [[general: Submachine Gun]]
+
+Implement [[general: Plasma Pistol]]
+
+Implement [[general: Fragmentation Grenade]]
+
+Implement [[general: Health Pack]]
+
+Implement [[general: Unggoy Minor]]
+
+----
+== Testing ==
+----
+
+Make sure everything is functional

@@ -1,0 +1,3 @@
+^ Stable Directed Energy Bolts ^ [[general: Damage Type]]: [[general: Plasma]] ^
+| Impact Damage: 20 | Knockback: High |
+| Speed: Medium | Size: Medium |

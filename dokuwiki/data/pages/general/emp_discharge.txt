@@ -1,0 +1,10 @@
+^ EMP Discharge ^ [[general: Shrapnel]] [[general: Damage Type]] ^
+| 0 Impact Damage | No Knockback |
+| Instant | Large |
+| Explosion Damage | EMP | Detonates in front of face |
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

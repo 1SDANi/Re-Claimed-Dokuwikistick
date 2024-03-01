@@ -1,0 +1,10 @@
+==== Pursuer Pulser ====
+----
+
+^ Role: [[general: Personal Defense]] ^ Projectile: [[general: Singing Nova]] ^ Firing Mode: [[general: Fully Automatic]] ^
+| Rounds per Second: 30 | Rounds per Shot: 1 | Pellets per Round: 1
+| Max Rounds: 45 | Rounds Regenerated per Second: 15 | Seconds until Empty: 3 |
+| Fuel Cell per Round: 0.5% | Rounds per Fuel Cell: 200 |
+| Damage per Second: 210 | Damage until Empty: 630 |
+| Minimum Error: 3 (4.5 while [[general: Dual Wielding]]) | Maximum Error: 4 (6 while [[general: Dual Wielding]]) |
+| Error Acceleration: 1 (0.5 while [[general: Dual Wielding]]) | Error Deceleration: 2 (4 while [[general: Dual Wielding]]) |

@@ -1,0 +1,7 @@
+[[general: Battle Rifle]]
+
+[[general: Fuel Rod Carbine]]
+
+[[general: Impaler]]
+
+[[general: Guardian Beam]]

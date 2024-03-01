@@ -1,0 +1,11 @@
+==== Constructor Welder ====
+----
+
+^ Role: [[general: Personal Handgun]] ^ Projectile: [[general: Breathing Nova]] ^ Firing Mode: [[general: Semi-Automatic]] ^
+| Rounds per Second: (Assuming 7 clicks per second) | Rounds per Shot: 1 | Pellets per Round: 1 |
+| Max Rounds: 10 | Rounds Regenerated per Second: 5 | Seconds until Empty: 5 |
+| Fuel Cell per Round: 2% (50% with [[general: Charge]]) | Rounds per Fuel Cell: 50|
+| Damage per Second: 42 | Damage until Empty: 210 |
+| Minimum Error: 0 | Maximum Error: 1 (1.5 while [[general: Dual Wielding]]) |
+| Error Acceleration: 1 (0.5 while [[general: Dual Wielding]]) | Error Deceleration: 2 (4 while [[general: Dual Wielding]]) |
+| [[general: Charge]]: 1.0 second |

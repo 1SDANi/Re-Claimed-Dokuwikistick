@@ -1,0 +1,7 @@
+[[general: Assault Rifle]]
+
+[[general: Shade Rifle]]
+
+[[general: Needler]]
+
+[[general: Aggressor Beam]]

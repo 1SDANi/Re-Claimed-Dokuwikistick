@@ -1,0 +1,12 @@
+==== Plasma Pistol ====
+^ [[general: Personal Handgun]] ^ [[general: Unstable Directed Energy Bolts]] ^[[general: Semi-Automatic]] ^
+| (Assuming 7 clicks per second) | 1 Round per Shot | 1 Pellet per Round |
+| 12% Heat per Round (100% with [[general: Charge]]) | 30 Cooling per Second | 1.86 Seconds to Overheat |
+| 1% Battery per Round (20% with [[general: Charge]]) | 100 Rounds per Battery (5 with [[general: Charge)]] |
+| 140 Damage per Second | 260 Damage per Overheat |
+| 5 [[general: Accuracy]] | 2 [[general: Stability]] | 0 [[general: Zoom]] |
+| [[general: Loud]] [[general: Volume]] |
+| 1.0 second [[general: Charge]] |
+
+^ Hand of Fate | [[general: Guided Directed Energy Bolts ]] | [[general: Heat Lift ]] | [[general: Smart Laser ]] |
+^ Skinner | [[general: Overclock]] | [[general: Bayonet]] | [[general: Safety Override]] |

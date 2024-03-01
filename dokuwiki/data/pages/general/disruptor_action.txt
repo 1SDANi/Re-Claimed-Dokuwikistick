@@ -1,0 +1,11 @@
+^ Disruptor Action ^
+| (Assuming 7 Rounds per second) |
+| 1.0 second [[general: Charge]] |
+| [[General: EMP Discharge]] with [[General: Charge]] |
+
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

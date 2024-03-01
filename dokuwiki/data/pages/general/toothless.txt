@@ -1,0 +1,10 @@
+^ Toothless ^
+| [[general: Bullet]] [[general: Melee]] [[general: Damage Type]] |
+| -1 [[general: Melee]] |
+| +1 [[general: Stability]] |
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

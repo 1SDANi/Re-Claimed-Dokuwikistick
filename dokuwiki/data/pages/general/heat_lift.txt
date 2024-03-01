@@ -1,0 +1,11 @@
+^ Overclock ^
+| 1% Battery per Second while using [[general: Charge]] |
+| +1 Stability |
+| 150% Cooling per Second |
+
+
+
+== See Also ==
+----
+
+[[General: Plasma Pistol]]

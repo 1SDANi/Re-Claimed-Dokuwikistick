@@ -1,0 +1,14 @@
+==== Sidekick ====
+----
+
+^ [[general: Personal Handgun]] ^ [[general: AP-Rounds]] ^ [[general: Fully Automatic]] ^
+| 10 Rounds per Second | 1 Rounds per Shot | 1 Pellets per Round |
+| 12 Rounds Reloaded | 1.2 Seconds until Empty |
+| 60 Max Rounds |
+| 150 Damage per Second | 180 Damage per Reload |
+| 4 [[general: Accuracy]] | 2 [[general: Stability]] | 0 [[general: Zoom]] |
+| [[general: Loud]] [[general: Volume]] |
+
+
+^ Magnum | [[general: HE-Rounds]] | [[general: Smart Laser]] | [[general: Semi-Auto Conversion]] |
+^ SOCOM | [[general: Smart Scope]] | [[general: Suppressor]] | [[general: Muzzle Brake]] |

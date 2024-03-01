@@ -1,0 +1,9 @@
+^ Safety Override ^
+| 200% Battery per Round |
+| 200% Cooling per Second |
+| 200% Overheat Recovery Threshold |
+
+== See Also ==
+----
+
+[[General: Plasma Pistol]]

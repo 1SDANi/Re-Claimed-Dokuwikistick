@@ -1,0 +1,7 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1708984528;s:8:"modified";i:1708984528;}s:11:"last_change";a:8:{s:4:"date";i:1708984528;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:19:"general:air_defense";s:4:"user";s:0:"";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:107;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:8:"relation";a:2:{s:10:"references";a:4:{s:19:"general:missile_pod";b:0;s:23:"general:fuel_rod_cannon";b:0;s:18:"general:emp_cannon";b:0;s:21:"general:monitor_laser";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:58:"Missile Pod
+
+ Fuel Rod Cannon
+
+ EMP Cannon
+
+ Monitor Laser";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1708984528;}s:11:"last_change";a:8:{s:4:"date";i:1708984528;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:19:"general:air_defense";s:4:"user";s:0:"";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:107;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

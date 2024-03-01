@@ -1,0 +1,7 @@
+==== Floodforce ====
+
+----
+
+100% damage: [[general: Light Armor]], [[general: Heavy Armor]], [[general: Energy Shield]], [[general: Loose Flesh]], [[general: Head]], [[general: Impenetrable]]
+
+0% damage: [[general: Floodflesh]]

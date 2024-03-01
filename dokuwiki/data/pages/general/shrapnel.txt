@@ -1,0 +1,21 @@
+==== Shrapnel ====
+
+----
+
+
+200% damage: [[general: Head]]
+
+125% damage: [[general: Heavy Armor]]
+
+100% damage: [[general: Light Armor]], [[general: Energy Shield]], [[general: Floodflesh]]
+
+75% damage: [[general: Loose Flesh]]
+
+25% damage: [[general: Impenetrable]]
+
+== See Also ==
+----
+
+[[General: HE-Rounds]]
+
+[[General: AP-Spikes]]

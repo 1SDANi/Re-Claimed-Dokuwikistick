@@ -1,0 +1,16 @@
+==== Armor Type ====
+----
+
+[[general: Light Armor]]
+
+[[general: Heavy Armor]]
+
+[[general: Energy Shield]]
+
+[[general: Loose Flesh]]
+
+[[general: Head]]
+
+[[general: Floodflesh]]
+
+[[general: Impenetrable]]

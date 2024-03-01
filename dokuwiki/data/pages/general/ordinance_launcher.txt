@@ -1,0 +1,7 @@
+[[general: Rocket Launcher]]
+
+[[general: Fuel Rod Gun]]
+
+[[general: Brute Shot]]
+
+[[general: Enforcer Cannon]]

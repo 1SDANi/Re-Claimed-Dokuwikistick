@@ -1,0 +1,15 @@
+==== Mauler ====
+----
+
+^ [[general: Personal Handgun]] ^ [[general: AP-Spikes]] ^ [[general: Semi-Automatic]] ^
+| 1 Round per Second | 1 Round per Shot | 9 Pellets per Round |
+| 5 Rounds Reloaded | 5 Seconds until Empty |
+| 25 Max Rounds |
+| 75 Damage per Second | 375 Damage per Reload |
+| 5 [[general: Accuracy]] | 2 [[general: Stability]] | 0 [[general: Zoom]] |
+| [[general: Loud]] [[general: Volume]] |
+| Spread: 2 | Error Disabled |
+| [[general: Shrapnel]] [[general: Melee]] | 2 [[general: Melee]] ||
+
+^ Mangler | [[general: Mangler Barrel]] | [[general: Mangler Action]] | [[general: Blast Propellant]] |
+^ Disruptor | [[general: Disruptor Barrel]] | [[general: Disruptor Action]] | [[general: Toothless]] |

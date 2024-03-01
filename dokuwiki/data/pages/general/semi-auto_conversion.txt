@@ -1,0 +1,8 @@
+^ Semi-Auto Conversion ^
+| [[general: Semi-Automatic]] |
+| +2 [[general: Stability]] |
+
+== See Also ==
+----
+
+[[General: Sidekick]]

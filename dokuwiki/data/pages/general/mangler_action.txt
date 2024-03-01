@@ -1,0 +1,11 @@
+^ Mangler Action ^
+| 1.0 second [[general: Charge]] |
+| 4 Pellets per Round with [[general: Charge]] |
+| Error Disabled with [[general: Charge]] |
+
+
+
+== See Also ==
+----
+
+[[General: Mauler]]

@@ -1,0 +1,7 @@
+[[general: Fragmentation Grenade]]
+
+[[general: Plasma Grenade]]
+
+[[general: Shot Grenade]]
+
+[[general: Nova Grenade]]

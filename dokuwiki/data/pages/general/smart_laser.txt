@@ -1,0 +1,11 @@
+^ Smart Laser ^
+| Cannot [[general: Duel Wield]] |
+| +1 [[general: Zoom]] |
+| +1 [[general: Accuracy]] |
+
+== See Also ==
+----
+
+[[General: Sidekick]]
+
+[[General: Plasma Pistol]]

@@ -1,0 +1,11 @@
+==== Damage Table ====
+----
+
+^ [[general: Light Armor]] ^ [[general: Heavy Armor]] ^ [[general: Energy Shield]] ^ [[general: Loose Flesh]] ^ [[general: Head]] ^ [[general: Floodflesh]] ^ [[general: Impenetrable]]
+| [[general: Damage]] | 150% | 75% | 75% | 100% | 200% | 75% | 18.75% |
+| [[general: Bullet]] |
+| [[general: Plasma]] |
+| [[general: Shrapnel]] |
+| [[general: Nova]] |
+| [[general: Power]] |
+| [[general: Floodforce]] |

@@ -1,0 +1,7 @@
+[[general: Flamethrower]]
+
+[[general: Shade Cannon]]
+
+[[general: Spike Cannon]]
+
+[[general: Steward Pulser]]
