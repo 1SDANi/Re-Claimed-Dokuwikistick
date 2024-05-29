@@ -1,0 +1,11 @@
+^ Repair Module ^
+| [[general: Reparative Nova]] with [[general: Charge]] |
+| 100% Fuel Cell with [[general: Charge]] |
+| -5 Max Rounds |
+
+
+
+== See Also ==
+----
+
+[[General: Constructor Welder]]

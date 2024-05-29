@@ -1,0 +1,13 @@
+==== Sangheili ====
+----
+
+[[re_claimed: character: team: sangheili: Covenant Clergy]]
+
+[[re_claimed: character: team: sangheili: Covenant Separatists]]
+
+[[re_claimed: character: team: sangheili: Swords of Sanghelios]]
+
+== See Also ==
+----
+
+[[re_claimed: character: Team]]

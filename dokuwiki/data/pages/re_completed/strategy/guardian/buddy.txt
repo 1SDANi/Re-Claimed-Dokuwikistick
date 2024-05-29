@@ -1,0 +1,9 @@
+==== Buddy ====
+----
+
+Protect the strongest ally
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

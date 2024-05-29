@@ -1,0 +1,11 @@
+==== Warp Volley ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Teleports blasts of gravity to attack the target from all sides
+
+== See Also ==
+----
+
+[[re_completed: limits: Gravity Sniper]]

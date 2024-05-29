@@ -1,0 +1,11 @@
+==== LAD ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: LD]] | [[controls: playstation: LD]] | [[controls: switch: LD]] |
+
+== See Also ==
+----
+[[controls: Inputs]]
+
+[[re_claimed: actions: Move]]

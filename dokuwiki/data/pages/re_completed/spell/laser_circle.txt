@@ -1,0 +1,11 @@
+==== Laser Circle ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Creates a circle of lasers horizontally around the target that fire inwards after a set time
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

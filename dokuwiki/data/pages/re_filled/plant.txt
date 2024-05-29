@@ -1,0 +1,9 @@
+[[re_filled: plant: Seed]]
+
+[[re_filled: plant: Nut]]
+
+[[re_filled: plant: Herb]]
+
+[[re_filled: plant: Bush]]
+
+[[re_filled: plant: Tree]]

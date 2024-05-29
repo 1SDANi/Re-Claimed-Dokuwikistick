@@ -1,0 +1,50 @@
+^ Nephilim Style ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Continuous Slash]] | [[re_completed: combo: Inverted Art]] | [[re_completed: combo: Dive Swipe]] | [[re_completed: combo: Dive Stab]] |
+^ Towards Combo | [[re_completed: combo: Dash Swing]] | [[re_completed: combo: Cross Combo]] | [[re_completed: combo: Spiral Thrust]] | [[re_completed: combo: Aerial Cross]] |
+^ Side Combo | [[re_completed: combo: Spinning Art]] | [[re_completed: combo: Maelstrom]] | [[re_completed: combo: Spiral Spin]] | [[re_completed: combo: Spinning Rush]] |
+^ Away Combo | [[re_completed: combo: Bold Stab]] | [[re_completed: combo: [[re_completed: combo: Lunge Slash]] | [[re_completed: combo: Air Kick]] | [[re_completed: combo: Triple Edge]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Weapon Charge]]  |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Run]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Dark Hover]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Double Jump]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Glide]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Sliding Block]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Scourge]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Sonic Impact]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Helm Split]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Flip Step]] |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Dark Roll]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Air Step]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Dark Roll]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Marksmanchain]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Barrage]] |
+^ [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Feint Stab]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Bold Lunge]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Dark Aura]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Machinegunblade]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Backflip Kick]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Frontflip Grapple]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Breakdance Leap]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Uppercut Jump]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Sliding Crescent]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Dodge Kick]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Chaos Blade]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Handle Pistol]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Sliding Crescent]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Dodge Kick]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Chaos Blade]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Handle Pistol]] |
+^ [[re_completed: action: Guard]] Combo | [[re_completed: combo: Dark Aura]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Quick Step]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Dark Barrier]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Handle Pistol]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Dark Aura]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Get-Up Kick]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Dark Barrier]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Scourge]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Shadow Strike]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Scattertooth]] |

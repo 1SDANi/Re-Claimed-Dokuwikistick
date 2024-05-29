@@ -1,0 +1,14 @@
+==== Sidekick ====
+----
+
+^ [[re_claimed: weapon: Personal Handgun]] ^ [[re_claimed: weapon: projectile: AP-Rounds]] ^ [[re_claimed: weapon: Fully Automatic]] ^
+| 10 Rounds per Second | 1 Rounds per Shot | 1 Pellets per Round |
+| 12 Rounds Reloaded | 1.2 Seconds until Empty |
+| 60 Max Rounds |
+| 150 Damage per Second | 180 Damage per Reload |
+| 4 [[re_claimed: Accuracy]] | 2 [[re_claimed: Stability]] | 0 [[re_claimed: Zoom]] |
+| [[re_claimed: volume: Loud]] [[re_claimed: Volume]] |
+
+
+^ Magnum | [[re_claimed: weapon: projectile: HE-Rounds]] | [[re_claimed: weapon: mod: Smart Laser]] | [[re_claimed: weapon: mod: Semi-Auto Conversion]] |
+^ SOCOM | [[re_claimed: weapon: mod: Smart Camera]] | [[re_claimed: weapon: mod: Suppressor]] | [[re_claimed: weapon: mod: Muzzle Brake]] |

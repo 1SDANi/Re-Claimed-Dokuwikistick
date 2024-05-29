@@ -1,0 +1,9 @@
+==== Assassin ====
+----
+
+Fight the enemy with the lowest health
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

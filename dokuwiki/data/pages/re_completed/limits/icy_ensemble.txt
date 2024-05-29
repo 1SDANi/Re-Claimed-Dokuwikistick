@@ -1,0 +1,17 @@
+==== Icy Ensemble ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Summons four blocks of ice that rotate around the user
+
+The user can [[re_completed: action: React]] using [[re_completed: reaction: Frozen Accessory]] and a random block of ice
+
+While no ice blocks are left, the user can [[re_completed: action: React]] using [[re_completed: reaction: Frozen Display]]
+
+Enemies can [[re_completed: action: React]] using [[re_completed: reaction: Turnabout]] while near the user
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

@@ -1,0 +1,11 @@
+==== Vain Assault ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Fires a blast of energy from each of the user's hands at nearby enemies
+
+== See Also ==
+----
+
+[[re_completed: limits: All-Vanity]]

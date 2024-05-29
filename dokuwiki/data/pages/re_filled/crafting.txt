@@ -1,0 +1,1 @@
+[[re_filled: Terrain: Fire]]: [[re_filled: object: Stick]] + [[re_filled: object: Sawdust]] on [[re_filled: plant: Tree Stump]]

@@ -1,8 +1,0 @@
-^ Unstable Directed Energy Bolts ^ [[general: Plasma]] [[general: Damage Type]] ^
-| 20 Impact Damage (50 with [[general: Charge]]) | Low Knockback |
-| Slow with [[general: Charge]] | Small (Medium with [[general: Charge]]) |
-| EMP with [[general: Charge]] |
-
-== See also ==
-----
-[[general: Plasma Pistol]]

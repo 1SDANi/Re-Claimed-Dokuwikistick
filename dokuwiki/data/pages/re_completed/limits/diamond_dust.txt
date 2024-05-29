@@ -1,0 +1,15 @@
+==== Diamond Dust ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Summons a hailstorm that damages enemies over time
+
+Applies a status to damaged enemies that prevents them from using any [[re_completed: Action]], except [[re_completed: action: React]]
+
+Can [[re_completed: action: React]] to the status using [[re_completed: reaction: Thaw]]
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

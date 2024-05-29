@@ -1,0 +1,15 @@
+==== Bunnycomb ====
+----
+
+Animal: Bunny
+
+Sweet: Honeycomb
+
+Ability: Ability: Can sniff out known [[re_filled: Plant | Plants]]
+
+Befriend: Fed one [[re_filled: plant: herb: Carrot]]
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

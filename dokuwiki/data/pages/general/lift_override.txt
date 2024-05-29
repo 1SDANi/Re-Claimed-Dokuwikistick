@@ -1,0 +1,11 @@
+^ Lift Override ^
+| 1% Battery per Round |
+| +1 Stability |
+| 150% Cooling per Second |
+
+
+
+== See Also ==
+----
+
+[[General: Plasma Rifle]]

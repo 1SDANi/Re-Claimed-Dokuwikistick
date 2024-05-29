@@ -1,0 +1,11 @@
+==== Industry ====
+----
+
+[[re_risen: Labour]]
+
+When generic Industry is produced on a [[re_risen: Tile]], its [[re_risen: Career]] value is randomly selected from among existing [[re_risen: Demand]] on that Tile
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

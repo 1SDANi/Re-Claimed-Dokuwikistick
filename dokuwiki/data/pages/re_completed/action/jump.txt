@@ -1,0 +1,7 @@
+^ Jump ^ [[re_completed: actions: Prone]] ^ [[re_completed: actions: Crouch]] ^ [[re_completed: actions: Stand]] ^ [[re_completed: actions: Walk]] ^ [[re_completed: actions: Run]] ^ [[re_completed: actions: Midair]] |
+^ [[controls: inputs: Tap]] | [[re_completed: actions: Stand]] | [[re_completed: actions: Crouch Jump]] | [[re_completed: actions: Short Jump]] | [[re_completed: actions: Short Jump]] | [[re_completed: actions: Short Jump]] | [[re_completed: actions: Doubleflight]] |
+^ [[controls: inputs: Hold]] | [[re_completed: actions: Crouch Jump]] | [[re_completed: actions: Short Jump]] | [[re_completed: actions: High Jump]] | [[re_completed: actions: High Jump]] | [[re_completed: actions: High Jump]] | [[re_completed: actions: Glide]] |
+== See Also ==
+----
+
+[[re_completed: Action]]

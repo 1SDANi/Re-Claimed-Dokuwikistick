@@ -1,0 +1,9 @@
+==== Sorcerer ====
+----
+
+Generate mana using [[re_completed: action: Focus]]
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

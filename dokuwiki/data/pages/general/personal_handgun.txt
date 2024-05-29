@@ -1,5 +1,0 @@
-==== Personal Handgun ====
-----
-
-^ [[general: UNSC]] ^ [[general: Sangheili]] ^ [[general: Jiralhanae]] ^ [[general: Sentinel]] ^
-| [[general: Sidekick]] | [[general: Plasma Pistol]] | [[general: Mauler]] | [[general: Constructor Beam]] |

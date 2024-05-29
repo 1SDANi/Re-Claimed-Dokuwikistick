@@ -1,0 +1,11 @@
+==== Frozen Display ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Ice]]
+
+Summons a giant iceberg from below the target
+
+== See Also ==
+----
+
+[[re_completed: limits: Icy Ensemble]]

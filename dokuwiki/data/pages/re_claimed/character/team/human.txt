@@ -1,0 +1,13 @@
+==== Human ====
+----
+
+[[re_claimed: character: team: human: UNSC]]
+
+[[re_claimed: character: team: human: Insurrectionists]]
+
+[[re_claimed: character: team: human: The Assembly]]
+
+== See Also ==
+----
+
+[[re_claimed: character: Team]]

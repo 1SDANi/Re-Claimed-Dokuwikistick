@@ -1,0 +1,15 @@
+==== Raisant ====
+----
+
+Animal: Ant
+
+Sweet: Raisin
+
+Ability: Can eat [[re_filled: object: Sticks]], producing [[re_filled: object: Sawdust]]
+
+Befriend: Fed [[re_filled: object: Honey]]
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

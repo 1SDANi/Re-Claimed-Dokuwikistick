@@ -1,0 +1,15 @@
+==== Power ====
+
+----
+
+
+400% damage: [[re_claimed: armor_type: Impenetrable]]
+
+100% damage: [[re_claimed: armor_type: Light Armor]], [[re_claimed: armor_type: Heavy Armor]], [[re_claimed: armor_type: Energy Shield]], [[re_claimed: armor_type: Loose Flesh]], [[re_claimed: armor_type: Head]], [[re_claimed: armor_type: Floodflesh]]
+
+== See also ==
+----
+
+[[re_claimed: Damage Type]]
+
+[[re_claimed: Damage Table]]

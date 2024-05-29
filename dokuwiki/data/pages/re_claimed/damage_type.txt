@@ -1,0 +1,22 @@
+==== Damage Type ====
+
+----
+
+
+[[re_claimed: damage_type: Bullet]]
+
+[[re_claimed: damage_type: Plasma]]
+
+[[re_claimed: damage_type: Shrapnel]]
+
+[[re_claimed: damage_type: Nova]]
+
+[[re_claimed: damage_type: Power]]
+
+[[re_claimed: damage_type: Floodforce]]
+
+
+== See also ==
+----
+
+[[re_claimed: Damage Table]]

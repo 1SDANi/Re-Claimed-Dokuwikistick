@@ -1,0 +1,9 @@
+==== Land ====
+----
+
+[[re_risen: tile: land: Landmark]]
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

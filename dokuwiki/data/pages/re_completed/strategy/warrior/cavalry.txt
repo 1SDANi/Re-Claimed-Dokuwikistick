@@ -1,0 +1,9 @@
+==== Cavalry ====
+----
+
+Fight the enemy other enemies are relying on most
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

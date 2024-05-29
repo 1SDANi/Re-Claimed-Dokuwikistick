@@ -1,0 +1,13 @@
+==== Aim ====
+----
+
+Increases [[re_claimed: character: stats: Accuracy]]
+
+Increases [[re_claimed: character: stats: Stability]]
+
+Enables [[re_claimed: character: stats: First Person Mode]]
+
+== See Also ==
+----
+
+[[re_claimed: actions: Look]]

@@ -1,0 +1,95 @@
+^ Samurai Style ^
+
+^ Solo Stance ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Swing and Stab]] | [[re_completed: combo: Dancing Flurry]] | [[re_completed: combo: Thrust and Slash]] | [[re_completed: combo: Hurricane Spin]] |
+^ Towards Combo | [[re_completed: combo: Slap and Slash]] | [[re_completed: combo: Firetooth Raid]] | [[re_completed: combo: Rush and Flip]] | [[re_completed: combo: Flurry Rush]] |
+^ Side Combo | [[re_completed: combo: Slash and Swing]] | [[re_completed: combo: Whirlwind Draw]] | [[re_completed: combo: Horizontal Slash]] | [[re_completed: combo: Aerial Finish]] |
+^ Away Combo | [[re_completed: combo: Stab and Slap]] | [[re_completed: combo: Feint and Dash]] | [[re_completed: combo: Aerial Grapple]] | [[re_completed: combo: Corridor Grapple]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Dual Stance]]  |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Run]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Fly]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Hurricane Dive]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Glide]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Counterguard]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Finisher]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Counterguard]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Finisher]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Reversal]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Reversal]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Chakram Handle]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Upper Slash]] |
+^ [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Finisher]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Dodge Slash]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Finishing Leap]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Claymore Blade]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Dash Flip]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Dash Spinflip]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Dash Slash]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Dash Swing]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Dash Flip]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Corridor Kick]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Spark Surge]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Emblemboard]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Dash Flip]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Corridor Kick]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Spark Surge]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Emblemboard]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Payback Raid]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Hurricane Dive]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Finisher]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Saw Raid]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Explosion]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Claymore Blade]] |
+
+^ Dual Stance ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Slap and X]] | [[re_completed: combo: Dancing Flurry]] | [[re_completed: combo: Thrust and Slash]] | [[re_completed: combo: Hurricane Spin]] |
+^ Towards Combo | [[re_completed: combo: Dual Cut]] | [[re_completed: combo: Firetooth Raid]] | [[re_completed: combo: Rush and Flip]] | [[re_completed: combo: Flurry Rush]] |
+^ Side Combo | [[re_completed: combo: Dual Spin]] | [[re_completed: combo: Whirlwind Draw]] | [[re_completed: combo: Dual Slash]] | [[re_completed: combo: Aerial Finish]] |
+^ Away Combo | [[re_completed: combo: Dual Feint]] | [[re_completed: combo: Feint and Dash]] | [[re_completed: combo: Aerial Grapple]] | [[re_completed: combo: Corridor Grapple]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Solo Stance]]  |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Light Dash]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Fly]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Hurricane Dive]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Glide]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Blitz Stab]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Finisher]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Blitz Stab]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Finisher]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Reversal]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Aerial Reversal]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Chakram Handle]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Dual Upper]] |
+^ [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Finisher]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Slash and Spin]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Finishing Leap]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Claymore Blade]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Dual Slap]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Dual Spinflip]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Dual Slash]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Dual Swing]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Duel Attack]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Raid and Corridor]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Saw Raid]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Emblemboard]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Teleport Slash]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Raid and Corridor]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Saw Raid]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Emblemboard]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Payback Raid]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Hurricane Dive]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Finisher]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Saw Raid]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Explosion]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Claymore Blade]] |

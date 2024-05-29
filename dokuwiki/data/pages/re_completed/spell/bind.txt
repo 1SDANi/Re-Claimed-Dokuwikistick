@@ -1,0 +1,15 @@
+==== Bind ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Applies [[re_completed: status: Bound]] to the target
+
+Does not progress the combo
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]
+
+[[re_completed: characters: Xigbar]]

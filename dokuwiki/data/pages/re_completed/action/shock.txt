@@ -1,0 +1,11 @@
+==== Shock ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Electrocutes the user
+
+== See Also ==
+----
+
+[[re_completed: status: Electrified]]

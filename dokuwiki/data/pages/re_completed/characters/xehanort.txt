@@ -1,0 +1,10 @@
+==== Xehanort ====
+----
+
+^ Keyblade | [[re_completed: item: Thirteenth Hour]] |
+^ Keychain | [[re_completed: item: Void Gear]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

@@ -9,7 +9,7 @@
 | 5 [[general: Accuracy]] | 2 [[general: Stability]] | 0 [[general: Zoom]] |
 | [[general: Loud]] [[general: Volume]] |
 | Spread: 2 | Error Disabled |
-| [[general: Shrapnel]] [[general: Melee]] | 2 [[general: Melee]] ||
+| [[general: Shrapnel]] [[general: Melee]] | 2 [[general: Melee]] |
 
-^ Mangler | [[general: Mangler Barrel]] | [[general: Mangler Action]] | [[general: Blast Propellant]] |
-^ Disruptor | [[general: Disruptor Barrel]] | [[general: Disruptor Action]] | [[general: Toothless]] |
+^ Mangler | [[general: Mangler Conversion]] | [[general: Mangler Action]] | [[general: Blast Propellant]] |
+^ Disruptor | [[general: Disruptor Conversion]] | [[general: Disruptor Action]] | [[general: Toothless]] |

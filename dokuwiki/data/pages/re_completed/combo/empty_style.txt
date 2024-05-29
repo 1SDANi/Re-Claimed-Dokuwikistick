@@ -1,0 +1,50 @@
+^ Empty Style ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Slash and Spin]] | [[re_completed: combo: Dance and Stab]] | [[re_completed: combo: Slash and Spin]] | [[re_completed: combo: Dance and Stab]] |
+^ Towards Combo | [[re_completed: combo: Mirage Flip]] | [[re_completed: combo: Dance Rush]] | [[re_completed: combo: Mirage Flip]] | [[re_completed: combo: Dance Rush]] |
+^ Side Combo | [[re_completed: combo: Counter Spin]] | [[re_completed: combo: Rising Warp Spin]] | [[re_completed: combo: Counter Spin]] | [[re_completed: combo: Rising Warp Spin]] |
+^ Away Combo | [[re_completed: combo: Spin and Inverse]] | [[re_completed: combo: X Flip]] | [[re_completed: combo: Spin and Inverse]] | [[re_completed: combo: X Flip]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Trance]]  |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Mirage Dash]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Mirage Warp]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Rising Spin]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Mirage Dash]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Mirage Kick]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Spark Wall]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Mirage Kick]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Disarm]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Dive Kick]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Twilight Roll]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Dive Kick]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Twilight Roll]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Keyblade Arrowgun Shot]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Warp Kick]] |
+^ [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Warp Slash]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Warp Flip]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Thorn Beam]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Shield Bash]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Rising Upper]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Rising Spin]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Rising Kick]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Rising Flip]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Flying Stab]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Skyward Throw]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Spark Bomb]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Claymore Slam]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Flying Stab]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Skyward Throw]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Spark Bomb]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Lance Thrust]] |
+^ [[re_completed: action: Guard]] Combo | [[re_completed: combo: Spark Bomb]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Twilight Roll]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Thorn Beam]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Card Swipe]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Spark Bomb]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Handspring]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Spark Wall]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Thorn Beam]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Twilight Roll]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Sitar Spin]] |

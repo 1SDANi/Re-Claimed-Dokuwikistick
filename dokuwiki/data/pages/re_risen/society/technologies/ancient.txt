@@ -1,0 +1,25 @@
+==== Ancient====
+----
+
+Start Year: 10,000 BCE
+
+End Year: 5,000 BCE
+
+[[re_risen: society: technologies: ancient: Mining]]
+
+[[re_risen: society: technologies: ancient: Leverage]]
+
+[[re_risen: society: technologies: ancient: Pastorialism]]
+
+[[re_risen: society: technologies: ancient: Pottery]]
+
+[[re_risen: society: technologies: ancient: Agriculture]]
+
+[[re_risen: society: technologies: ancient: Pomology]]
+
+[[re_risen: society: technologies: ancient: Mythology]]
+
+== See Also ==
+----
+
+[[re_risen: society: Technologies]]

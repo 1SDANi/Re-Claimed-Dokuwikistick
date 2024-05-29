@@ -1,0 +1,15 @@
+==== Bound ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Prevents the afflicted from using any [[re_completed: Action]]
+
+Status is cured when the combo ends
+
+== See Also ==
+----
+
+[[re_completed: spell: Bind]]
+
+[[re_completed: limits: Invitation to Nothingness]]

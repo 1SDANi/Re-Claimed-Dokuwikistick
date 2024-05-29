@@ -1,0 +1,16 @@
+==== Mining ====
+----
+
+Landmark: [[re_risen: tile: land: landmark: Mine]]
+
+Landmark: [[re_risen: tile: land: landmark: Mason]]
+
+Landmark: [[re_risen: tile: land: landmark: Well]]
+
+Wonder: [[re_risen: tile: land: landmark: wonders: Sacred Spring]]
+
+
+== See Also ==
+----
+
+[[re_risen: society: technologies: Ancient]]

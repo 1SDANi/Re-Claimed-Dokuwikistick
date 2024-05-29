@@ -1,0 +1,15 @@
+==== Sweetooth ====
+----
+
+Animal: Beaver
+
+Sweet: Sweet
+
+Ability: Can break [[re_filled: plant: tree: Branches]], producing [[re_filled: object: Stick | Sticks]]
+
+Befriend: Fed three Nuts
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

@@ -1,0 +1,11 @@
+==== Ice Coat ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Elongates the reach of the user's weapon by extending it using ice
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

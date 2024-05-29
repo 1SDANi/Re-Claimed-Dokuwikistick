@@ -1,0 +1,13 @@
+==== Frozen ====
+----
+
+Prevents the afflicted from using any [[re_completed: Action]], except [[re_completed: action: React]]
+
+Can [[re_completed: action: React]] while afflicted using [[re_completed: reaction: Melt]]
+
+== See Also ==
+----
+
+[[re_completed: spell: Freeze]]
+
+[[re_completed: limits: Absolute Zero]]

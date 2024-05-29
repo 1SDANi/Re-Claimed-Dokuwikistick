@@ -1,0 +1,11 @@
+^ Fighter Menu |
+^ [[re_claimed: Melee]] |
+^ [[re_claimed: Ability]] |
+^ [[re_claimed: Equipment]] |
+^ [[re_claimed: Reload]] |
+
+^ Leader Menu |
+^ [[re_claimed: Interact]] |
+^ [[re_claimed: Callout]] |
+^ [[re_claimed: Radio]] |
+^ [[re_claimed: Visibility]] |

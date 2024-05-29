@@ -1,0 +1,11 @@
+==== Rescue ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Attacks the target, ending [[re_completed: limits: Invitation to Nothingness]]
+
+== See Also ==
+----
+
+[[re_completed: limits: Invitation to Nothingness]]

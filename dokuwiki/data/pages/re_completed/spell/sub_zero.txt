@@ -1,0 +1,13 @@
+==== Sub Zero ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Freezes the ground, tripping enemies who run or take knockback while standing on it
+
+Can [[re_completed: action: React]] to frozen ground using [[re_completed: reaction: Skate]]
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

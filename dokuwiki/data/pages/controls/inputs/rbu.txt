@@ -1,0 +1,9 @@
+==== RBU ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: RB]] | [[controls: playstation: R1]] | [[controls: switch: RB]] |
+
+== See Also ==
+----
+[[controls: Inputs]]

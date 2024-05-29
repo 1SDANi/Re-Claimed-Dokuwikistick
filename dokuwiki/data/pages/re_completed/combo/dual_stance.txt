@@ -1,0 +1,11 @@
+==== Dual Stance ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Changes the user's moveset and they gain mana from dealing damage but they can't passively gain mana
+
+== See Also ==
+----
+
+[[re_completed: combo: Amoeba Style]]

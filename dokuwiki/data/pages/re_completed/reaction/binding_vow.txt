@@ -1,0 +1,11 @@
+==== Binding Vow ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Deals damage and applies [[re_completed: status: Bound]] to the original target of [[re_completed: limits: Invitation to Nothingness]]
+
+== See Also ==
+----
+
+[[re_completed: limits: Invitation to Nothingness]]

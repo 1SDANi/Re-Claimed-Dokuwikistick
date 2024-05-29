@@ -1,0 +1,11 @@
+==== Air Buster ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Rides a gust of wind towards an opponent and uses the wind to launch the target skyward
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

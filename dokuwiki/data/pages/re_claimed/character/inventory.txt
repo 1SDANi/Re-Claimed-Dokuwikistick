@@ -1,0 +1,28 @@
+==== Inventory====
+----
+
+[[re_claimed: character: inventory: Primary]] [[re_claimed: character: inventory: Sling]]
+
+[[re_claimed: character: inventory: Secondary]] [[re_claimed: character: inventory: Sling]]
+
+[[re_claimed: character: inventory: Primary]] [[re_claimed: character: inventory: Holster]]
+
+[[re_claimed: character: inventory: Secondary]] [[re_claimed: character: inventory: Holster]]
+
+[[re_claimed: weapon: hand_grenade: Frag Grenade]] [[re_claimed: character: inventory: Pouch]]
+
+[[re_claimed: weapon: hand_grenade: Plasma Grenade]] [[re_claimed: character: inventory: Pouch]]
+
+[[re_claimed: weapon: hand_grenade: Blast Grenade]] [[re_claimed: character: inventory: Pouch]]
+
+[[re_claimed: weapon: hand_grenade: Nova Grenade]] [[re_claimed: character: inventory: Pouch]]
+
+[[re_claimed: weapon: Equipment]] [[re_claimed: character: inventory: Bag]]
+
+[[re_claimed: weapon: Armor Ability]]
+
+
+== See Also ==
+----
+
+[[re_claimed: Character]]

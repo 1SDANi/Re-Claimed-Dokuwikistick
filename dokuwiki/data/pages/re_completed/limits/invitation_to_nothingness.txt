@@ -1,0 +1,17 @@
+==== Invitation to Nothingness ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Summons a clone of the user and applies [[re_completed: status: Bound]] and [[re_completed: status: Electrified]] to the original target
+
+The user cannot move and cannot use any [[re_completed: Action]], except [[re_completed: Action: React]]
+
+The user can [[re_completed: Action: React]] using [[re_completed: reaction: Binding Vow]]
+
+Enemies can [[re_completed: Action: React]] using [[re_completed: reaction: Rescue]] while close to the user
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

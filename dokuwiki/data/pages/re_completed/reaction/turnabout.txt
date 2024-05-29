@@ -1,0 +1,15 @@
+==== Turnabout ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Smacks the target into a block of ice shattering it and dealing [[re_completed: element: Ice]] damage
+
+Can [[re_completed: action: React]] using [[re_completed: reaction: Frozen Accessory]] for each ice block that is left
+
+Ends [[re_completed: limits: Icy Ensemble]] once no more ice blocks are left
+
+== See Also ==
+----
+
+[[re_completed: limits: Icy Ensemble]]

@@ -1,0 +1,50 @@
+^ Freelance Style ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Pro Swipe]] | [[re_completed: combo: Heavy Swipe]] | [[re_completed: combo: Pro Swipe]] | [[re_completed: combo: Heavy Swipe]] |
+^ Towards Combo | [[re_completed: combo: Strike Raid]] | [[re_completed: combo: Flurry Rush]] | [[re_completed: combo: Strike Raid]] | [[re_completed: combo: Flurry Rush]] |
+^ Side Combo | [[re_completed: combo: Pro Slash]] | [[re_completed: combo: Heavy Slash]] | [[re_completed: combo: Pro Slash]] | [[re_completed: combo: Heavy Slash]] |
+^ Away Combo | [[re_completed: combo: Pro Stab]] | [[re_completed: combo: Heavy Stab]] | [[re_completed: combo: Pro Stab]] | [[re_completed: combo: Heavy Stab]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Sheathed Stance]]  |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Run]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Fly]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Air Walk]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Glide]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Pro Parry]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Pro Guard]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Ground Slam]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Air Guard]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Dark Roll]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Dark Roll]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Whirlwind Draw]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Charging Parry]] |
+^ [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Charging Swipe]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Charging Slash]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Heavenly Vector]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Firetooth]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Heavy Swipe]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Flurry Rush]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Heavy Slash]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Heavy Stab]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Charging Stab]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: X Run]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Vector Roll]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Emblemboard]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Charging Stab]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: X Fly]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Vector Roll]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Emblemboard]] |
+^ [[re_completed: action: Guard]] Combo | [[re_completed: combo: Ground Slam]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Countergrapple]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Ripple Drive]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Claymore Slam]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Ground Slam]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Charging Parry]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Pro Parry]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Ripple Drive]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Countergrapple]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Claymore Slam]] |

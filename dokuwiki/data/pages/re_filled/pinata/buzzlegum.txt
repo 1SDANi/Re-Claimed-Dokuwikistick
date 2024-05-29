@@ -1,0 +1,15 @@
+==== Buzzlegum ====
+----
+
+Animal: Bumblebee
+
+Sweet: Gum
+
+Ability: Can pollinate [[re_filled: plant: Fruit]], producing [[re_filled: object: Honey]]
+
+Befriend: Pollinated 3 [[re_filled: Flower | Flowers]]
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

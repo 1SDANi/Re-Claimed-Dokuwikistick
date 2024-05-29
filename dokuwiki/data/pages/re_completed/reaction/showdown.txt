@@ -1,0 +1,13 @@
+==== Showdown ====
+----
+
+Turns the Command Menus of the user and the target into a roulette of three [[re_completed: action: Fumble]] and one [[re_completed: action: Quickdraw]] 
+
+Teleports to a new sniping location
+
+== See Also ==
+----
+
+[[re_completed: limits: Gravity Sniper]]
+
+[[re_completed: limits: Ultimate Sniper]]

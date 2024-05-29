@@ -1,0 +1,9 @@
+^ Cleaning Module ^
+| [[general: Cleansing Nova]] |
+| -15 Max Rounds |
+| -1 [[general: Accuracy]] |
+
+== See Also ==
+----
+
+[[General: Pursuer Pulser]]

@@ -1,0 +1,6 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1709332683;s:8:"modified";i:1709413984;}s:11:"last_change";a:8:{s:4:"date";i:1709413984;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:23:"general:reparative_nova";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:8:"relation";a:2:{s:10:"references";a:5:{s:12:"general:nova";b:1;s:19:"general:damage_type";b:1;s:14:"general:charge";b:1;s:18:"general:reparation";b:0;s:21:"general:repair_module";b:1;}s:10:"firstimage";s:0:"";}s:5:"title";s:8:"See Also";s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:255:"Breathing Nova   Nova  Damage Type  5 Impact Damage (0 with  Charge)  No Knockback  Instant Speed (None with  Charge) Small (Medium with  Charge)  1 burn damage over 5 seconds without  Charge   Reparation with  Charge 
+See Also
+
+----------
+
+ Repair Module";}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1709332683;s:8:"modified";i:1709413984;}s:11:"last_change";a:8:{s:4:"date";i:1709413984;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:23:"general:reparative_nova";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

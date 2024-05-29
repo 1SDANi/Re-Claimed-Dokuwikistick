@@ -1,0 +1,11 @@
+==== Encrypt ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Memory]]
+
+Reduces the effectiveness of [[re_completed: reaction: Scan]]
+
+== See Also ==
+----
+
+[[re_completed: limits: Data Sampler]]

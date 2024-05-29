@@ -1,9 +1,0 @@
-^ Muzzle Brake^
-| No Muzzle Flash |
-| +5 Rounds per Second |
-| +1 [[general: Stability]] |
-
-== See Also ==
-----
-
-[[General: Sidekick]]

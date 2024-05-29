@@ -1,0 +1,11 @@
+==== Land Crash ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Leaps into the air and slams the target towards the ground
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

@@ -1,0 +1,11 @@
+^ Overloaded Barrel ^
+| 10 Rounds per second |
+| -1 [[general: Stability]] |
+| -1 [[general: Accuracy]] |
+
+
+
+== See Also ==
+----
+
+[[General: Spiker]]

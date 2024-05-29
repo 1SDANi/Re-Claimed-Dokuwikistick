@@ -1,0 +1,11 @@
+==== Vicinity Break ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Attacks nearby enemies while spinning
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

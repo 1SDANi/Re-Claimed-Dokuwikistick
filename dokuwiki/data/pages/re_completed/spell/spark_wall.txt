@@ -1,0 +1,13 @@
+==== Spark Wall ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Creates a wall of electricity that deals damage and blocks attacks
+
+Can [[re_completed: Action: React]] using [[re_completed: reaction: Slicer]] while the user is casting the spell
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

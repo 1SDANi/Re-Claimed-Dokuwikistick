@@ -1,0 +1,11 @@
+==== Employment ====
+----
+
+[[re_risen: tile: Labour]]
+
+When generic Employment is produced on a [[re_risen: Tile]], its [[re_risen: tile: Labour]] value is randomly selected from among existing [[re_risen: tile: Education]] on that Tile
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

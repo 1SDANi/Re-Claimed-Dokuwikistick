@@ -1,0 +1,17 @@
+==== Controls ====
+----
+
+[[controls: Inputs]]
+
+[[controls: XBOX]]
+
+[[controls: PlayStation]]
+
+[[controls: Switch]]
+
+
+== See Also ==
+----
+
+[[:Start]]
+

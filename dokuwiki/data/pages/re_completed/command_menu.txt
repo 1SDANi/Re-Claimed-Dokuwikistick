@@ -1,0 +1,25 @@
+==== Command Menu ====
+----
+
+^ Warrior Menu |
+^ [[re_completed: Kata]] |
+^ [[re_completed: Limit]] |
+^ [[re_completed: Transform]] |
+^ [[re_completed: Item]] |
+
+^ Mage Menu |
+^ [[re_completed: Magic]] |
+^ [[re_completed: Link]] |
+^ [[re_completed: Summon]] |
+^ [[re_completed: Teleport]] |
+
+^ Leader Menu |
+^ [[re_completed: Callout]] |
+^ [[re_completed: Strategy]] |
+^ [[re_completed: Order]] |
+^ [[re_completed: Equipment]] |
+
+== See Also ==
+----
+
+[[:Re Completed]]

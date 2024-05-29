@@ -1,0 +1,11 @@
+==== RAU ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: RU]] | [[controls: playstation: RU]] | [[controls: switch: RU]] |
+
+== See Also ==
+----
+[[controls: Inputs]]
+
+[[re_claimed: actions: Look]]

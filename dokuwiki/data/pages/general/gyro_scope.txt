@@ -1,0 +1,9 @@
+^ Gyro Scope ^
+| Cannot [[general: Duel Wield]] |
+| +1 [[general: Zoom]] |
+| 1 Minimum Error, 4 Maximum Error |
+
+== See Also ==
+----
+
+[[General: Plasma Rifle]]

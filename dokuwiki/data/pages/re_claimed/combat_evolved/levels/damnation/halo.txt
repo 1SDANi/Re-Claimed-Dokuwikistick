@@ -1,0 +1,120 @@
+==== Halo ====
+----
+
+Scenario: Master Chief has crash landed on the ringworld
+
+Objective 1: Locate and defend [[re_claimed: combat_evolved: Alpha Base]]
+  * Objective 1A: Support scattered [[re_claimed: team: UNSC]] forces
+    * Reward 1A: More ally spawns in O2
+  * Objective 1B: Sabotage [[re_claimed: team: Covenant]] outposts
+    * Reward 1B: Less enemy spawns in O2
+  * Objective 1C: Secure underground lightways
+    * Reward 1C: More ally reinforcements, less enemy reinforcements in O2
+
+Twist: [[re_claimed: character: Captain Keyes]] is still not at [[re_claimed: combat_evolved: Alpha Base]]
+
+Objective 2: Locate [[re_claimed: characters: Captain Keyes]]
+  * Objective 2A: Rescue pinned down [[re_claimed: team: UNSC]] personnel
+    * Reward 2A: More ally spawns in [[re_claimed: levels: damnation: Reconciliation]]
+  * Objective 2B: Capture [[re_claimed: team: Covenant]] outposts
+    * Reward 2B: Less enemy spawns in [[re_claimed: levels: damnation: Reconciliation]]
+  * Objective 2C: Kill a [[re_claimed: character: Sangheili Zealot]]
+    * Reward 2C: O2C automatically completed in [[re_claimed: combat_evolved: levels: damnation: Halo]]
+
+Conclusion: Found a group of Marines that witnessed the Captain get captured
+
+[[general: Weapon]]s:
+  * [[re_claimed: weapon: Sidekick]]
+  * [[re_claimed: weapon: Submachine Gun]]
+  * [[re_claimed: weapon: Assault Rifle]]
+  * [[re_claimed: weapon: Battle Rifle]]
+  * [[re_claimed: weapon: Machete]]
+
+  * [[re_claimed: weapon: Plasma Pistol]]
+  * [[re_claimed: weapon: Plasma Rifle]]
+  * [[re_claimed: weapon: Plasma Carbine]]
+  * [[re_claimed: weapon: Fuel Rod Carbine]]
+  * [[re_claimed: weapon: Energy Sword]]
+
+  * [[re_claimed: weapon: Mauler]]
+  * [[re_claimed: weapon: Spiker]]
+  * [[re_claimed: weapon: Needler]]
+  * [[re_claimed: weapon: Impaler]]
+  * [[re_claimed: weapon: Smasher]]
+
+[[re_claimed: grenade]]s:
+  * [[re_claimed: weapon: Conc Grenade]]
+  * [[re_claimed: weapon: Frag Grenade]]
+
+  * [[re_claimed: weapon: Plasma Grenade]]
+
+  * [[re_claimed: weapon: Blast Grenade]]
+
+[[re_claimed: Equipment]]:
+  * [[re_claimed: equipment: Health Pack]]
+  * [[re_claimed: equipment: Ammo Box]]
+  * [[re_claimed: equipment: Sandbags]]
+  * [[re_claimed: equipment: Smoke Emitter]]
+
+  * [[re_claimed: equipment: Remote Battery]]
+  * [[re_claimed: equipment: Overshield]]
+  * [[re_claimed: equipment: Deployable Cover]]
+  * [[re_claimed: equipment: Plasma Cannon]]
+
+  * [[re_claimed: equipment: Dust Shot]]
+  * [[re_claimed: equipment: Scrap Pile]]
+  * [[re_claimed: equipment: Trip Mine]]
+  * [[re_claimed: equipment: Flare]]
+
+
+[[re_claimed: Vehicles]]:
+  * [[re_claimed: vehicle: Mongoose]]
+  * [[re_claimed: vehicle: Mammoth]]
+
+  * [[re_claimed: vehicle: Ghost]]
+  * [[re_claimed: vehicle: Shadow]]
+
+  * [[re_claimed: vehicle: Chopper]]
+  * [[re_claimed: vehicle: Prowler]]
+
+[[re_claimed: Character]]s:
+  * [[re_claimed: character: species: human: spartan: Master Chief Petty Officer John 117]]
+  * [[re_claimed: character: species: human: spartan: First Class Petty Officer Linda 058]]
+  * [[re_claimed: character: species: human: sergeant: Staff Sergeant Avery Johnson]]
+  * [[re_claimed: character: species: human: captain: Lieutenant Commander Miranda Keyes]]
+
+  * [[re_claimed: character: species: human: Crew]]
+  * [[re_claimed: character: species: human: Private]]
+  * [[re_claimed: character: species: human: Corporal]]
+
+  * [[re_claimed: character: species: human: captain: Captain Jacob Keyes]]
+
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Minor]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Major]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Heavy]]
+
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Minor]]
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Major]]
+
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Minor]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Major]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Zealot]]
+
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Major]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Jumper]]
+
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Minor]]
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Major]]
+
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Major]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Ultra]]
+
+[[re_claimed: Map]]:
+  * [[re_claimed: map: 04 Grassland]]
+
+==== See Also ====
+----
+
+[[re_claimed: combat_evolved: levels: Damnation]]

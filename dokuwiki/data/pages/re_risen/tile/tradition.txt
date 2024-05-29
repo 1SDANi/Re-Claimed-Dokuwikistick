@@ -1,0 +1,11 @@
+==== Tradition ====
+----
+
+[[re_risen: tile: Belief]]
+
+When generic Tradition is produced on a [[re_risen: Tile]], its [[re_risen: tile: Belief]] value is randomly selected from among existing Tradition on that Tile
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

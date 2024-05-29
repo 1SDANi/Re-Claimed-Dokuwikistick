@@ -1,0 +1,16 @@
+==== Mythology ====
+----
+
+Civic: [[re_risen: society: civics: Apotheosis]]
+
+Belief: [[re_risen: tile: tradition: belief: Judaism]]
+
+Landmark: [[re_risen: tile: land: landmark: Burial Grounds]]
+
+Wonder: [[re_risen: tile: land: landmark: wonders: Stone Circle]]
+
+
+== See Also ==
+----
+
+[[re_risen: society: technologies: Ancient]]

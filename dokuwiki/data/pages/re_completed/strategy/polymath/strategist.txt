@@ -1,0 +1,9 @@
+==== Strategist ====
+----
+
+Set traps for enemies and create opportunities for allies
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

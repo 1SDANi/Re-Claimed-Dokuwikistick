@@ -1,0 +1,11 @@
+==== Air Sphere ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Fires a ball of wind that homes in on the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

@@ -1,0 +1,13 @@
+==== Air Sphere ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Summons a sphere of wind around the user to damage anything that it touches
+
+The sphere moves as the user does and disappears after some time
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

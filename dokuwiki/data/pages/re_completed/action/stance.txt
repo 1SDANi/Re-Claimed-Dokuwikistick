@@ -1,0 +1,8 @@
+^ Stance ^ [[re_claimed: action: Prone]] ^ [[re_claimed: action: Crouch]] ^ [[re_claimed: action: Stand]] ^ [[re_claimed: action: Walk]] ^ [[re_claimed: action: Run]] ^ [[re_claimed: action: Midair]] ^
+^ [[controls: input: Tap]] | [[re_claimed: action: Crouch]] | [[re_claimed: action: Stand]] | [[re_claimed: action: Crouch]] | [[re_claimed: action: Dodge]] | [[general: Dodge]] | [[general: Air Dodge]] |
+^ [[controls: input: Hold]] | [[re_claimed: action: Stand]] | [[re_claimed: action: Prone]] | [[re_claimed: action: Prone]] | [[re_claimed: action: Dash]] | [[general: Dash]] | [[general: Air Dash]] |
+
+== See Also ==
+----
+
+[[re_claimed: Action]]

@@ -1,0 +1,27 @@
+==== Gun ====
+----
+
+[[re_completed: spell: Laser Shot]]
+
+[[re_completed: spell: Charged Laser]]
+
+[[re_completed: spell: Laser Ring]]
+
+[[re_completed: spell: Laser Circle]]
+
+[[re_completed: spell: Cluster Laser]]
+
+[[re_completed: spell: Cluster Laser]]
+
+[[re_completed: spell: Gravity Shot]]
+
+[[re_completed: spell: Gravity Missile]]
+
+
+
+
+
+== See Also ==
+----
+
+[[re_completed: combo: Reload]]

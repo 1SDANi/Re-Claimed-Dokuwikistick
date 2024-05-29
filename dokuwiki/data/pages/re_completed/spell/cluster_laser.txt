@@ -1,0 +1,13 @@
+==== Cluster Laser ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Charges and fires a large laser at the target that stick to surfaces, exploding after a time and firing homing lasers at the target
+
+Can [[re_completed: Action: React]] using [[re_completed: reaction: Warp Snipe]] briefly before being hit
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

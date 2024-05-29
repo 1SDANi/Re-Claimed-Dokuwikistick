@@ -1,0 +1,142 @@
+==== Reconciliation ====
+----
+
+Scenario: A Divine Convoy has been spotted docking in the Truth and Reconciliation, a ship [[re_claimed: character: Cortana]] disabled before abandoning the Autumn, if the ship is important enough for a [[re_claimed: character: Prophet]] to visit, [[re_claimed: character: Captain Keyes]] has to be onboard
+
+Objective 1: Board the [[re_claimed: vehicle: Ket Class Cruiser]] Truth and Reconciliation
+  * Objective 1A: Sabotage [[re_claimed: team: Covenant]] [[re_claimed: vehicle: Weevil]]s
+    * Reward: Ally reinforcements are available in O2
+  * Objective 1B: Secure landing zones for allies
+    * Reward: More ally reinforcements in O2
+  * Objective 1C: Capture [[re_claimed: team: Covenant]] fortifications
+    * Reward: Less enemy reinforcements in O2
+
+Twist: None
+
+Objective 2: Rescue [[re_claimed: character: Captain Keyes]]
+  * Objective 2A: Free [[re_claimed: team: UNSC]] POWs
+    * Reward: More ally spawns in [[re_claimed: combat_evolved: levels: bravery: Prophecy]]
+  * Objective 2B: Upload [[re_claimed: character: Cortana]] to the [[re_claimed: vehicles: Ket Class Cruiser: Bridge: Computer]]
+    * Reward: Triggers [[re_claimed: Characters: Sharqoi]] spawns, also [[re_claimed: character: Sharqoi]] spawn in [[re_claimed: combat_evolved: levels: bravery: Prophecy]]
+  * Objective 2C: Kill a [[re_claimed: character: Sangheili Zealot]]
+    * Reward 2C: More ally spawns during [[re_claimed: combat_evolved: levels: Bravery]]
+
+Conclusion: [[re_claimed: character: Captain Jacob Keyes]] is rescued and was interrogated by the [[re_claimed: character: Prophet of Inquisition]], kept rambling about the ring, seemed relieved that [[re_claimed: Characters: Captain Keyes]] didn't know "its true power", escaped with [[re_claimed: Characters: Captain Keyes]] in a [[re_claimed: vehicle: Phantom]]
+
+
+[[general: Weapon]]s:
+  * [[re_claimed: weapon: Sidekick]]
+  * [[re_claimed: weapon: Submachine Gun]]
+  * [[re_claimed: weapon: Assault Rifle]]
+  * [[re_claimed: weapon: Battle Rifle]]
+  * [[re_claimed: weapon: Sniper Rifle]]
+  * [[re_claimed: weapon: Shotgun]]
+  * [[re_claimed: weapon: Machete]]
+
+  * [[re_claimed: weapon: Plasma Pistol]]
+  * [[re_claimed: weapon: Plasma Rifle]]
+  * [[re_claimed: weapon: Plasma Carbine]]
+  * [[re_claimed: weapon: Fuel Rod Carbine]]
+  * [[re_claimed: weapon: Focus Rifle]]
+  * [[re_claimed: weapon: Disintegration Jet]]
+  * [[re_claimed: weapon: Energy Sword]]
+
+  * [[re_claimed: weapon: Mauler]]
+  * [[re_claimed: weapon: Spiker]]
+  * [[re_claimed: weapon: Needler]]
+  * [[re_claimed: weapon: Impaler]]
+  * [[re_claimed: weapon: Shocker]]
+  * [[re_claimed: weapon: Ravager]]
+  * [[re_claimed: weapon: Smasher]]
+
+[[re_claimed: Grenade]]s:
+  * [[re_claimed: weapon: Conc Grenade]]
+  * [[re_claimed: weapon: Frag Grenade]]
+  * [[re_claimed: weapon: Flashbang Grenade]]
+
+  * [[re_claimed: weapon: Plasma Grenade]]
+
+  * [[re_claimed: weapon: Blast Grenade]]
+
+[[re_claimed: Equipment]]:
+  * [[re_claimed: equipment: Health Pack]]
+  * [[re_claimed: equipment: Ammo Box]]
+  * [[re_claimed: equipment: Assault Bomb]]
+  * [[re_claimed: equipment: Sandbags]]
+  * [[re_claimed: equipment: Smoke Emitter]]
+
+  * [[re_claimed: equipment: Remote Battery]]
+  * [[re_claimed: equipment: Plasma Cannon]]
+  * [[re_claimed: equipment: Overshield]]
+  * [[re_claimed: equipment: Deployable Cover]]
+  * [[re_claimed: equipment: Active Camo]]
+
+  * [[re_claimed: equipment: Dust Shot]]
+  * [[re_claimed: equipment: Scrap Pile]]
+  * [[re_claimed: equipment: Trip Mine]]
+  * [[re_claimed: equipment: Bubble Shield]]
+  * [[re_claimed: equipment: Flare]]
+
+[[re_claimed: Vehicle]]s:
+  * [[re_claimed: vehicle: Pelican]]
+  * [[re_claimed: vehicle: Albatross]]
+  * [[re_claimed: vehicle: SAM Cannon]]
+
+  * [[re_claimed: vehicle: Weevil]]
+  * [[re_claimed: vehicle: Phantom]]
+  * [[re_claimed: vehicle: Ket Class Cruiser]]
+
+[[re_claimed: Character]]s:
+  * [[re_claimed: character: species: human: spartan: Master Chief Petty Officer John 117]]
+  * [[re_claimed: character: species: human: spartan: First Class Petty Officer Linda 058]]
+  * [[re_claimed: character: species: human: sergeant: Staff Sergeant Avery Johnson]]
+  * [[re_claimed: character: species: human: captain: Lieutenant Commander Miranda Keyes]]
+
+  * [[re_claimed: character: species: human: Private]]
+  * [[re_claimed: character: species: human: Corporal]]
+  * [[re_claimed: character: species: human: ODST]]
+
+  * [[re_claimed: character: species: human: captain: Captain Jacob Keyes]]
+
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Minor]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Major]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Ultra]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Heavy]]
+
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Minor]]
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Major]]
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Ranger]]
+
+  * [[re_claimed: character: species: Yanme'e]] [[re_claimed: character: species: Yanme'e: Minor]]
+  * [[re_claimed: character: species: Yanme'e]] [[re_claimed: character: species: Yanme'e: Major]]
+
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Minor]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Major]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Ultra]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Stealth]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Zealot]]
+
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Major]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Jumper]]
+
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Minor]]
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Major]]
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Radical]]
+
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Major]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Ultra]]
+
+  * [[re_claimed: character: species: Lekgolo: Mgalekgolo]] [[re_claimed: character: species: Lekgolo: Mgalekgolo: Minor]]
+  * [[re_claimed: character: species: Lekgolo: Mgalekgolo]] [[re_claimed: character: species: Lekgolo: Mgalekgolo: Major]]
+
+  * [[re_claimed: character: species: Sharquoi]]
+  * [[re_claimed: character: species: Huragok]]
+
+[[re_claimed: Map]]:
+  * [[re_claimed: map: 04 Steppes]]
+
+== See Also ==
+----
+[[re_claimed: combat_evolved: levels: Damnation]]

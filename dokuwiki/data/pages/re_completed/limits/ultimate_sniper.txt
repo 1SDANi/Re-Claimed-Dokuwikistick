@@ -1,0 +1,15 @@
+==== Ultimate Sniper ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Can [[re_completed: Action: Combo]] using [[re_completed: action: Ultimate Volley]]
+
+Can [[re_completed: Action: React]] using [[re_completed: action: Sniping Warp]]
+
+Enemies can [[re_completed: Action: React]] using [[re_completed: reaction: Showdown]] before the user starts firing
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

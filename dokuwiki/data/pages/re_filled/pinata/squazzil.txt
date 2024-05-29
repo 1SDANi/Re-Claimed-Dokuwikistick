@@ -1,0 +1,15 @@
+==== Squazzil ====
+----
+
+Animal: Squirrel
+
+Sweet: Swizzle Stick
+
+Ability: Can pick up and plant [[re_filled: plant: Nut | Nuts]]
+
+Befriend: Fed three Seeds
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

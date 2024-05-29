@@ -1,0 +1,11 @@
+==== Sheathed Stance ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Sheathes their weapon, doubling the mana gained from their next combo
+
+== See Also ==
+----
+
+[[re_completed: combo: Dolphin Style]]

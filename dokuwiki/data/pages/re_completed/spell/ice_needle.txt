@@ -1,0 +1,11 @@
+==== Ice Needle ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Summons needles of ice from below in a line from the user to the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

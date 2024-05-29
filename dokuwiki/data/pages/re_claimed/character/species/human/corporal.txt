@@ -1,0 +1,26 @@
+==== Corporal ====
+----
+
+[[re_claimed: character: Rank-Up]]: [[re_claimed: character: species: human: Sergeant]]
+
+[[re_claimed: character: Inherits]]: [[re_claimed: character: species: human: Private]]
+
+100/50
+
+[[re_claimed: Visibility]]: [[re_claimed: ability: Flashlight]]
+
+| +25 to all [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Meter Value]]s |
+| +25 to [[re_claimed: character: species: human: Torso]] [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Meter Value]] |
+| +25 to [[re_claimed: character: species: human: Head]] [[re_claimed: character: body_part: Shield]] [[re_claimed: character: body_part: meter: Meter Value]] |
+
+| [[re_claimed: character: species: human: Torso]] [[re_claimed: character: body_part: Shield]][[re_claimed: character: body_part: Meter]] |
+| [[re_claimed: character: body_part: meter: Meter Value]]: 50 |
+| [[re_claimed: character: body_part: meter: Regen Value]]: 10 |
+| [[re_claimed: character: body_part: meter: Stun Time]]: 2 |
+| [[re_claimed: character: body_part: meter: Regen Time]]: 10 |
+| [[re_claimed: Armor Type]]: [[re_claimed: armor_type: Heavy Armor]] |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: Human]]

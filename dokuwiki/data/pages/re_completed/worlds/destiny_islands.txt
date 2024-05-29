@@ -1,0 +1,173 @@
+==== Destiny Islands ====
+----
+
+[[re_completed: Door To Darkness]]
+
+----
+
+World Unlock: [[re_completed: worlds: Sora's Awakening]]
+
+Cutscene: [[re_completed: characters: Kairi]] wakes [[re_completed: characters: Sora]] from a dream at midday, [[re_completed: characters: Riku]] brings Kairi supplies for the raft
+
+Dialogue: Kairi assigns Sora his share of the work for the raft
+
+----
+
+Area: [[re_completed: worlds: destiny_islands: Heart Island]]
+
+[[re_completed: characters: Kairi (Link)]] reads a book about sailing
+
+[[re_completed: characters: Riku (Link)]] relaxes on the island
+
+[[re_completed: characters: Tidus (Link)]] practices his Kata
+
+[[re_completed: characters: Wakka (Link)]] practices his aim on a tree by the waterfall
+
+[[re_completed: characters: Selphie (Link)]] fishes at the pier
+
+Optional Battle: [[re_completed: characters: Kairi]]
+
+Unlock (Kairi):
+^ [[re_completed: Link]] ^
+| [[re_completed: link: Kairi]] |
+
+Optional Battle: [[re_completed: characters: Riku]]
+
+Unlock (Riku):
+^ [[re_completed: Link]] ^
+| [[re_completed: link: Riku]] |
+
+Optional Battle: [[re_completed: characters: Wakka]]
+
+Unlock (Wakka):
+^ [[re_completed: Link]] ^
+| [[re_completed: link: Wakka]] |
+
+Optional Battle: [[re_completed: characters: Tidus]]
+
+Unlock (Tidus):
+^ [[re_completed: Link]] ^
+| [[re_completed: link: Tidus]] |
+
+Optional Battle: [[re_completed: characters: Selphie]]
+
+Unlock (Selphie):
+^ [[re_completed: Link]] ^
+| [[re_completed: link: Selphie]] |
+
+Goal: Find a cloth, a rope on the watchtower, three logs, a pole, and a toolbox
+
+Landmarks: Treehouse, Shipwreck, Dream Island, Waterfall, Reef, Spring, Grove, Willful Watchtower, Secret Place, Heart Cavern, Origin Island, Door to the Heart, Destiny's Heart
+
+Cloth: [[re_completed: worlds: destiny_islands: heart_island: Treehouse]]
+
+Pole: [[re_completed: worlds: destiny_islands: heart_island: Shipwreck]]
+
+Rope: [[re_completed: worlds: destiny_islands: heart_island: Pier]]
+
+Toolbox: [[re_completed: worlds: destiny_islands: heart_island: Shack]]
+
+Log: [[re_completed: worlds: destiny_islands: heart_island: Beach]], [[re_completed: worlds: destiny_islands: heart_island: Grove]], [[re_completed: worlds: destiny_islands: heart_island: Dream Island]]
+
+Unlock (Goal):
+^ [[re_completed: Item]] ^
+| [[re_completed: item: Camping Set]] |
+
+----
+
+Cutscene: Sora, Riku, and Kairi on Dream Island watching the sun set as they share a dream of traveling to far off worlds, they head back across Memory Bridge, but halfway across Riku tosses Sora a Paopu Fruit and teases him with it, Riku runs off and Sora chases after him
+
+Cutscene: Sora in his bed in his room after dark, struggling to get to sleep, he gets up and starts drawing pictures of sailing with his friends at his desk
+
+Cutscene: Sora disembarks his row boat at the pier in the morning
+
+Goal: Talk to Kairi
+
+[[re_completed: characters: Kairi]] crafts a wayfinder on the reef
+
+[[re_completed: characters: Riku]] builds the boat on the reef
+
+[[re_completed: characters: Tidus]] playfights on the beach
+
+[[re_completed: characters: Wakka]] playfights on the beach
+
+[[re_completed: characters: Selphie]] playfights on the beach
+
+Optional Battle: [[re_completed: characters: Riku]] and [[re_completed: characters: Kairi]]
+
+Unlock (Riku, Kairi):
+^ [[re_completed: Jutsu]] ^
+| [[re_completed: jutsu: Sliding Rush]] |
+
+Optional Battle: [[re_completed: characters: Tidus]], [[re_completed: characters: Wakka]], and [[re_completed: characters: Selphie]]
+
+Unlock (Tidus, Wakka, Selphie):
+^ [[re_completed: Jutsu]] ^
+| [[re_completed: jutsu: Vicinity Break]] |
+
+----
+
+Dialogue: Kairi assigns Sora his share of the work for the supplies
+
+Goal: Find three mushrooms, two coconuts, three fish, a seagull egg, and freshwater
+
+Freshwater: The waterfall or the spring
+
+Coconuts: Hit any tree for a chance
+
+Fish: Swimming in the coastal waters
+
+Mushrooms: [[re_completed: worlds: destiny_islands: heart_island: Secret Place]], [[re_completed: worlds: destiny_islands: heart_island: Will Hill]], [[re_completed: worlds: destiny_islands: heart_island: Grove]]
+
+Seagull Egg: Atop a tree before [[re_completed: worlds: destiny_islands: heart_island: Dream Bridge]]
+
+Cutscene upon collecting the mushroom in the Secret Place: Sora reminisces of his time with Riku and Kairi in the Secret Place, Ansem, Seeker of Darkness appears to monologue ominously
+
+Unlock (Goal):
+^ [[re_completed: Item]] ^
+| [[re_completed: item: Potion]] |
+
+----
+
+Cutscene: Sora and Kairi watch the sun set as they grapple with their uncertainty of the future
+
+Cutscene: Sora in his room after dark, struggling to get to sleep, he looks out his window to see a storm above Dream Island
+
+Cutscene: Sora disembarks his row boat at the pier after dark and sees Riku up on heart island, [[re_completed: characters: Shadows]] rise from the ground around Sora
+
+Goal: Reach Riku
+
+[[re_completed: characters: Riku]] watches the stars on heart island
+
+Cutscene: Riku calls to Sora, proclaiming that he's not afraid of the darkness and telling Sora "We'll go together", he reaches out his arm, and Sora begins to reach out, but hesitates, and before he can reconsider, a tsunami engulfs them both
+
+Cutscene: Sora awakens in the Secret Place, the way out now flooded and the door into Heart Cavern now wide open, Sora stands and finds a Key in his hand
+
+Goal: Venture into Heart Cavern, find the Door to the Heart
+
+Cutscene: Sora finds another door like the one that held the entrance to Heart Cavern, he hears Kairi call his name from behind him and turns around as Kairi flies into him on a gust of wind as he flies through the door
+
+Cutscene: Sora awakens in a smaller version of Dream Island (based on the original game's version), a giant heart floating in the air before him, Shadows jump at the heart, crawling all of over it, until it collapses, and from it, a [[re_completed: characters: Darkside]] is born
+
+Unlock (Goal):
+^ [[re_completed: Spell]] ^
+| [[re_completed: spell: Stun Impact]] |
+
+----
+
+Area: Destiny's Heart
+
+Boss Battle: [[re_completed: characters: Darkside]]
+
+Gimmick: Losing progresses the story without an Unlock 
+
+Song: Into Oblivion (Lizz Robinett) (First Third) (Instrumental)
+
+Unlock (Boss):
+^ [[re_completed: Limit]] ^
+| [[re_completed: limit: Solo Break]] |
+
+== See Also ==
+----
+
+[[re_completed: door_to_darkness: Key: Worlds]]

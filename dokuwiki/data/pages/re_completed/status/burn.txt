@@ -1,0 +1,11 @@
+==== Burn ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Fire]]
+
+Deals damage over time
+
+== See Also ==
+----
+
+[[re_completed: spell: Ignite]]

@@ -1,0 +1,175 @@
+==== Alex ====
+
+Alignment: [[warriors_of_majiix: characters: alex_group]]
+
+Identity: Nonbinary
+
+Expression: Combat feminine
+
+Voice: Calm, low-middle pitch
+
+Culture: Majiix-Wolvon
+
+Heritage: Wolvon
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: ability: Dualsoul]]
+
+[[warriors_of_majiix: Sage Power]]: [[warriors_of_majiix: sage_power: Logic Seals]]
+
+----
+
+==== Part 1 pre-Juurkew Jungle ====
+----
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Feral Instinct]]
+
+==== Part 1 post-Juurkew Jungle ====
+----
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]]
+
+==== Part 2A ====
+----
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Feral Instinct]], [[warriors_of_majiix: Form: Feral Fury]]
+
+==== Part 2B ====
+----
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]]
+
+==== Part 2B Finale pre-Healing ====
+----
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Feral Instinct]], [[warriors_of_majiix: Form: Feral Fury]], [[warriors_of_majiix: Form: Feral Reflex]]
+
+==== Part 2B Finale post-Healing ====
+----
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]]
+
+==== Part 3A ====
+----
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Feral Instinct]], [[warriors_of_majiix: Form: Feral Fury]], [[warriors_of_majiix: Form: Feral Reflex]], [[warriors_of_majiix: Form: Feral Intuition]]
+
+==== Part 3B ====
+----
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]], [[warriors_of_majiix: Form: Primal Intuition]]
+
+==== Part 3 Finale ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: Radiation]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Radiant Magician]]
+
+==== Part 4A ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: Radiation]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Radiant Magician]], [[warriors_of_majiix: Form: Radiant Magician INFINITE]], [[warriors_of_majiix: Form: Radiant Magician IMAGINARY]]
+
+==== Part 4B ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: Radiation]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Radiant Magician]], [[warriors_of_majiix: Form: Radiant Magician INFINITE]], [[warriors_of_majiix: Form: Radiant Magician IMAGINARY]], [[warriors_of_majiix: Form: Yanglex]]
+
+==== Part 4B Finale ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: Radiation]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Radiant Magician]], [[warriors_of_majiix: Form: Radiant Magician INFINITE]], [[warriors_of_majiix: Form: Radiant Magician IMAGINARY]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]]
+
+==== Part 5 ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: Radiation]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Radiant Magician]], [[warriors_of_majiix: Form: Radiant Magician INFINITE]], [[warriors_of_majiix: Form: Radiant Magician IMAGINARY]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]], [[warriors_of_majiix: Form: Radiant Magician NULL]] 
+
+==== Part 6A ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]] (Suppressed)
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: affinity: Radiation]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]], [[warriors_of_majiix: Form: Primal Intuition]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]]
+
+==== Part 6B ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]], [[warriors_of_majiix: Form: Primal Intuition]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]] [[warriors_of_majiix: Form: Radiant Magician]], [[warriors_of_majiix: Form: Radiant Magician INFINITE]], [[warriors_of_majiix: Form: Radiant Magician IMAGINARY]], [[warriors_of_majiix: Form: Radiant Magician NULL]]  
+
+==== Part 6 Finale pre-Collapse ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]] (Suppressed)
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Plagon]]
+
+==== Part 6 Finale post-Desperation post-Collapse ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Radiant Magician]] (Suppressed)
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Yinyanglex]]
+
+==== Part 7A ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Void Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: affinity: Radiation]]
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]], [[warriors_of_majiix: Form: Primal Intuition]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]], [[warriors_of_majiix: Form: Radiant Magician]], [[warriors_of_majiix: Form: Radiant Magician INFINITE]], [[warriors_of_majiix: Form: Radiant Magician IMAGINARY]], [[warriors_of_majiix: Form: Radiant Magician NULL]], [[warriors_of_majiix: Form: Plaguelex]]
+
+==== Part 7B ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Void Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Magnetism]], [[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: affinity: Radiation]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]], [[warriors_of_majiix: Form: Primal Intuition]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]], [[warriors_of_majiix: Form: Wolvon Warrior]], [[warriors_of_majiix: Form: Radiant Magician]], [[warriors_of_majiix: Form: Radiant Magician INFINITE]], [[warriors_of_majiix: Form: Radiant Magician IMAGINARY]], [[warriors_of_majiix: Form: Radiant Magician NULL]], [[warriors_of_majiix: Form: Plaguelex]], [[warriors_of_majiix: Form: Primal Plague]], [[warriors_of_majiix: Form: Radiant Plague]], [[warriors_of_majiix: Form: Plinplanglex]], [[warriors_of_majiix: Form: Wolvon Warrior]]
+
+==== Part 8 ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Void Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Ice]], [[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: affinity: Gravity]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]], [[warriors_of_majiix: Form: Primal Intuition]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]], [[warriors_of_majiix: Form: Wolvon Warrior]], [[warriors_of_majiix: Form: Void Magician]], [[warriors_of_majiix: Form: Void Magician INFINITE]], [[warriors_of_majiix: Form: Void Magician IMAGINARY]], [[warriors_of_majiix: Form: Void Magician NULL]], [[warriors_of_majiix: Form: Plaguelex]], [[warriors_of_majiix: Form: Primal Plague]], [[warriors_of_majiix: Form: Void Plague]], [[warriors_of_majiix: Form: Plinplanglex]], [[warriors_of_majiix: Form: Wolvon Warrior]]
+
+==== Part 9 ====
+----
+
+Magician Soul: [[warriors_of_majiix: magician_soul: Void Magician]]
+
+[[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: Affinity: Electricity]], [[warriors_of_majiix: Affinity: Fire]], [[warriors_of_majiix: Affinity: Ice]], [[warriors_of_majiix: Affinity]]: [[warriors_of_majiix: affinity: Gravity]]
+
+[[warriors_of_majiix: Form]]: [[warriors_of_majiix: Form: Primal Instinct]], [[warriors_of_majiix: Form: Primal Fury]], [[warriors_of_majiix: Form: Primal Reflex]], [[warriors_of_majiix: Form: Primal Intuition]], [[warriors_of_majiix: Form: Yanglex]], [[warriors_of_majiix: Form: Yinlex]], [[warriors_of_majiix: Form: Cure Knight]], [[warriors_of_majiix: Form: Wolvon Warrior]], [[warriors_of_majiix: Form: Void Magician]], [[warriors_of_majiix: Form: Void Magician INFINITE]], [[warriors_of_majiix: Form: Void Magician IMAGINARY]], [[warriors_of_majiix: Form: Void Magician NULL]], [[warriors_of_majiix: Form: Plaguelex]], [[warriors_of_majiix: Form: Primal Plague]], [[warriors_of_majiix: Form: Void Plague]], [[warriors_of_majiix: Form: Plinplanglex]], [[warriors_of_majiix: Form: Wolvon Warrior]]

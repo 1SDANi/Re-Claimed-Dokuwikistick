@@ -1,0 +1,25 @@
+==== Human ====
+----
+
+[[re_claimed: character: Body Part]]s:
+  * [[re_claimed: character: species: human: Head]]
+  * [[re_claimed: character: species: human: Torso]]
+  * [[re_claimed: character: species: human: Left Arm]]
+  * [[re_claimed: character: species: human: Right Arm]]
+  * [[re_claimed: character: species: human: Left Leg]]
+  * [[re_claimed: character: species: human: Right Leg]]
+
+| [[re_claimed: character: Order]] | [[re_claimed: character: species: human: Spartan]] |
+| [[re_claimed: character: Spec Ops]] | [[re_claimed: character: species: human: ODST]] |
+| [[re_claimed: character: Haz Ops]] | [[re_claimed: character: species: human: HAZOP]] |
+| [[re_claimed: character: Support]] | [[re_claimed: character: species: human: Crew]] |
+| [[re_claimed: character: High Commander]] | [[re_claimed: character: species: human: Admiral]] |
+| [[re_claimed: character: Commander]] | [[re_claimed: character: species: human: Captain]] |
+| [[re_claimed: character: Ultra]] | [[re_claimed: character: species: human: Sergeant]] |
+| [[re_claimed: character: Minor]] | [[re_claimed: character: species: human: Corporal]] |
+| [[re_claimed: character: Minor]] | [[re_claimed: character: species: human: Private]] |
+
+== See Also ==
+----
+
+[[re_claimed: character: Species]]

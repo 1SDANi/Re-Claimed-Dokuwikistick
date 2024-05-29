@@ -1,0 +1,10 @@
+^ AP-Spikes ^ [[re_claimed: damage_type: Shrapnel]] [[re_claimed: Damage Type]] ^
+| 25 Impact Damage | Medium Knockback |
+| Slow | Medium |
+| Bounces off surfaces |
+
+
+== See Also ==
+----
+
+[[re_claimed: weapon: personal_handgun: Mauler]]

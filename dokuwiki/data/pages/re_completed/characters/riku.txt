@@ -1,0 +1,12 @@
+==== Riku ====
+----
+
+^ Keyblade | [[re_completed: item: Way to the Dawn]] |
+^ Keychain | [[re_completed: item: Soul Eater]] |
+^ Keychain with Sora | [[re_completed: item: Nightmare's End]] |
+^ Keychain with Kairi| [[re_completed: item: Oblivion]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

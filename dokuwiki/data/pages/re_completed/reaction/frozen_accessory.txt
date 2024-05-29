@@ -1,0 +1,11 @@
+==== Frozen Accessory ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Ice]]
+
+Fires a block of ice at the target
+
+== See Also ==
+----
+
+[[re_completed: limits: Icy Ensemble]]

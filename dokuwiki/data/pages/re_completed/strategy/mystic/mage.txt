@@ -1,0 +1,13 @@
+==== Mage ====
+----
+
+Spend Mana on [[re_completed: Magic]]
+
+Spend Faith on [[re_completed: Link]]
+
+Spend Drive on [[re_completed: Summon]]
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

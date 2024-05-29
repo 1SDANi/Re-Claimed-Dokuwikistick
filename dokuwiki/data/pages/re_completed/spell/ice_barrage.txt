@@ -1,0 +1,11 @@
+==== Deep Freeze ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Summons a pillar of ice from below the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

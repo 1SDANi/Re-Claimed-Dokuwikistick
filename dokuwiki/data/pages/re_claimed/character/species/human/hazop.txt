@@ -1,0 +1,21 @@
+==== HAZOP ====
+----
+
+[[re_claimed: character: Inherits]]: [[re_claimed: character: species: human: Sergeant]]
+
+100/50
+
+[[re_claimed: Ability]]: [[re_claimed: ability: Integrated Armor Lock]]
+
+[[re_claimed: Visibility]]: [[re_claimed: ability: Flashlight]]
+
+| [[re_claimed: character: flags: Cannot be infected or composed]] |
+| -50 to [[re_claimed: character: species: human: Torso]] [[re_claimed: character: body_part: Shield]] [[re_claimed: character: body_part: meter: Meter Value]] |
+| [[re_claimed: Heavy Armor]] [[re_claimed: character: species: human: Head]] [[re_claimed: character: body_part: Shield]] [[re_claimed: character: body_part: Meter]] [[re_claimed: Armor Type]] |
+| Remove [[re_claimed: character: species: human: Right Arm]] [[re_claimed: character: flags: Enable ability]] |
+| Remove [[re_claimed: character: species: human: Left Arm]] [[re_claimed: character: flags: Enable ability]] |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: Human]]

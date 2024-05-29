@@ -1,0 +1,13 @@
+==== Invert ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Makes the afflicted stand on the air upside-down
+
+Status is cured by applying it while already afflicted
+
+== See Also ==
+----
+
+[[re_completed: spell: Inverted Gravity]]

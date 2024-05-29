@@ -1,0 +1,9 @@
+^ Element ^ [[re_completed: element: Energy]] ^ [[re_completed: element: Wind]] ^ [[re_completed: element: Water]] ^ [[re_completed: element: Earth]] ^ [[re_completed: element: Light]] ^ [[re_completed: element: Dark]] |
+| [[re_completed: element: Novice]] | [[re_completed: element: Animus]] | [[re_completed: element: Aero]] | [[re_completed: element: Unda]] | [[re_completed: element: Solum]] | [[re_completed: element: Lux]] | [[re_completed: element: Nox]] |
+| [[re_completed: element: Adept]] | [[re_completed: element: Fire]] | [[re_completed: element: Thunder]] | [[re_completed: element: Blizzard]] | [[re_completed: element: Flower]] | [[re_completed: element: Time]] | [[re_completed: element: Gravity]] |
+| [[re_completed: element: Master]] | [[re_completed: element: Memory]] | [[re_completed: element: Dream]] | [[re_completed: element: Moon]] | [[re_completed: element: Pain]] | [[re_completed: element: Holy]] | [[re_completed: element: Curse]] |
+
+== See Also ==
+----
+
+[[:Re Completed]]

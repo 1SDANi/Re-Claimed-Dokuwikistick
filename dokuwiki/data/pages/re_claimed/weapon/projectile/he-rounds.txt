@@ -1,0 +1,9 @@
+^ HE-Rounds ^ [[re_claimed: damage_type: Shrapnel]] [[re_claimed: Damage Type]] ^
+| 25 Impact Damage | Medium Knockback |
+| Fast | Small |
+
+== See Also ==
+----
+[[re_claimed: weapon: personal_handgun: Sidekick]]
+
+[[re_claimed: weapon: personal_defense: Submachine Gun]]

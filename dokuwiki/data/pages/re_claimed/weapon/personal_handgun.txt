@@ -1,0 +1,10 @@
+==== Personal Handgun ====
+----
+
+^ [[re_claimed: team: UNSC Command]] ^ [[re_claimed: team: Sangheili Command]] ^ [[re_claimed: team: Jiralhanae Command]] ^ [[re_claimed: team: Sentinel Command]] ^
+| [[re_claimed: weapon: personal_handgun: Sidekick]] | [[re_claimed: weapon: personal_handgun: Plasma Pistol]] | [[re_claimed: weapon: personal_handgun: Mauler]] | [[re_claimed: weapon: personal_handgun: Constructor Welder]] |
+
+== See Also ==
+----
+
+[[re_claimed: Weapon]]

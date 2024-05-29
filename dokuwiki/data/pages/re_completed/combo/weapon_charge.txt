@@ -1,0 +1,11 @@
+==== Weapon Charge ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Nox]]
+
+Increases the user's mana and casts [[re_completed: spell: Dark Coat]] and [[re_completed: spell: Dark Charge]]
+
+== See Also ==
+----
+
+[[re_completed: combo: Dolphin Style]]

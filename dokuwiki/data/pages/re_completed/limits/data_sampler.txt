@@ -1,0 +1,15 @@
+==== Data Sampler ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Memory]]
+
+Summons a Scanner that follows the original target
+
+Can [[re_completed: action: React]] using [[re_completed: reaction: Scan]] while the original target is standing on the Scanner
+
+The original target can [[re_completed: action: React]] using [[re_completed: reaction: Encrypt]] while standing on the Scanner
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

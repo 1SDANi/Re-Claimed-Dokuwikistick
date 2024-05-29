@@ -1,0 +1,13 @@
+^ Dual Wield ^
+| 150% Minimum Error |
+| 150% Maximum Error |
+| 200% Error Acceleration |
+| 50% Error Deceleration |
+| Cannot [[re_claimed: Melee]] |
+| Cannot throw [[re_claimed: weapon: Grenades]] |
+
+== See Also ==
+----
+[[re_claimed: weapon: Personal Handgun]]
+
+[[re_claimed: weapon: Personal Defense]]

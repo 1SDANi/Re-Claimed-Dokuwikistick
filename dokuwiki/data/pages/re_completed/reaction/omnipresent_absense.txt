@@ -1,0 +1,11 @@
+==== Omnipresent Absense ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Fires many blasts of energy at random from the user's body
+
+== See Also ==
+----
+
+[[re_completed: limits: All-Vanity]]

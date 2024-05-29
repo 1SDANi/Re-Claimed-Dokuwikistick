@@ -1,0 +1,25 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1711356865;s:8:"modified";i:1713231652;}s:11:"last_change";a:8:{s:4:"date";i:1713231652;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:12:"re_completed";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:30;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:8:"relation";a:2:{s:10:"references";a:13:{s:25:"re_completed:command_menu";b:1;s:23:"re_completed:characters";b:1;s:19:"re_completed:action";b:1;s:29:"re_completed:door_to_darkness";b:1;s:26:"re_completed:door_to_light";b:1;s:33:"re_completed:the_forgotten_memory";b:1;s:31:"re_completed:the_forgotten_will";b:1;s:26:"re_completed:heart_of_pain";b:1;s:26:"re_completed:heart_of_hope";b:1;s:30:"re_completed:the_undying_dream";b:0;s:29:"re_completed:the_undying_life";b:0;s:33:"re_completed:the_keyblade_s_order";b:0;s:32:"re_completed:the_x-blade_s_chaos";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:229:"Command Menu
+
+ Characters
+
+ Action
+
+ Door to Darkness
+
+ Door to Light
+
+ The Forgotten Memory
+
+ The Forgotten Will
+
+ Heart of Pain
+
+ Heart of Hope
+
+ The Undying Dream
+
+ The Undying Life
+
+ The Keyblade's Order
+
+ The X-Blade's Chaos";}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1711356865;s:8:"modified";i:1713231652;}s:11:"last_change";a:8:{s:4:"date";i:1713231652;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:12:"re_completed";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:30;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

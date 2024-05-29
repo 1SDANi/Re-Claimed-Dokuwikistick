@@ -1,0 +1,11 @@
+==== Ultimate Volley ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Rapidly fires lasers in all directions
+
+== See Also ==
+----
+
+[[re_completed: limits: Ultimate Sniper]]

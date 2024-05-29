@@ -1,0 +1,9 @@
+^ Sample Module ^
+| [[general: Sampling Nova]] |
+| 3% Fuel Cell per Round (25% with [[general: Charge]]) |
+| -1 Accuracy |
+
+== See Also ==
+----
+
+[[General: Constructor Welder]]

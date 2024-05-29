@@ -1,0 +1,11 @@
+==== Sliding Rush ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Dashes at the target and launches them into the air
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

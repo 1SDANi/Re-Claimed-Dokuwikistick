@@ -1,0 +1,11 @@
+==== Culture ====
+----
+
+[[re_risen: Society]]
+
+When generic Culture is produced on a [[re_risen: Tile]], its [[re_risen: Society]] value is randomly selected from among existing Culture present on that Tile
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

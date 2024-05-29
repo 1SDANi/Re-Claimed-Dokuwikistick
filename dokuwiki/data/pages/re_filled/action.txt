@@ -1,0 +1,33 @@
+==== Action ====
+----
+
+^ Direction ^ Input ^ Default KBM |
+^ [[re_filled: action: Move]] Front | [[controls: inputs: LAU]] | W |
+^ [[re_filled: action: Move]] Back | [[controls: inputs: LAD]] | S |
+^ [[re_filled: action: Move]] Left | [[controls: inputs: LAL]] | A |
+^ [[re_filled: action: Move]] Right | [[controls: inputs: LAR]] | D |
+^ [[re_filled: action: Run]] | [[controls: inputs: LAC]] | Control |
+^ [[re_filled: action: Look]] Up | [[controls: inputs: RAU]] | Mouse Up |
+^ [[re_filled: action: Look]] Down | [[controls: inputs: RAD]] | Mouse Down |
+^ [[re_filled: action: Look]] Left | [[controls: inputs: RAL]] | Mouse Left |
+^ [[re_filled: action: Look]] Right | [[controls: inputs: RAR]] | Mouse Right |
+^ [[re_filled: action: Aim]] | [[controls: inputs: RAC]] | Middle Mouse Button |
+^ [[re_filled: action: Put Away Item]] | [[controls: inputs: RFU]] | Q |
+^ [[re_filled: action: Use Command]] | [[controls: inputs: RFD]] | E |
+^ [[re_filled: action: Jump]] | [[controls: inputs: RFR]] | Space |
+^ [[re_filled: action: Evade]] | [[controls: inputs: RFL]] | Shift |
+^ [[re_filled: action: Zoom In]] | [[controls: inputs: RBD]] | Mouse Wheel Up |
+^ [[re_filled: action: Zoom Out]] | [[controls: inputs: LBD]] | Mouse Wheel Down |
+^ [[re_filled: action: Primary Action]] | [[controls: inputs: RBU]] | E |
+^ [[re_filled: action: Secondary Action]] | [[controls: inputs: LBU]] | Q |
+^ [[re_filled: action: Command Menu Up]] | [[controls: inputs: LFU]] | R |
+^ [[re_filled: action: Command Menu Down]] | [[controls: inputs: LFD]] | F |
+^ [[re_filled: action: Command Menu Open]] | [[controls: inputs: LFR]] | V |
+^ [[re_filled: action: Command Menu Switch]] | [[controls: inputs: LFL]] | B |
+^ [[re_filled: action: Map]] | [[controls: inputs: LFC]] | Enter |
+^ [[re_filled: action: Pause]] | [[controls: inputs: RFC]] | Escape |
+
+== See Also ==
+----
+
+[[:Re Claimed]]

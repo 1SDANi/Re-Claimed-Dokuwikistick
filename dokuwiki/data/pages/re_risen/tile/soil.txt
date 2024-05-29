@@ -1,0 +1,23 @@
+==== Soil ====
+----
+
+[[re_risen: tile: soil: Arctic]]
+
+[[re_risen: tile: soil: Tundra]]
+
+[[re_risen: tile: soil: Steppe]]
+
+[[re_risen: tile: soil: Prairie]]
+
+[[re_risen: tile: soil: Grassland]]
+
+[[re_risen: tile: soil: Semidesert]]
+
+[[re_risen: tile: soil: Desert]]
+
+[[re_risen: tile: soil: Badlands]]
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

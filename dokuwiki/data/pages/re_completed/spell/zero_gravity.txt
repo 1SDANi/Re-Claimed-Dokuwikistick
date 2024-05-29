@@ -1,0 +1,11 @@
+==== Anti Gravity ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Applies [[re_completed: status: Float]] to the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

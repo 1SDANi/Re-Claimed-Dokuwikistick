@@ -1,0 +1,13 @@
+==== Forerunner ====
+----
+
+[[re_claimed: character: team: human: Sentinels]]
+
+[[re_claimed: character: team: human: Prometheans]]
+
+[[re_claimed: character: team: human: The Assembly]]
+
+== See Also ==
+----
+
+[[re_claimed: character: Team]]

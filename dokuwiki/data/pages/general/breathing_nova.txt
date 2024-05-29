@@ -1,4 +1,10 @@
-^ Breathing Nova ^ [[general: Damage Type]]: [[general: Nova]] ^
-| Impact Damage: 5 (0 with [[general: Charge]]) | Knockback: None |
-| Speed: Speed: Instant (None with [[general: Charge]])| Size: Small (Medium with [[general: Charge]]) |
+^ Breathing Nova ^ [[general: Nova]] [[general: Damage Type]] ^
+| 5 Impact Damage (0 with [[general: Charge]]) | No Knockback |
+| Instant (None with [[general: Charge]])| Small (Medium with [[general: Charge]]) |
 | 1 burn damage over 5 seconds without [[general: Charge]] | [[general: Regeneration]] with [[general: Charge]] |
+
+
+== See Also ==
+----
+
+[[General: Constructor Welder]]

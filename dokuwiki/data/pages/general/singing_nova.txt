@@ -1,4 +1,10 @@
-^ Singing Nova ^ [[general: Damage Type]]: [[general: Nova]] ^
-| Impact Damage: 3 | Knockback: None |
-| Speed: Speed: Instant (None with [[general: Charge]])| Size: Small |
+^ Singing Nova ^ [[general: Nova]] [[general: Damage Type]] ^
+| 3 Impact Damage | No Knockback |
+| Fast (None with [[general: Charge]]) | Small |
 | 4 burn damage over 4 seconds |
+
+
+== See Also ==
+----
+
+[[General: Pursuer Pulser]]

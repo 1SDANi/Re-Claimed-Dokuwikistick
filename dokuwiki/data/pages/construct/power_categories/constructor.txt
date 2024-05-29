@@ -1,0 +1,30 @@
+==== Constructor ====
+----
+
+Constructors are driven by a desire to grow
+
+Constructors have one ability
+
+Constructors have one weapon
+
+Constructors can construct their ability into their weapon
+
+Constructors can construct their ability into an astral projection
+
+Constructors cannot use their ability on their own while their ability is constructed into a construct
+
+Constructors can have their weapon use their ability while they are in physical contact with their weapon
+
+Constructors can psychically have their astral projection use their ability
+
+Constructors can psychically  control their astral projection as an extension of their body
+
+Astral projection do not have senses
+
+Astral projections are physically identical to their Constructor
+
+Damage done to an astral projection is done to the Constructor
+
+== See also ==
+----
+[[construct: Power Categories]]

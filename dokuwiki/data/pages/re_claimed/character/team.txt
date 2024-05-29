@@ -1,0 +1,17 @@
+==== Team ====
+----
+
+[[re_claimed: character: team: Human]]
+
+[[re_claimed: character: team: Sangheili]]
+
+[[re_claimed: character: team: Jiralhanae]]
+
+[[re_claimed: character: team: Flood]]
+
+[[re_claimed: character: team: Forerunner]]
+
+== See Also ==
+----
+
+[[re_claimed: Character]]

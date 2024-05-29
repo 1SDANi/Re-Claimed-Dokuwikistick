@@ -1,0 +1,9 @@
+^ Cleansing Nova ^ [[general: Nova]] [[general: Damage Type]] ^
+| 1 Impact Damage | No Knockback |
+| 6 burn damage over 6 seconds |
+
+
+== See Also ==
+----
+
+[[General: Cleaning Module]]

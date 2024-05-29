@@ -1,0 +1,17 @@
+==== Whirlwind Dance ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Creates blasts of razor winds in all directions
+
+The user can [[re_completed: Action: Combo]] using [[re_completed: reaction: Whirlwind Routine]]
+
+The user can [[re_completed: Action: React]] using [[re_completed: reaction: Razor Chaines]]
+
+Can [[re_completed: Action: React]] to using [[re_completed: reaction: With The Flow]] briefly before being hit by the user's weapon
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

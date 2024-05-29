@@ -1,0 +1,9 @@
+==== Rival ====
+----
+
+Fight the strongest enemy
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

@@ -1,0 +1,11 @@
+==== Razor Chaines ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Spins the user's weapon above their head, creating two rotating blades of razor wind
+
+== See Also ==
+----
+
+[[re_completed: limits: Whirlwind Dance]]

@@ -1,0 +1,164 @@
+==== Traverse Town ====
+----
+
+[[re_completed: Door To Darkness]]
+
+----
+
+World Unlock: [[re_completed: worlds: Destiny Islands]]
+
+Cutscene: Pluto wakes Sora in an alleyway and runs off
+
+Dialogue: Sora awakes and yells for Riku and Kairi
+
+----
+
+Area: [[re_completed: worlds: traverse_town: First District]]
+
+Landmark: Designer Boutique, General Store, Crafts Contractor, Le Grand Bistrot
+
+Campground: Refugee Tent
+  * Boost: None
+  * Requires: None
+  * Duration: Current world
+  * Bonus: None
+
+Shopkeeper: Hustler Kid
+  * Goods: Random
+  * Quantity: 1
+  * Discount: If an item hasn't sold in a while
+  * Expiration: At random
+  * Prices: Market rate
+  * Refunds: None
+  * Buyback: None
+  * Will Buy: Anything
+  * Bounty: Market value
+  * Collection: Photo taken of Landmarks
+
+Goal: Explore
+
+----
+
+Area: [[re_completed: worlds: traverse_town: Designer Boutique]]
+
+Shopkeeper: Cid
+  * Goods: Equipables
+  * Quantity: Restocks over time
+  * Discount: Stock discount
+  * Expiration: Never
+  * Prices: Fixed
+  * Refunds: Same day
+  * Buyback: None
+  * Will Buy: Equipables
+  * Bounty: Rarity
+  * Collection: Equipables
+
+Goal: Explore
+
+----
+
+Area: [[re_completed: worlds: traverse_town: General Store]]
+
+Shopkeeper: Huey, Dewey, and Louie
+  * Goods: Consumables
+  * Quantity: Restocks in bulk
+  * Discount: Bulk discount
+  * Expiration: Never
+  * Prices: Fixed
+  * Refunds: None
+  * Buyback: Same day
+  * Will Buy: Consumables
+  * Bounty: Bulk
+  * Collection: Consumables
+
+Goal: Explore
+
+----
+
+Area: [[re_completed: worlds: traverse_town: Crafts Contractor]]
+
+Artisan: Moogles
+  * Services: Synthesis
+  * Resources: Materials
+  * Will Buy: Anything
+  * Bounty: Materials
+  * Collection: Materials
+
+Goal: Explore
+
+----
+
+Area: [[re_completed: worlds: traverse_town: Le Grand Bistrot]]
+
+Artisan: Remy and Linguini
+  * Services: Cooking
+  * Resources: Ingredients
+  * Will Buy: Ingredients
+  * Bounty: Quality
+  * Collection: Ingredients
+
+Goal: Explore
+
+----
+
+Area: [[re_completed: worlds: traverse_town: Harbor]]
+
+Landmarks: Gummi Ship
+
+----
+
+Area: [[re_completed: worlds: traverse_town: Second District]]
+
+Landmarks: Gizmo Factory, Hotel, Mansion, Mad Tailor, Kronk's Catering
+
+----
+
+Area: [[re_completed: worlds: traverse_town: Hotel]]
+
+Campground: Green Room
+  * Boost: Health
+  * Requires: Munny
+  * Duration: Until next camp
+  * Bonus: Repeat camper (Hotel)
+
+Secret: Hit the clock in the Green Room until it strikes midnight for a Potion
+
+Campground: Red Room
+  * Boost: Strength
+  * Requires: Munny
+  * Duration: Until next camp
+  * Bonus: Repeat camper (Hotel)
+
+Secret: Break the punching bag in the Red Room for a Power Crystal
+
+Campground: Blue Room
+  * Boost: Mana
+  * Requires: Munny
+  * Duration: Until next camp
+  * Bonus: Repeat camper (Hotel)
+
+Secret: Peruse the bookshelf in the Blue Room five times for a Meditation Tome
+
+Campground: Pink Room
+  * Boost: Link
+  * Requires: Munny
+  * Duration: Until next camp
+  * Bonus: Repeat camper (Hotel)
+
+Secret: Drop in the Pink Room and wait for Gus to leave the mousehole and eat it and return to the mousehole for [[re_completed: link: Gus (Link)]]
+
+Campground: Yellow Room
+  * Boost: Drive
+  * Requires: Munny
+  * Duration: Until next camp
+  * Bonus: Repeat camper (Hotel)
+
+Secret: Summon Genie and have Genie Summon Pooh in the Yellow Room and wait for Pooh to eat the hunny for Pooh to find something at the bottom of the pot of honey and give it to you for a premium salmon
+
+----
+
+Area: [[re_completed: worlds: traverse_town: Second District]]
+
+Landmarks: Gizmo Factory, Hotel, Mansion, Mad Tailor, Kronk's Catering
+
+----

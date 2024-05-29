@@ -1,0 +1,13 @@
+==== Gravity Rain ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Fires blasts of gravity into the air that rain down on the arena
+
+Can [[re_completed: Action: React]] using [[re_completed: reaction: Showdown]] before the user starts firing
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

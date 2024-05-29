@@ -1,0 +1,12 @@
+^ Vampiric Antilight ^ [[general: Damage Type]]: [[general: Nova]] ^
+| Impact Damage: 4 | Knockback: Negative High |
+| Speed: Speed: Instant | Size: Medium |
+| Health damage restores user's health ||
+| Shield damage restores user's shields ||
+
+
+
+== See Also ==
+----
+
+[[General: Spiker]]

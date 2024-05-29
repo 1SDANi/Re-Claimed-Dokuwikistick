@@ -1,0 +1,14 @@
+=== XBOX ====
+----
+
+^ Input ^ [[controls: inputs: U]] ^ [[controls: inputs: D]] ^ [[controls: inputs: L]] ^ [[controls: inputs: R]] ^ [[controls: inputs: C]] |
+^ [[controls: inputs: LA]] | [[controls: xbox: LU]] | [[controls: xbox: LD]] | [[controls: xbox: LL]] | [[controls: xbox: LR]] | [[controls: xbox: LS]] |
+^ [[controls: inputs: LF]] | [[controls: xbox: D-UP]] | [[controls: xbox: D-DOWN]] | [[controls: xbox: D-LEFT]] | [[controls: xbox: D-RIGHT]] | [[controls: xbox: Select]] |
+^ [[controls: inputs: LB]] | [[controls: xbox: RB]] | [[controls: xbox: LT]] |
+^ [[controls: inputs: RA]] | [[controls: xbox: RU]] | [[controls: xbox: RD]] | [[controls: xbox: RL]] | [[controls: xbox: RR]] | [[controls: xbox: RS]] |
+^ [[controls: inputs: RF]] | [[controls: xbox: Y]] | [[controls: xbox: A]] | [[controls: xbox: X]] | [[controls: xbox: B]] | [[controls: xbox: Start]] |
+^ [[controls: inputs: RB]] | [[controls: xbox: RB]] | [[controls: xbox: RT]] |
+
+== See Also ==
+----
+[[:Controls]]

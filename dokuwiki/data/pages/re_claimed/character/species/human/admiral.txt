@@ -1,0 +1,23 @@
+==== Admiral ====
+----
+
+[[re_claimed: character: Inherits]]: [[re_claimed: character: species: Human]]
+
+50/25
+
+[[re_claimed: Ability]]: [[re_claimed: ability: Absolute Authority]]
+
+[[re_claimed: Visibility]]: [[re_claimed: ability: Flashlight]]
+
+| [[re_claimed: character: species: human: Head]] [[re_claimed: character: body_part: Shield]][[re_claimed: character: body_part: Meter]] |
+| [[re_claimed: character: body_part: meter: Meter Value]]: 25 |
+| [[re_claimed: character: body_part: meter: Regen Value]]: 5 |
+| [[re_claimed: character: body_part: meter: Stun Time]]: 2 |
+| [[re_claimed: character: body_part: meter: Regen Time]]: 10 |
+| [[re_claimed: Armor Type]]: [[re_claimed: armor_type: Light Armor]] |
+
+
+== See Also ==
+----
+
+[[re_claimed: character: species: Human]]

@@ -1,0 +1,8 @@
+^ Bayonet ^
+| -1 [[general: Stability]] |
+| +2 [[general: Melee]] |
+
+== See Also ==
+----
+
+[[General: Spiker]]

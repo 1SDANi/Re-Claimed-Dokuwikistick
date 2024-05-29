@@ -1,0 +1,11 @@
+==== Hierarchy ====
+----
+
+[[re_risen: tile: Class]]
+
+When generic Hierarchy is produced on a [[re_risen: Tile]], its [[re_risen: tile: Class]] value is randomly selected from among existing Hierarchy on that Tile
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

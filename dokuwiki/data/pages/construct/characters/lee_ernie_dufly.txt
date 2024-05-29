@@ -1,0 +1,42 @@
+==== Lee Ernie Dufly ====
+----
+
+=== Part 1A ===
+----
+
+Age: 16
+
+Identity: Boy
+
+Expression: Lazy Masculine
+
+Orientation: Undiscovered
+
+Drive: Overcoming their fears
+
+Value: People shouldn't do bad things and people who do good things should be rewarded
+
+Line: Breaking rules is bad
+
+Goal: Ensure adults don't learn of what powers are capable of in fear of rules against power use being added
+
+Affiliation: [[construct: affiliation: Watchlist]]
+
+Category: [[construct: power_categories: Constructor]]
+
+== Sublimation ==
+
+The user can teleport particles within a distance from the origin point of this power's activation equal to their height to any other point within that same distance and project them as gasses with a desired angular velocity and change in angular velocity, at the cost of placing increased strain on their lungs.
+
+The user believes their power lets them project air from their body in exchange for making them more tired
+
+Weapon: Spear
+
+=== Part 1B ===
+----
+
+Affiliation: [[construct: affiliation: Peacekeepers]]
+
+=== See Also ===
+----
+[[construct: Characters]]

@@ -1,0 +1,11 @@
+==== Hail ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Summons a hailstorm that damages enemies over time, enemies are slowed while they are being damaged
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

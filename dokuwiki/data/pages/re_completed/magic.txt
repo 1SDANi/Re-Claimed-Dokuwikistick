@@ -1,0 +1,10 @@
+==== Magic ====
+----
+
+^ [[re_completed: Element]] |
+^ [[re_completed: Spell]] |
+
+== See Also ==
+----
+
+[[:Re Completed]]

@@ -1,0 +1,11 @@
+==== Spark Dive ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Leaps into the air and strikes the opponent from above with an electrified falling stab
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

@@ -1,0 +1,11 @@
+==== Battle Sense ====
+----
+
+| [[re_claimed: ability: Passive]] |
+| You don't reach my rank without learning how to dodge a few bullets |
+| Smaller hurtboxes |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: human: Captain]]

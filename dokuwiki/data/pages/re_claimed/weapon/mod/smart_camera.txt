@@ -1,0 +1,8 @@
+^ Smart Camera ^
+| Cannot [[re_claimed: Dual Wield]] |
+| +2 [[re_claimed: Zoom]] |
+
+== See Also ==
+----
+
+[[re_claimed: weapon: personal_handgun: Sidekick]]

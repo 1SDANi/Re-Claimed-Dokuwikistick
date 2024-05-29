@@ -1,0 +1,9 @@
+==== LBU ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: LB]] | [[controls: playstation: L1]] | [[controls: switch: LB]] |
+
+== See Also ==
+----
+[[controls: Inputs]]

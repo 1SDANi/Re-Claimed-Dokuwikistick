@@ -1,0 +1,9 @@
+==== LBD ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: LT]] | [[controls: playstation: L2]] | [[controls: switch: LT]] |
+
+== See Also ==
+----
+[[controls: Inputs]]

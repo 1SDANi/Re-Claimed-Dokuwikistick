@@ -1,0 +1,11 @@
+==== Dust Shot ====
+----
+
+[[re_claimed: equipment: Use]]: [[re_claimed: equipment: Apply]] [[re_claimed: equipment: Status]]
+
+[[re_claimed: equipment: Status]]: +10% [[re_claimed: character: body_part: Health]] per second for 20 seconds
+
+== See Also ==
+----
+
+[[re_claimed: Equipment]]

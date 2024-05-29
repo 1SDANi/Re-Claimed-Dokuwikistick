@@ -1,0 +1,9 @@
+==== Cleric ====
+----
+
+Heal using [[re_completed: Magic]]
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

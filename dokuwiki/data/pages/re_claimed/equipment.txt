@@ -1,0 +1,20 @@
+^ Equipment ^ [[re_claimed: character: team: Human]] ^ [[re_claimed: character: team: Sangheili]] ^ [[re_claimed: character: team: Jiralhanae]] ^ [[re_claimed: character: team: Forerunner]] ^
+| [[re_claimed: equipment: Healing]] | [[re_claimed: equipment: Health Pack]] | [[re_claimed: equipment: Regenerator]] | [[re_claimed: equipment: Dust Shot]] | [[re_claimed: equipment: Repair Drone]] |
+| [[re_claimed: equipment: Resupplying]] | [[re_claimed: equipment: Ammo Box]] | [[re_claimed: equipment: Remote Battery]] | [[re_claimed: equipment: Scrap Pile]] | [[re_claimed: equipment: Fusion Drone]] |
+| [[re_claimed: equipment: Short Turret]] | [[re_claimed: equipment: Flamethrower]] | [[re_claimed: equipment: Shade Cannon]] | [[re_claimed: equipment: Spike Cannon]] | [[re_claimed: equipment: Flame Drone]] |
+| [[re_claimed: equipment: Long Turret]] | [[re_claimed: equipment: Machine Gun]] | [[re_claimed: equipment: Plasma Cannon]] | [[re_claimed: equipment: Needle Cannon]] | [[re_claimed: equipment: Beam Drone]] |
+| [[re_claimed: equipment: Explosive Turret]] | [[re_claimed: equipment: Missile Pod]] | [[re_claimed: equipment: Fuel Rod Cannon]] | [[re_claimed: equipment: EMP Cannon]] | [[re_claimed: equipment: Mortar Drone]] |
+| [[re_claimed: equipment: Offense]] | [[re_claimed: equipment: Assault Bomb]] | [[re_claimed: equipment: Power Drain]] | [[re_claimed: equipment: Trip Mine]] | [[re_claimed: equipment: Bomb Drone]] |
+| [[re_claimed: equipment: Defense]] | [[re_claimed: equipment: Armor Lock]] | [[re_claimed: equipment: Overshield]] | [[re_claimed: equipment: Impenetrator]] | [[re_claimed: equipment: Shield Drone]] |
+| [[re_claimed: equipment: Cover]] | [[re_claimed: equipment: Sandbags]] | [[re_claimed: equipment: Deployable Cover]] | [[re_claimed: equipment: Bubble Shield]] | [[re_claimed: equipment: Firewall Drone]] |
+| [[re_claimed: equipment: Movement]] | [[re_claimed: equipment: Jetpack]] | [[re_claimed: equipment: Hoverpack]] | [[re_claimed: equipment: Jump Pack]] | [[re_claimed: equipment: Platform Drone]] |
+| [[re_claimed: equipment: grenade: Combat]] | [[re_claimed: equipment: grenade: combat: Conc Grenade]] | [[re_claimed: equipment: grenade: combat: Plasma Grenade]] | [[re_claimed: equipment: grenade: combat: Spike Grenade]] | [[re_claimed: equipment: grenade: combat: Nova Grenade]] |
+| [[re_claimed: equipment: grenade: Power]] | [[re_claimed: equipment: grenade: power: Frag Grenade]] | [[re_claimed: equipment: grenade: disruption: Fuel Rod Grenade]] | [[re_claimed: equipment: grenade: power: Needle Grenade]] | [[re_claimed: equipment: grenade: power: Composer Grenade]] |
+| [[re_claimed: equipment: grenade: Stealth]] | [[re_claimed: equipment: grenade: stealth: Smoke Grenade]] | [[re_claimed: equipment: grenade: stealth: Camo Grenade]] | [[re_claimed: equipment: grenade: stealth: Blast Grenade]] | [[re_claimed: equipment: grenade: stealth: Mirage Grenade]] |
+| [[re_claimed: equipment: grenade: Disruption]] | [[re_claimed: equipment: grenade: disruption: Flashbang Grenade]] | [[re_claimed: equipment: grenade: disruption: Hologram Grenade]] | [[re_claimed: equipment: grenade: disruption: Shock Grenade]] | [[re_claimed: equipment: grenade: disruption: Gravity Grenade]] |
+
+
+== See Also ==
+----
+
+[[:Re Claimed]]

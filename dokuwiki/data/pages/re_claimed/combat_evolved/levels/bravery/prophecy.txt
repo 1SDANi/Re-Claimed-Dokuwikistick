@@ -1,0 +1,160 @@
+==== Prophecy ====
+----
+
+Scenario: The [[re_claimed: character: Prophet of Inquisition]]'s Divine Convoy has been spotted landing on the roof of a structure in a rainforest
+
+Objective 1: Reach the [[re_claimed: maps: 04_Rainforest: Temple Exterior]]
+  * Objective 1A: Sabotage [[re_claimed: team: Covenant]] [[re_claimed: vehicle: Weevil]]s
+    * Reward: Ally reinforcements are available in O2
+  * Objective 1B: Kill [[re_claimed: character: Jiralhanae Stalker]]s
+    * Reward: More ally reinforcements in O2
+  * Objective 1C: Kill a [[re_claimed: character: Sharqoi]]
+    * Reward: [[re_claimed: character: Sharqoi]] do not spawn in O2
+
+Twist: The Covenant have fully fortified the temple
+
+Objective 2: Capture, interrogate, and kill the [[re_claimed: character: Prophet of Inquisition]]
+  * Objective 2A: Sabotage the Divine Convoy
+    * Reward: Weaker enemy reinforcements in [[re_claimed: combat_evolved: levels: bravery: Cartographer]]
+  * Objective 2B: Kill the [[re_claimed: character: Sangheili Honor Guard]]
+    * Reward: Fewer [[re_claimed: character: Sangheili Honor Guard]] spawns in [[re_claimed: combat_evolved: levels: bravery: Cartographer]]
+  * Objective 2C: Capture a [[re_claimed: character: Huragok]]
+     * Reward 2C: O2C automatically completed in [[re_claimed: combat_evolved: levels: bravery: Cartographer]]
+
+Conclusion: The [[re_claimed: character: Prophet of Inquisition]] traveled to the temple to decipher holy [[re_claimed: character: team: Forerunner]] text divining the location of the [[re_claimed: levels: bravery: Cartographer: Silent Cartographer]]
+
+
+[[general: Weapon]]s:
+  * [[re_claimed: weapon: Sidekick]]
+  * [[re_claimed: weapon: Submachine Gun]]
+  * [[re_claimed: weapon: Assault Rifle]]
+  * [[re_claimed: weapon: Battle Rifle]]
+  * [[re_claimed: weapon: Sniper Rifle]]
+  * [[re_claimed: weapon: Grenade Launcher]]
+  * [[re_claimed: weapon: Shotgun]]
+  * [[re_claimed: weapon: Machete]]
+
+  * [[re_claimed: weapon: Plasma Pistol]]
+  * [[re_claimed: weapon: Plasma Rifle]]
+  * [[re_claimed: weapon: Plasma Carbine]]
+  * [[re_claimed: weapon: Fuel Rod Carbine]]
+  * [[re_claimed: weapon: Focus Rifle]]
+  * [[re_claimed: weapon: Shade Rifle]]
+  * [[re_claimed: weapon: Disintegration Jet]]
+  * [[re_claimed: weapon: Energy Sword]]
+
+  * [[re_claimed: weapon: Mauler]]
+  * [[re_claimed: weapon: Spiker]]
+  * [[re_claimed: weapon: Needler]]
+  * [[re_claimed: weapon: Impaler]]
+  * [[re_claimed: weapon: Shocker]]
+  * [[re_claimed: weapon: Blaster]]
+  * [[re_claimed: weapon: Ravager]]
+  * [[re_claimed: weapon: Smasher]]
+  * [[re_claimed: weapon: Blast Grenade]]
+
+  * [[re_claimed: weapon: Constructor Welder]]
+  * [[re_claimed: weapon: Nova Grenade]]
+  * 
+[[re_claimed: Grenade]]s:
+  * [[re_claimed: weapon: Conc Grenade]]
+  * [[re_claimed: weapon: Frag Grenade]]
+
+  * [[re_claimed: weapon: Plasma Grenade]]
+
+  * [[re_claimed: weapon: Spike Grenade]]
+  * [[re_claimed: weapon: Blast Grenade]]
+
+[[re_claimed: weapon: Equipment]]:
+  * [[re_claimed: equipment: Health Pack]]
+  * [[re_claimed: equipment: Ammo Box]]
+  * [[re_claimed: equipment: Assault Bomb]]
+  * [[re_claimed: equipment: Armor Lock]]
+  * [[re_claimed: equipment: Sandbags]]
+  * [[re_claimed: equipment: Smoke Emitter]]
+
+  * [[re_claimed: equipment: Regenerator]]
+  * [[re_claimed: equipment: Remote Battery]]
+  * [[re_claimed: equipment: Plasma Cannon]]
+  * [[re_claimed: equipment: Overshield]]
+  * [[re_claimed: equipment: Deployable Cover]]
+  * [[re_claimed: equipment: Active Camo]]
+
+  * [[re_claimed: equipment: Dust Shot]]
+  * [[re_claimed: equipment: Scrap Pile]]
+  * [[re_claimed: equipment: Spike Cannon]]
+  * [[re_claimed: equipment: Trip Mine]]
+  * [[re_claimed: equipment: Bubble Shield]]
+  * [[re_claimed: equipment: Flare]]
+
+  * [[re_claimed: equipment: Repair Drone]]
+
+[[re_claimed: Vehicles]]:
+  * [[re_claimed: vehicle: Pelican]]
+
+  * [[re_claimed: vehicle: Phantom]]
+  * [[re_claimed: vehicle: Spirit]]
+
+
+[[re_claimed: Character]]s:
+  * [[re_claimed: character: species: human: spartan: Master Chief Petty Officer John 117]]
+  * [[re_claimed: character: species: human: spartan: First Class Petty Officer Linda 058]]
+  * [[re_claimed: character: species: human: sergeant: Staff Sergeant Avery Johnson]]
+  * [[re_claimed: character: species: human: captain: Lieutenant Commander Miranda Keyes]]
+
+  * [[re_claimed: character: species: human: HAZOP]]
+  * [[re_claimed: character: species: human: ODST]]
+
+  * [[re_claimed: character: species: human: captain: Captain Jacob Keyes]]
+
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Minor]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Major]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Ultra]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Heavy]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Urbanae]]
+
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Minor]]
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Major]]
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Ultra]]
+  * [[re_claimed: character: species: Kig-Yar: Ruuhtian]] [[re_claimed: character: species: Kig-Yar: Ruuhtian: Vigiles]]
+
+  * [[re_claimed: character: species: Yanme'e]] [[re_claimed: character: species: Yanme'e: Minor]]
+  * [[re_claimed: character: species: Yanme'e]] [[re_claimed: character: species: Yanme'e: Major]]
+  * [[re_claimed: character: species: Yanme'e]] [[re_claimed: character: species: Yanme'e: Escort]]
+
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Minor]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Major]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Ultra]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Stealth]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Zealot]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Honor Guard]]
+
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Major]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Stalker]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Jumper]]
+
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Minor]]
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Major]]
+  * [[re_claimed: character: species: Kig-Yar: T'Voan]] [[re_claimed: character: species: Kig-Yar: T'Voan: Ultra]]
+
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Major]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Ultra]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Stalker]]
+
+  * [[re_claimed: character: species: Lekgolo: Mgalekgolo]] [[re_claimed: character: species: Lekgolo: Mgalekgolo: Minor]]
+  * [[re_claimed: character: species: Lekgolo: Mgalekgolo]] [[re_claimed: character: species: Lekgolo: Mgalekgolo: Major]]
+  * [[re_claimed: character: species: Lekgolo: Mgalekgolo]] [[re_claimed: character: species: Lekgolo: Mgalekgolo: Castle]]
+
+  * [[re_claimed: character: species: Sharquoi]]
+  * [[re_claimed: character: species: Huragok]]
+
+  * [[re_claimed: character: species: San'Shyuum: Prophet of Inquisition]]
+
+[[re_claimed: Map]]:
+  * [[re_claimed: map: 04 Rainforest]]
+
+== See Also ==
+----
+[[re_claimed: combat_evolved: levels: Bravery]]

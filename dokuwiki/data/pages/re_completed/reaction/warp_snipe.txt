@@ -1,0 +1,15 @@
+==== Warp Snipe ====
+----
+
+[[re_completed: Element]]: Depends on the user's [[re_completed: Teleport]]
+
+Teleports to a projectile and redirects it at the target
+
+== See Also ==
+----
+
+[[re_completed: spell: Charged Laser]]
+
+[[re_completed: spell: Cluster Laser]]
+
+[[re_completed: status: Focus]]

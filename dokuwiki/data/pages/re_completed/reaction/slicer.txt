@@ -1,0 +1,11 @@
+==== Slicer ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Slices through and destroys the [[re_completed: spell: Spark Wall]]
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

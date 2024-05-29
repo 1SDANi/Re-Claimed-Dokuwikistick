@@ -1,10 +1,13 @@
 ==== Plasma Rifle ====
 ----
 
-^ Role: [[general: Personal Defense]] ^ Projectile: [[general: Stable Directed Energy Bolts]] ^ Firing Mode: [[general: Fully Automatic]] ^
-| Rounds per Second: 10 | Rounds per Shot: 1 | Pellets per Round : 1 |
-| Heat per Round: 7.5% | Cooling per Second: 50% | Seconds to Overheat: 4 |
-| Battery per Round: 0.5% | Rounds per Battery: 200 |
-| Damage per Second: 200 | Damage per Overheat: 800 |
-| [[general: Accuracy]]: 3 | [[general: Stability]]: 2 | [[general: Zoom]]: 0 |
-| [[general: Volume]]: [[general: Loud]] |
+^ [[general: Personal Defense]] ^ [[general: Stable Directed Energy Bolts]] ^ [[general: Fully Automatic]] ^
+| 10 Rounds per Second | 1 Rounds per Shot | 1 Pellets per Round |
+| 7.5% Heat per Round | 50% Cooling per Second | 4 Seconds to Overheat |
+| 0.5% Battery per Round | 200 Rounds per Battery |
+| 200 Damage per Second | 800 Damage per Overheat |
+| 3 [[general: Accuracy]] | 2 [[general: Stability]] | 0 [[general: Zoom]] |
+| [[general: Loud]] [[general: Volume]] |
+
+^ Jaws of Death | [[general: Semi-Auto Conversion]] | [[general: Lift Override]] | [[general: Gyro Scope]] |
+^ Burner | [[general: Overclock]] | [[general: Bayonet]] | [[general: Safety Override]] |

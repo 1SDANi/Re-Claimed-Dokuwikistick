@@ -1,0 +1,9 @@
+==== Eraqus ====
+----
+
+^ Keyblade | [[re_completed: item: Master's Defender ]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

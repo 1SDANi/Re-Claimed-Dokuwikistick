@@ -1,0 +1,12 @@
+==== Semi-Automatic ====
+----
+
+[[re_claimed: weapon: personal_handgun: Plasma Pistol]]
+
+[[re_claimed: weapon: personal_handgun: Mauler]]
+
+[[re_claimed: weapon: personal_handgun: Constructor Beam]]
+
+[[re_claimed: weapon: mod: Semi-Auto Conversion]]
+
+[[re_claimed: weapon: mod: Suppressor]]

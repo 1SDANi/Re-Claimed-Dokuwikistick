@@ -1,0 +1,8 @@
+^ Defend ^ [[re_completed: actions: Grounded]] ^ [[re_completed: actions: Midair]] |
+^ [[controls: inputs: Tap]] | [[re_completed: actions: Parry]] | [[re_completed: actions: Air Parry]] |
+^ [[controls: inputs: Hold]] | [[re_completed: actions: Guard]] | [[re_completed: actions: Air Guard]] |
+
+== See Also ==
+----
+
+[[re_completed: Action]]

@@ -1,0 +1,50 @@
+a:8:{s:2:"id";s:32:"re_completed:combo:dolphin_style";s:6:"prefix";s:0:"";s:4:"text";s:5052:"^ Dolphin Style ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Dash Raid]] | [[re_completed: combo: Frontflip Swing]] | [[re_completed: combo: Aerial Art]] | [[re_completed: combo: Speed Slash]] |
+^ Towards Combo | [[re_completed: combo: Stab Dash]] | [[re_completed: combo: Guard Break]] | [[re_completed: combo: Aerial Slapshot]] | [[re_completed: combo: Spiral Charge]] |
+^ Side Combo | [[re_completed: combo: Vortex Dash]] | [[re_completed: combo: Maelstrom]] | [[re_completed: combo: Aerial Raidspin]] | [[re_completed: combo: Aerial Cyclone]] |
+^ Away Combo | [[re_completed: combo: Slapshot Feint]] | [[re_completed: combo: Triple Rush]] | [[re_completed: combo: Assault Charge]] | [[re_completed: combo: Magic Flash]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Sheathed Charge]] |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Run]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Fly]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Light Hover]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Glide]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Countergrapple]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Spectre]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Countergrapple]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Spectre]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Feint Raid]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Feint Raid]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Light Roll]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Emblem Flag]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Rising Raidspin]] |
+^ [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Vortex Feint]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Helm Split]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Bubble]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Handle Hammer]]  |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Strike Raid]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Dash Raid]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Rising Raidspin]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Feint Raid]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Shoulder Bash]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Running Throw]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Cleansing Surge]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Bladewings]]  |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Shoulder Bash]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Flying Throw]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Cleansing Surge]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Bladewings]]  |
+^ [[re_completed: action: Guard]] Combo | [[re_completed: combo: Raidspin]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Countergrapple]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Blossom Shot]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Tooth Rain]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Raidspin]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Rising Raidspin]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Spectre]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Stop]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Countergrapple]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Tooth Rain]] |";s:6:"suffix";s:0:"";s:4:"date";i:1715444502;s:6:"client";s:9:"127.0.0.1";s:5:"cname";s:106:"C:/Users/bandd/Documents/Godot Projects/Plans/dokuwiki/data/cache/8/8af0c2a311a4210d81cae05c9e19ef10.draft";s:6:"errors";a:0:{}}

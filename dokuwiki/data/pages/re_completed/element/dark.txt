@@ -1,0 +1,9 @@
+^ Dark |
+| [[re_completed: element: Nox]] |
+| [[re_completed: element: Gravity]] |
+| [[re_completed: element: Curse]] |
+
+== See Also ==
+----
+
+[[re_completed: Element]]

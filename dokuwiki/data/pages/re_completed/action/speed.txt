@@ -1,0 +1,18 @@
+==== Speed ====
+----
+
+^ Stance ^ [[re_claimed: action: Grounded]] ^ [[re_claimed: action: Midair]] |
+^ [[controls: input: Tap]] | [[re_claimed: action: Run]] | [[re_claimed: action: Glide]] |
+^ [[controls: input: Hold]] | [[re_claimed: action: Sprint]] | [[re_claimed: action: Fly]] |
+
+== See Also ==
+----
+
+[[re_claimed: Action]]
+
+[[re_completed: action: Skid]] if [[re_completed: actions: Grounded]] and angle between direction and velocity is greater than or equal to 45° or -45°
+
+== See Also ==
+----
+
+[[re_completed: Action]]

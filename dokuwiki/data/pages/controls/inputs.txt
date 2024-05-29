@@ -1,0 +1,13 @@
+==== Inputs ====
+----
+
+^ Input ^ [[controls: inputs: U ]] ^ [[controls: inputs: D ]] ^ [[controls: inputs: L ]] ^ [[controls: inputs: R ]] ^ [[controls: inputs: C ]] |
+^ [[controls: inputs: LA]] | [[controls: inputs: LAU]] | [[controls: inputs: LAD]] | [[controls: inputs: LAL]] | [[controls: inputs: LAR]] | [[controls: inputs: LAC]] |
+^ [[controls: inputs: LF]] | [[controls: inputs: LFU]] | [[controls: inputs: LFD]] | [[controls: inputs: LFL]] | [[controls: inputs: LFR]] | [[controls: inputs: LFC]] |
+^ [[controls: inputs: LB]] | [[controls: inputs: LBU]] | [[controls: inputs: LBD]] |
+^ [[controls: inputs: RA]] | [[controls: inputs: RAU]] | [[controls: inputs: RAD]] | [[controls: inputs: RAL]] | [[controls: inputs: RAR]] | [[controls: inputs: RAC]] |
+^ [[controls: inputs: RF]] | [[controls: inputs: RFU]] | [[controls: inputs: RFD]] | [[controls: inputs: RFL]] | [[controls: inputs: RFR]] | [[controls: inputs: RFC]] |
+^ [[controls: inputs: RB]] | [[controls: inputs: RBU]] | [[controls: inputs: RBD]] |
+== See Also ==
+----
+[[:Controls]]

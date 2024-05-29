@@ -1,0 +1,10 @@
+==== RB ====
+----
+
+^ [[controls: inputs: U]] | [[controls: inputs: RBU]]|
+^ [[controls: inputs: D]] | [[controls: inputs: RBD]]|
+
+== See Also ==
+----
+
+[[controls: Inputs]]

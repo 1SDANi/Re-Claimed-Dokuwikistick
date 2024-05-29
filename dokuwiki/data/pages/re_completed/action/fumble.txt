@@ -1,0 +1,11 @@
+==== Fumble ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+The user fails to draw their weapon, turning all enemy [[re_completed: action: Fumble]] commands into [[re_completed: action: Quickdraw]]
+
+== See Also ==
+----
+
+[[re_completed: reaction: Showdown]]

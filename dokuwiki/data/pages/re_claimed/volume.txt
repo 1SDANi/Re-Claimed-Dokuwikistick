@@ -1,0 +1,6 @@
+^ Value ^ Volume | 
+^ 0 | [[re_claimed: volume: Silent]] |
+^ 1 | [[re_claimed: volume: Quiet]] |
+^ 2 | [[re_claimed: volume: Medium]] |
+^ 3 | [[re_claimed: volume: Loud]] |
+^ 4 | [[re_claimed: volume: Shout]] |

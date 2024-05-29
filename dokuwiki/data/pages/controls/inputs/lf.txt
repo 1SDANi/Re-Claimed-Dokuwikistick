@@ -1,0 +1,12 @@
+==== LF ====
+----
+
+^ [[controls: inputs: U]] | [[controls: inputs: LFU]]|
+^ [[controls: inputs: D]] | [[controls: inputs: LFD]]|
+^ [[controls: inputs: R]] | [[controls: inputs: LFR]]|
+^ [[controls: inputs: L]] | [[controls: inputs: LFL]]|
+
+== See Also ==
+----
+
+[[controls: Inputs]]

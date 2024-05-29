@@ -1,0 +1,95 @@
+==== Autumn ====
+----
+
+Scenario: The [[re_claimed: vehicle: Halcyon Class Cruiser]] Pillar of Autumn is being invaded by the [[re_claimed: team: Covenant]]
+
+Objective 1: Protect the [[re_claimed: vehicle: Halcyon Class Cruiser: Engine Room]]
+  * Objective 1A: Repel [[re_claimed: team: Covenant]] boarding parties from the [[re_claimed: vehicle: Halcyon Class Cruiser: Escape Pod Bays]]
+    * Reward: Less enemy spawns in O2
+  * Objective 1B: Escort injured [[re_claimed: team: UNSC]] personnel to the [[re_claimed: vehicle: Halcyon Class Cruiser: Med Bays]]
+    * Reward: More ally spawns in O2
+  * Objective 1C: Defend the [[re_claimed: vehicle: Halcyon Class Cruiser: Armory]] rooms
+    * Reward: Allies spawn with better weapons in O2
+
+Twist: Captain Keyes is going down with the ship, escape the Pillar of Autumn
+
+Objective 2: Board a [[re_claimed: vehicle: Bumblebee]]
+  * Objective 2A: Backup isolated [[re_claimed: team: UNSC]] personnel
+    * Reward 2A: More ally spawns in [[re_claimed: combat_evolved: levels: damnation: Halo]]
+  * Objective 2B: Use the Autumn's [[re_claimed: vehicle: Halcyon Class Cruiser: Weapons]] to destroy [[re_claimed: team: Covenant]] [[re_claimed: Vehicles]]
+    * Reward 2B: Less enemy spawns in [[re_claimed: combat_evolved: levels: damnation: Halo]]
+  * Objective 2C: Kill a [[re_claimed: character: Sangheili Zealot]]
+    * Reward 2C: O2C automatically completed in [[re_claimed: combat_evolved: levels: damnation: Halo]]
+
+Conclusion: Barely escaped
+
+[[general: Weapon]]s:
+  * [[re_claimed: weapon: Sidekick]]
+  * [[re_claimed: weapon: Submachine Gun]]
+  * [[re_claimed: weapon: Machete]]
+  * 
+  * [[re_claimed: weapon: Plasma Pistol]]
+  * [[re_claimed: weapon: Plasma Rifle]]
+  * [[re_claimed: weapon: Energy Sword]]
+
+  * [[re_claimed: weapon: Mauler]]
+  * [[re_claimed: weapon: Spiker]]
+  * [[re_claimed: weapon: Smasher]]
+
+[[re_claimed: Grenade]]:
+  * [[re_claimed: weapon: Conc Grenade]]
+
+  * [[re_claimed: weapon: Plasma Grenade]]
+
+  * [[re_claimed: weapon: Blast Grenade]]
+
+[[re_claimed: Equipment]]:
+  * [[re_claimed: equipment: Health Pack]]
+  * [[re_claimed: equipment: Ammo Box]]
+  * [[re_claimed: equipment: Sandbags]]
+
+  * [[re_claimed: equipment: Remote Battery]]
+  * [[re_claimed: equipment: Overshield]]
+  * [[re_claimed: equipment: Deployable Cover]]
+
+  * [[re_claimed: equipment: Scrap Pile]]
+  * [[re_claimed: equipment: Trip Mine]]
+  * [[re_claimed: equipment: Flare]]
+
+[[re_claimed: Vehicles]]:
+  * [[re_claimed: Halcyon Class Cruiser]]
+  * [[general: Bumblebee]]
+
+[[re_claimed: Characters]]:
+  * [[re_claimed: character: species: human: spartan: Master Chief Petty Officer John 117]]
+  * [[re_claimed: character: species: human: spartan: First Class Petty Officer Linda 058]]
+  * [[re_claimed: character: species: human: sergeant: Staff Sergeant Avery Johnson]]
+  * [[re_claimed: character: species: human: captain: Lieutenant Commander Miranda Keyes]]
+
+  * [[re_claimed: character: species: human: Crew]]
+  * [[re_claimed: character: species: human: Private]]
+  * [[re_claimed: character: species: human: Corporal]]
+  * [[re_claimed: character: species: human: HAZOP]]
+
+  * [[re_claimed: character: species: human: captain: Captain Jacob Keyes]]
+
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Minor]]
+  * [[re_claimed: character: species: Unggoy]] [[re_claimed: character: species: Unggoy: Major]]
+
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Minor]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Major]]
+  * [[re_claimed: character: species: Sangheili]] [[re_claimed: character: species: Sangheili: Zealot]]
+
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Veiloth]] [[re_claimed: character: species: Jiralhanae: Veiloth: Major]]
+
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Minor]]
+  * [[re_claimed: character: species: Jiralhanae: Rh'Tol]] [[re_claimed: character: species: Jiralhanae: Rh'Tol: Major]]
+
+[[re_claimed: Map]]:
+  * [[re_claimed: map: 04 Space]]
+
+== See Also ==
+----
+
+[[re_claimed: combat_evolved: levels: Damnation]]

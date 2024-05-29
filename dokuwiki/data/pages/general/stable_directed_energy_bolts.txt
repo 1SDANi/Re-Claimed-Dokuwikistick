@@ -1,3 +1,4 @@
 ^ Stable Directed Energy Bolts ^ [[general: Damage Type]]: [[general: Plasma]] ^
-| Impact Damage: 20 | Knockback: High |
+| Impact Damage: 20 | Knockback: Low |
 | Speed: Medium | Size: Medium |
+| Staggers |

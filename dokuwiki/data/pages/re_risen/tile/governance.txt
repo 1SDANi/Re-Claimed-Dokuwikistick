@@ -1,0 +1,11 @@
+==== Governance ====
+----
+
+[[re_risen: tile: Ideology]]
+
+When generic Governance is produced on a [[re_risen: Tile]], its [[re_risen: tile: Ideology]] value is randomly selected from among existing Governance on that Tile
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

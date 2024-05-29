@@ -1,0 +1,17 @@
+[[re_filled: Terrain: Hardsoil]]
+
+[[re_filled: Terrain: Soil]]
+
+[[re_filled: Terrain: Grass]]
+
+[[re_filled: Terrain: Snow]]
+
+[[re_filled: Terrain: Sand]]
+
+[[re_filled: Terrain: Stone]]
+
+[[re_filled: Terrain: Saltwater]]
+
+[[re_filled: Terrain: Freshwater]]
+
+[[re_filled: Terrain: Fire]]

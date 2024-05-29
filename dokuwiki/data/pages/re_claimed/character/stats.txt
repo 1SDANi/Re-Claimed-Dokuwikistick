@@ -1,0 +1,17 @@
+==== Stats====
+----
+
+[[re_claimed: character: stats: Run Speed]]
+
+[[re_claimed: character: stats: Walk Speed]]
+
+[[re_claimed: character: stats: Jump Height]]
+
+[[re_claimed: character: stats: Accuracy]]
+
+[[re_claimed: character: stats: Stability]]
+
+== See Also ==
+----
+
+[[re_claimed: character: Body Part]]

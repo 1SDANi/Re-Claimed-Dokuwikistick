@@ -1,0 +1,11 @@
+==== Desperate Struggle ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Parries incoming lasers
+
+== See Also ==
+----
+
+[[re_completed: limits: Infinite Despair]]

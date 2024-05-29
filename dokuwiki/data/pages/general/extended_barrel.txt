@@ -1,0 +1,9 @@
+^ Extended Barrel ^
+| -1 [[general: Stability]] |
+| -1 [[general: Volume]] |
+| +1 [[general: Accuracy]] |
+
+== See Also ==
+----
+
+[[General: Submachine Gun]]

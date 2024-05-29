@@ -1,7 +1,0 @@
-^ HE-Rounds ^ [[general: Shrapnel]] [[general: Damage Type]] ^
-| 25 Impact Damage | Medium Knockback |
-| Fast | Small |
-
-== See Also ==
-----
-[[general: Sidekick]]

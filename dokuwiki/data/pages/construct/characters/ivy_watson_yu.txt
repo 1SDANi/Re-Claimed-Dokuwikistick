@@ -1,0 +1,42 @@
+==== Ivy Watson Yu ====
+----
+
+=== Part 1A ===
+----
+
+Age: 15
+
+Identity: Woman
+
+Expression: Lazy feminine
+
+Orientation: Will give whatever answer is the least informative
+
+Drive: Learning about other people
+
+Value: Knowledge of other people grants power over them
+
+Line: People who carelessly throw away knowledge about themselves to others are idiots
+
+Goal: Learn everything about everyone
+
+Affiliation: [[construct: affiliation: Peacekeepers]]
+
+Category: [[construct: power_categories: Constructor]]
+
+== Shadowborne ==
+
+The user can create duplicates of themself, though any damage done to one is replicated to the rest, they and their duplicates can merge into any object as a shadow, though the surface area of that shadow must be equal to the volume converted into shadow.
+
+The user believes their power lets them become a shadows
+
+Weapon: Kusarigama
+
+=== Part 1B ===
+----
+
+Affiliation: [[construct: affiliation: Peacekeepers]]
+
+=== See Also ===
+----
+[[construct: Characters]]

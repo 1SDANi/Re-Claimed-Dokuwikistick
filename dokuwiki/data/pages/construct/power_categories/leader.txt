@@ -1,0 +1,24 @@
+==== Leader ====
+----
+
+Leaders are driven by a desire for control
+
+Leaders have one administration
+
+Leaders have one opposition
+
+Allies are people who the Leader sees as good
+
+Enemies are people who the Leader sees as evil
+
+Allies of Leaders can use their administration
+
+Enemies of Leaders are affected by their opposition
+
+Leaders can experience any of the senses of their Allies instead of their own
+
+Allies can send their life energy to their Leader
+
+== See also ==
+----
+[[construct: Power Categories]]

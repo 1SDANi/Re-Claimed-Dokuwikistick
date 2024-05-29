@@ -1,0 +1,13 @@
+==== Float ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+The affected is stuck midair, unable to use grounded moves
+
+Cured by [[re_completed: spell: Inverted Gravity]], [[re_completed: spell: Gravity Well]], and [[re_completed: spell: Heavy Gravity]]
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

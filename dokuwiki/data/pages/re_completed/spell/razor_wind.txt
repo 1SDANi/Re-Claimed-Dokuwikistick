@@ -1,0 +1,11 @@
+==== Air Sphere ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Summons a Razor Wind to eviscerate the area
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

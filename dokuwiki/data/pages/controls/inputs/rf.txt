@@ -1,0 +1,12 @@
+==== RF ====
+----
+
+^ [[controls: inputs: U]] | [[controls: inputs: RFU]]|
+^ [[controls: inputs: D]] | [[controls: inputs: RFD]]|
+^ [[controls: inputs: R]] | [[controls: inputs: RFR]]|
+^ [[controls: inputs: L]] | [[controls: inputs: RFL]]|
+
+== See Also ==
+----
+
+[[controls: Inputs]]

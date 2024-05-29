@@ -1,0 +1,13 @@
+==== Ponder ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Increases the user's mana over time
+
+The user takes more hitstun from combos that interrupt Ponder
+
+== See Also ==
+----
+
+[[re_completed: combo: Scholar Style]]

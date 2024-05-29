@@ -1,0 +1,11 @@
+==== Reload ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+The next 12 mana of [[re_completed: spell: Gun]] [[re_completed: spell | Spells]] are free
+
+== See Also ==
+----
+
+[[re_completed: combo: Sniper Style]]

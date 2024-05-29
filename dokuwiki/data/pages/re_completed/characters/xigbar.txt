@@ -1,0 +1,103 @@
+==== Xigbar ====
+----
+
+^ [[re_completed: combo: Sniper Style]] |
+
+^ [[re_completed: Teleport: Corridor of Darkness]] |
+
+^ [[re_completed: Element | Elements]] |
+| [[re_completed: element: Animus]] |
+| [[re_completed: element: Gravity]] |
+
+^ [[re_completed: Jutsu]] |
+| [[re_completed: spell: Blitz]] |
+| [[re_completed: spell: Sliding Rush]] |
+| [[re_completed: spell: Land Crash]] |
+| [[re_completed: spell: Vicinity Break]] |
+
+^ [[re_completed: element: Animus]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Laser Shot]] |
+| [[re_completed: spell: Charged Laser]] |
+| [[re_completed: spell: Cluster Laser]] |
+| [[re_completed: spell: Aim]] |
+| [[re_completed: spell: Bind]] |
+
+^ [[re_completed: element: Gravity]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Gravity Shot]] |
+| [[re_completed: spell: Gravity Missile]] |
+| [[re_completed: spell: Anti Gravity]] |
+| [[re_completed: spell: Inverted Gravity]] |
+| [[re_completed: spell: Zero Gravity]] |
+
+^ Limits |
+| [[re_completed: limits: Gravity Sniper]] |
+| [[re_completed: limits: Ultimate Sniper]] |
+| [[re_completed: limits: Gravity Rain]] |
+
+^ Links |
+| [[re_completed: limits: Demyx]] |
+| [[re_completed: limits: Aced]] |
+| [[re_completed: limits: Ava]] |
+| [[re_completed: limits: Gula]] |
+| [[re_completed: limits: Invi]] |
+| [[re_completed: limits: Ira]] |
+| [[re_completed: limits: Odin]] |
+| [[re_completed: limits: Vænt's]] |
+| [[re_completed: limits: Xehanort]] |
+| [[re_completed: limits: Eraqus]] |
+| [[re_completed: limits: Marluxia]] |
+| [[re_completed: limits: Larxene]] |
+| [[re_completed: limits: Strelizia]] |
+
+^ Summons |
+| [[re_completed: character: Knights of the Round]] |
+| [[re_completed: character: Shemhazai]] |
+| [[re_completed: character: Cronus]] |
+| [[re_completed: character: Ouranos]] |
+| [[re_completed: character: Zeus]] |
+| [[re_completed: character: Hades]] |
+| [[re_completed: character: Poseidon]] |
+| [[re_completed: character: Prometheus]] |
+| [[re_completed: character: Artemis]] |
+| [[re_completed: character: Cupid]] |
+| [[re_completed: character: Maleficent]] |
+| [[re_completed: character: King Stefan]] |
+| [[re_completed: character: King Mickey]] |
+| [[re_completed: character: King Oswald]] |
+| [[re_completed: character: The Dark Dragon]] |
+| [[re_completed: character: The Huntsman]] |
+| [[re_completed: character: Cassandra]] |
+| [[re_completed: character: Merida]] |
+| [[re_completed: character: King Richard]] |
+| [[re_completed: character: Robin Hood]] |
+| [[re_completed: character: Snoke]] |
+| [[re_completed: character: Luke Skywalker]] |
+| [[re_completed: character: Chewbacca]] |
+| [[re_completed: character: Merry Men]] |
+| [[re_completed: character: Ewok]] |
+| [[re_completed: character: Sniper]] |
+| [[re_completed: character: Archer]] |
+| [[re_completed: character: Putto]] |
+| [[re_completed: character: Dusk]] |
+| [[re_completed: character: Shadow]] |
+| [[re_completed: character: Spark]] |
+
+^ Keyblade | [[re_completed: item: Desirous Eye]] |
+^ Keychain | [[re_completed: item: No Name]] |
+
+^ Items |
+| [[re_completed: item: Desirous Eye]] |
+| [[re_completed: item: No Name]] |
+| [[re_completed: item: Pixie Petal]] |
+| [[re_completed: item: Lost Memory]] |
+| [[re_completed: item: Ominous Blight]] |
+| [[re_completed: item: Starlight]] |
+| [[re_completed: item: Void Gear]] |
+
+^ Transformations |
+| [[re_completed: character: The Freeshooting Sniper]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

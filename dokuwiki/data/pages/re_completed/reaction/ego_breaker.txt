@@ -1,0 +1,11 @@
+==== Ego Breaker ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Jumps at the target and hits them with a heavy strike, ending [[re_completed: limits: All-Vanity]]
+
+== See Also ==
+----
+
+[[re_completed: limits: All-Vanity]]

@@ -1,0 +1,10 @@
+^ Semi-Auto Conversion ^
+| [[re_claimed: weapon: Semi-Automatic]] |
+| +2 [[re_claimed: Stability]] |
+
+== See Also ==
+----
+
+[[re_claimed: weapon: personal_handgun: Sidekick]]
+
+[[re_claimed: weapon: personal_defense: Plasma Rifle]]

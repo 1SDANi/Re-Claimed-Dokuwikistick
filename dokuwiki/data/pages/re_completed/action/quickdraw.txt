@@ -1,0 +1,11 @@
+==== Quickdraw ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Fires a laser at the target, ending their [[re_completed: Limit]]
+
+== See Also ==
+----
+
+[[re_completed: reaction: Showdown]]

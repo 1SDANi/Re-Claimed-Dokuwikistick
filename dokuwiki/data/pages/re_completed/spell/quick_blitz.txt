@@ -1,0 +1,11 @@
+==== Quick Blitz ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Rides a gust of wind to perform an overhead jumping attack
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

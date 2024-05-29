@@ -1,0 +1,11 @@
+^ Sampling Nova ^ [[general: Nova]] [[general: Damage Type]] ^
+| 5 Impact Damage (0 with [[general: Charge]]) | No Knockback |
+| Instant (None with [[general: Charge]])| Small (Medium with [[general: Charge]]) |
+| 1 burn damage over 5 seconds without [[general: Charge]] | [[general: Pursuer Sentinel]] with [[general: Charge]] |
+| [[general: Compose]] on kill |
+
+
+== See Also ==
+----
+
+[[General: Sample Module]]

@@ -1,0 +1,11 @@
+==== RAR ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: RR]] | [[controls: playstation: RR]] | [[controls: switch: RR]] |
+
+== See Also ==
+----
+[[controls: Inputs]]
+
+[[re_claimed: actions: Look]]

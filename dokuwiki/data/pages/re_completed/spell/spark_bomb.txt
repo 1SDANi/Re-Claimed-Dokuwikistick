@@ -1,0 +1,11 @@
+==== Spark Bomb ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Fires a small ball of electricity that explodes after a set time or on contact
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

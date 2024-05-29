@@ -1,0 +1,33 @@
+==== Action ====
+----
+
+^ Direction ^ Input ^ Default KBM |
+^ [[re_claimed: action: Move]] Front | [[controls: inputs: LAU]] | W |
+^ [[re_claimed: action: Move]] Back | [[controls: inputs: LAD]] | S |
+^ [[re_claimed: action: Move]] Left | [[controls: inputs: LAL]] | A |
+^ [[re_claimed: action: Move]] Right | [[controls: inputs: LAR]] | D |
+^ [[re_claimed: action: Run]] | [[controls: inputs: LAC]] | Shift |
+^ [[re_claimed: action: Look]] Up | [[controls: inputs: RAU]] | Mouse Up |
+^ [[re_claimed: action: Look]] Down | [[controls: inputs: RAD]] | Mouse Down |
+^ [[re_claimed: action: Look]] Left | [[controls: inputs: RAL]] | Mouse Left |
+^ [[re_claimed: action: Look]] Right | [[controls: inputs: RAR]] | Mouse Right |
+^ [[re_claimed: action: Aim]] | [[controls: inputs: RAC]] | Middle Mouse Button |
+^ [[re_claimed: action: Right Combat]] | [[controls: inputs: RBD]] | Right Mouse Button |
+^ [[re_claimed: action: Left Combat]] | [[controls: inputs: LBD]] | Left Mouse Button |
+^ [[re_claimed: action: Lean Right]] | [[controls: inputs: RBU]] | Q |
+^ [[re_claimed: action: Lean Left]] | [[controls: inputs: LBU]] | E |
+^ [[re_claimed: action: Command Menu Up]] | [[controls: inputs: LFU]] | R |
+^ [[re_claimed: action: Command Menu Down]] | [[controls: inputs: LFD]] | F |
+^ [[re_claimed: action: Command Menu Open]] | [[controls: inputs: LFR]] | V |
+^ [[re_claimed: action: Command Menu Switch]] | [[controls: inputs: LFL]] | B |
+^ [[re_claimed: action: Use Command]] | [[controls: inputs: RFD]] | C |
+^ [[re_claimed: action: Shortcut Toggle]] | [[controls: inputs: RFU]] | Tab |
+^ [[re_claimed: action: Stance]] | [[controls: inputs: RFL]] | Control |
+^ [[re_claimed: action: Jump]] | [[controls: inputs: RFR]] | Space |
+^ [[re_claimed: action: Datapad]] | [[controls: inputs: LFC]] | Enter |
+^ [[re_claimed: action: Pause]] | [[controls: inputs: RFC]] | Escape |
+
+== See Also ==
+----
+
+[[:Re Claimed]]

@@ -1,0 +1,13 @@
+^ Suppressor ^
+| [[re_claimed: weapon: Semi-Automatic]] |
+| -1 [[re_claimed: Volume]] |
+| +1 [[re_claimed: Stability]] |
+
+
+
+== See Also ==
+----
+
+[[re_claimed: weapon: personal_handgun: Sidekick]]
+
+[[re_claimed: weapon: personal_defense: Submachine Gun]]

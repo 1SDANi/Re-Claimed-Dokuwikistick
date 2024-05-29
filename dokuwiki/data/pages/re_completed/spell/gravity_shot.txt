@@ -1,0 +1,11 @@
+==== Gravity Shot ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Fires a blast of gravity
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

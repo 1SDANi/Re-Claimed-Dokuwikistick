@@ -1,0 +1,15 @@
+==== Roxas ====
+----
+
+^ [[re_completed: combo: Samurai Style]] |
+
+^ Keyblade | [[re_completed: item: Aublade]] |
+^ Keychain | [[re_completed: item: Missing Ache]] |
+^ Keychain with Axel | [[re_completed: item: Bond of the Flame]] |
+^ Keychain with Xion | [[re_completed: item: Two Become One]] |
+^ Keychain with Sora | [[re_completed: item: Total Eclipse]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

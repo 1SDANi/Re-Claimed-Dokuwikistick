@@ -1,0 +1,18 @@
+^ Weapons ^ [[re_claimed: character: team: Human]] ^ [[re_claimed: character: team: Sangheili]] ^ [[re_claimed: character: team: Jiralhanae]] ^ [[re_claimed: character: team: Forerunner]] ^
+| [[re_claimed: weapon: Personal Handgun]] | [[re_claimed: weapon: personal_handgun: Sidekick]] | [[re_claimed: weapon: personal_handgun: Plasma Pistol]] | [[re_claimed: weapon: personal_handgun: Mauler]] | [[re_claimed: weapon: personal_handgun: Constructor Welder]] |
+| [[re_claimed: weapon: Personal Defense]] | [[re_claimed: weapon: personal_defense: Submachine Gun]] | [[re_claimed: weapon: personal_defense: Plasma Rifle]] | [[re_claimed: weapon: personal_defense: Spiker]] | [[re_claimed: weapon: personal_defense: Pursuer Pulser]] |
+| [[re_claimed: weapon: Automatic Firearm]] | [[re_claimed: weapon: automatic_firearm: Assault Rifle]] | [[re_claimed: weapon: automatic_firearm: Plasma Carbine]] | [[re_claimed: weapon: automatic_firearm: Needler]] | [[re_claimed: weapon: automatic_firearm: Aggressor Beam]] |
+| [[re_claimed: weapon: Marksman Firearm]] | [[re_claimed: weapon: marksman_firearm: Battle Rifle]] | [[re_claimed: weapon: marksman_firearm: Fuel Rod Carbine]] | [[re_claimed: weapon: marksman_firearm: Impaler]] | [[re_claimed: weapon: marksman_firearm: Guardian Beam]] |
+| [[re_claimed: weapon: Precision Firearm]] | [[re_claimed: weapon: precision_firearm: Sniper Rifle]] | [[re_claimed: weapon: precision_firearm: Focus Rifle]] | [[re_claimed: precision_firearm: weapon: Shocker]] | [[re_claimed: weapon: precision_firearm: Obliterator Laser]] |
+| [[re_claimed: weapon: Missile Launcher]] | [[re_claimed: weapon: missile_launcher: Rocket Launcher]] | [[re_claimed: weapon: missile_launcher: Fuel Rod Gun]] | [[re_claimed: weapon: missile_launcher: Skewer]] | [[re_claimed: weapon: missile_launcher: Enforcer Cannon]] |
+| [[re_claimed: weapon: Bomb Launcher]] | [[re_claimed: weapon: bomb_launcher: Grenade Launcher]] | [[re_claimed: weapon: bomb_launcher: Shade Rifle]] | [[re_claimed: weapon: bomb_launcher: Blaster]] | [[re_claimed: weapon: bomb_launcher: Steward Silo]] |
+| [[re_claimed: weapon: Close Quarters]] | [[re_claimed: weapon: close_quarters: Shotgun]] | [[re_claimed: weapon: close_quarters: Disintegration Jet]] | [[re_claimed: weapon: close_quarters: Ravager]] |  [[re_claimed: weapon: close_quarters: Destroyer Scorcher]] |
+| [[re_claimed: weapon: Melee Weapon]] | [[re_claimed: weapon: melee_weapon: Machete]] | [[re_claimed: weapon: melee_weapon: Energy Sword]] | [[re_claimed: weapon: melee_weapon: Smasher]] | [[re_claimed: weapon: melee_weapon: Enforcer Arm]] |
+| [[re_claimed: weapon: Covering Fire]] | [[re_claimed: weapon: covering_fire: Flamethrower]] | [[re_claimed: weapon: covering_fire: Shade Cannon]] | [[re_claimed: covering_fire: weapon: Spike Cannon]] | [[re_claimed: weapon: covering_fire: Destroyer Beam]] |
+| [[re_claimed: weapon: Air Defense]] | [[re_claimed: weapon: air_defense: Missile Pod]] | [[re_claimed: weapon: air_defense: Fuel Rod Cannon]] | [[re_claimed: weapon: air_defense: Shock Cannon]] | [[re_claimed: weapon: air_defense: Monitor Laser]] |
+| [[re_claimed: weapon: Direct Fire]] | [[re_claimed: weapon: direct_fire: Machine Gun]] | [[re_claimed: weapon:: direct_fire: Plasma Cannon]] | [[re_claimed: weapon:: direct_fire: Needle Cannon]] | [[re_claimed: weapon: direct_fire: Destroyer Beam]] |
+
+
+[[:Re Claimed]]
+
+[[re_claimed: weapon: Projectile]]

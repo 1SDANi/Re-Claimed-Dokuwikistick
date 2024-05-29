@@ -1,0 +1,10 @@
+^ AM-Spikes ^ [[general: Shrapnel]] [[general: Damage Type]] ^
+| 50 Impact Damage | High Knockback |
+| Slow | High |
+| Penetrates surfaces |
+
+
+== See Also ==
+----
+
+[[General: Spiker]]

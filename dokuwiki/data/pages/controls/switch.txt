@@ -1,0 +1,14 @@
+=== Switch ====
+----
+
+^ Input ^ [[controls: inputs: U]] ^ [[controls: inputs: D]] ^ [[controls: inputs: L]] ^ [[controls: inputs: R]] ^ [[controls: inputs: C]] |
+^ [[controls: inputs: LA]] | [[controls: switch: LU]] | [[controls: switch: LD]] | [[controls: switch: LL]] | [[controls: switch: LR]] | [[controls: switch: LS]] |
+^ [[controls: inputs: LF]] | [[controls: switch: D-UP]] | [[controls: switch: D-DOWN]] | [[controls: switch: D-LEFT]] | [[controls: switch: D-RIGHT]] | [[controls: switch: Minus]] |
+^ [[controls: inputs: LB]] | [[controls: switch: LB]] | [[controls: switch: LT]] |
+^ [[controls: inputs: RA]] | [[controls: switch: RU]] | [[controls: switch: RD]] | [[controls: switch: RL]] | [[controls: switch: RR]] | [[controls: switch: RS]] |
+^ [[controls: inputs: RF]] | [[controls: switch: X]] | [[controls: switch: B]] | [[controls: switch: Y]] | [[controls: switch: A]] | [[controls: switch: Plus]] |
+^ [[controls: inputs: RB]] | [[controls: switch: RB]] | [[controls: switch: RT]] | 
+
+== See Also ==
+----
+[[:Controls]]

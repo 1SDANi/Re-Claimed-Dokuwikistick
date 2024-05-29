@@ -1,0 +1,19 @@
+==== Submachine Gun ====
+----
+
+^ [[general: Personal Defense]] ^ [[re_claimed: projectiles: AP-Rounds]] ^ [[general: Fully Automatic]] ^
+| 15 Rounds per Second | 1 Rounds per Shot | 1 Pellets per Round |
+| 60 Rounds Reloaded | 4 Seconds until Empty |
+| 300 Max Rounds |
+| 225 Damage per Second | 900 Damage per Reload |
+| 3 [[re_claimed: Accuracy]] | 2 [[re_claimed: Stability]] | 0 [[re_claimed: Zoom]] |
+| [[re_claimed: Loud]] [[re_claimed: Volume]] |
+
+
+^ SOCOM | [[general: Smart Sight]] | [[general: Suppressor]] | [[general: Integrated Flashlight]] |
+^ CQB | [[general: HE-Rounds]] | [[general: Bayonet]] | [[general: Shortened Stock]] |
+
+
+
+
+

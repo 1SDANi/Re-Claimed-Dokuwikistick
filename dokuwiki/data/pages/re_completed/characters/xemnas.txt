@@ -1,0 +1,88 @@
+==== Xemnas ====
+----
+
+^ [[re_completed: combo: Empty Style]] |
+
+^ [[re_completed: Element | Elements]] |
+^ [[re_completed: element: Animus]] |
+^ [[re_completed: element: Thunder]]  |
+
+^ [[re_completed: Teleport: Corridor of Darkness]] |
+
+^ [[re_completed: element: Animus]] [[re_completed: Jutsu]] |
+| [[re_completed: jutsu: Stun Edge]] |
+| [[re_completed: jutsu: Stun Buster]] |
+| [[re_completed: jutsu: Binding Strike]] |
+
+^ [[re_completed: element: Thunder]] [[re_completed: Jutsu]] |
+| [[re_completed: jutsu: Spark Dive]] |
+| [[re_completed: jutsu: Spark Dash]] |
+
+^ [[re_completed: element: Animus]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Laser Shot]] |
+| [[re_completed: spell: Laser Ring]] |
+| [[re_completed: spell: Thorn Beam]] |
+| [[re_completed: spell: Thorn Wall]] |
+| [[re_completed: spell: Laser Circle]] |
+| [[re_completed: spell: Bind]] |
+
+^ [[re_completed: element: Thunder]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Spark Bomb]] |
+| [[re_completed: spell: Electrify]] |
+| [[re_completed: spell: Spark Wall]] |
+| [[re_completed: spell: Spark]] |
+| [[re_completed: spell: Jolt]] |
+
+^ Limits |
+| [[re_completed: limits: All-Vanity]] |
+| [[re_completed: limits: Infinite Despair]] |
+| [[re_completed: limits: Invitation to Nothingness]] |
+
+^ Summons |
+| [[re_completed: character: Mirage]] |
+| [[re_completed: character: Twilight Thorn]] |
+| [[re_completed: character: Sorcerer]] |
+| [[re_completed: character: Sniper]] |
+| [[re_completed: character: Dragoon]] |
+| [[re_completed: character: Scholar]] |
+| [[re_completed: character: Sorcerer]] |
+| [[re_completed: character: Warrior]] |
+| [[re_completed: character: Mage]] |
+| [[re_completed: character: Berserker]] |
+| [[re_completed: character: Assassin]] |
+| [[re_completed: character: Dancer]] |
+| [[re_completed: character: Gamber]] |
+| [[re_completed: character: Reaper]] |
+| [[re_completed: character: Ninja]] |
+| [[re_completed: character: Samurai]] |
+| [[re_completed: character: Replika]] |
+| [[re_completed: character: Dusk]] |
+| [[re_completed: character: Cruiser]] |
+| [[re_completed: character: Mini Cruiser]] |
+| [[re_completed: character: Spider]] |
+| [[re_completed: character: Gatling Ship]] |
+| [[re_completed: character: Mega Tank]] |
+| [[re_completed: character: Ring Tank]] |
+| [[re_completed: character: Tank]] |
+| [[re_completed: character: Shield]] |
+| [[re_completed: character: UFO]] |
+| [[re_completed: character: Phoenix]] |
+| [[re_completed: character: Hex Ring]] |
+| [[re_completed: character: Spiked Roller]] |
+| [[re_completed: character: Cyclops]] |
+| [[re_completed: character: Mystic Flyer]] |
+| [[re_completed: character: Grappler]] |
+| [[re_completed: character: Bomber]] |
+| [[re_completed: character: Bomb Bell]] |
+| [[re_completed: character: Speeder]] |
+| [[re_completed: character: Knight Head]] |
+| [[re_completed: character: Mad Rider]] |
+
+^ Transformations|
+| [[re_completed: character: No Heart]] |
+| [[re_completed: character: The Superior Sorcerer]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

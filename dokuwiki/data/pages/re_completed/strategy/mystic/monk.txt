@@ -1,0 +1,9 @@
+==== Monk ====
+----
+
+Generate Mana using [[re_completed: Combo]]
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

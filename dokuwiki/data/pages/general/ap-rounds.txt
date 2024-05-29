@@ -1,8 +1,0 @@
-^ AP-Rounds ^ [[general: Bullet]] [[general: Damage Type]] ^
-| 15 Impact Damage | Low Knockback |
-| Fast | Small |
-
-== See Also ==
-----
-
-[[General: Sidekick]]

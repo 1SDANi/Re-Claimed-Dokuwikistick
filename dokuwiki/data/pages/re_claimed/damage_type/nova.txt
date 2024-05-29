@@ -1,0 +1,20 @@
+==== Nova ====
+----
+
+200% damage: [[re_claimed: armor_type: Head]]
+
+150% damage: [[re_claimed: armor_type: Loose Flesh]]
+
+100% damage: [[re_claimed: armor_type: Energy Shield]], [[re_claimed: armor_type: Floodflesh]]
+
+75% damage: [[re_claimed: armor_type: Light Armor]], [[re_claimed: armor_type: Heavy Armor]]
+
+25% damage: [[re_claimed: armor_type: Impenetrable]]
+
+
+== See also ==
+----
+
+[[re_claimed: Damage Type]]
+
+[[re_claimed: Damage Table]]

@@ -1,0 +1,11 @@
+==== RAL ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: RL]] | [[controls: playstation: RL]] | [[controls: switch: RL]] |
+
+== See Also ==
+----
+[[controls: Inputs]]
+
+[[re_claimed: actions: Look]]

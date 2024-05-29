@@ -1,0 +1,13 @@
+==== Laser Shot ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Fires a single laser
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]
+
+[[re_completed: characters: Xigbar]]

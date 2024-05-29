@@ -1,0 +1,39 @@
+==== Xaldin ====
+----
+
+^ [[re_completed: combo: Knight Style]] |
+
+^ [[re_completed: Teleport: Corridor of Darkness]] |
+
+^ [[re_completed: element: Aero]] [[re_completed: Jutsu]] |
+| [[re_completed: spell: Quick Blitz]] |
+| [[re_completed: spell: Wind Dash]] |
+| [[re_completed: spell: Air Buster]] |
+| [[re_completed: spell: Air Jump]] |
+| [[re_completed: spell: Windcutter]] |
+
+^ [[re_completed: element: Aero]] Spells|
+| [[re_completed: spell: Air Slice]] |
+| [[re_completed: spell: Razor Sphere]] |
+| [[re_completed: spell: Razor Breath]] |
+| [[re_completed: spell: Razor Wind]] |
+| [[re_completed: spell: Whirlwind]] |
+
+^ Links |
+| [[re_completed: limits: Lexaeus]] |
+
+^ Limits |
+| [[re_completed: limits: Whirlwind Dance]] |
+
+^ Summons |
+| [[re_completed: character: Syldra]] |
+| [[re_completed: character: Dragoon]] |
+| [[re_completed: character: Dusk]] |
+
+^ Transformations |
+| [[re_completed: character: The Whirlwind Dragoon]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

@@ -1,0 +1,14 @@
+2024-03-24 18:13:26	C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\ChangeLog\RevisionInfo.php(39)	E_WARNING: Undefined array key "media"
+  #0 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\ChangeLog\RevisionInfo.php(39): dokuwiki\ErrorHandler::errorHandler()
+  #1 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\Ui\PageDiff.php(69): dokuwiki\ChangeLog\RevisionInfo->__construct()
+  #2 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\Ui\PageConflict.php(60): dokuwiki\Ui\PageDiff->compareWith()
+  #3 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\Action\Conflict.php(36): dokuwiki\Ui\PageConflict->show()
+  #4 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\template.php(100): dokuwiki\Action\Conflict->tplContent()
+  #5 [internal function]: tpl_content_core()
+  #6 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\Extension\Event.php(133): call_user_func_array()
+  #7 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\Extension\Event.php(199): dokuwiki\Extension\Event->trigger()
+  #8 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\template.php(85): dokuwiki\Extension\Event::createAndTrigger()
+  #9 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\lib\tpl\dokuwiki\main.php(59): tpl_content()
+  #10 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\inc\actions.php(27): include('...')
+  #11 C:\Users\bandd\Documents\Godot Projects\Plans\dokuwiki\doku.php(126): act_dispatch()
+  #12 {main}

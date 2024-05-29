@@ -1,0 +1,15 @@
+==== Sparrowmint ====
+----
+
+Animal: Sparrow
+
+Sweet: Spearmint
+
+Ability: Can pick up and plant [[re_filled: plant: Seed | Seeds]]
+
+Befriend: Fed a Whirlm
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

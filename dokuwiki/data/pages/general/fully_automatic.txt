@@ -1,6 +1,0 @@
-^ Fully Automatic ^
-| [[general: Sidekick]] |
-| [[general: Submachine Gun]] |
-| [[general: Plasma Rifle]] |
-| [[general: Spiker]] |
-| [[general: Protector Pulser]] |

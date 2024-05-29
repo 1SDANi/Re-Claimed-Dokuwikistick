@@ -1,0 +1,15 @@
+==== Strategy ====
+----
+
+A character can select an ally with a lower [[re_claimed: Rank]] and assign them a strategy, dictating the actions of AI characters and changing the objective ticker of player characters.
+
+1st and 2nd strategies are mutually exclusive
+
+3rd, 4th, and 5th strategies are mutually exclusive
+
+^ Callout ^ [[re_completed: strategy: Warrior]] ^ [[re_completed: strategy: Guardian]] ^ [[re_completed: strategy: Mystic]] ^ [[re_completed: strategy: Healer]] ^ [[re_completed: strategy: Polymath]] |
+^ 1st | [[re_completed: strategy: warrior: Soldier]] | [[re_completed: strategy: guardian: Hero]] | [[re_completed: strategy: mystic: Knight]] | [[re_completed: strategy: healer: Cleric]] | [[re_completed: strategy: polymath: Scholar]] |
+^ 2nd | [[re_completed: strategy: warrior: Berserker]] | [[re_completed: strategy: guardian: Escort]] | [[re_completed: strategy: mystic: Mage]] | [[re_completed: strategy: healer: Surgeon]] | [[re_completed: strategy: polymath: Tinkerer]] |
+^ 3rd | [[re_completed: strategy: warrior: Assassin]] | [[re_completed: strategy: guardian: Altruist]] | [[re_completed: strategy: mystic: Monk]] | [[re_completed: strategy: healer: Physician]] | [[re_completed: strategy: polymath: Artist]] |
+^ 4th | [[re_completed: strategy: warrior: Rival]] | [[re_completed: strategy: guardian: Buddy]] | [[re_completed: strategy: mystic: Sorcerer]] | [[re_completed: strategy: healer: Doctor]] | [[re_completed: strategy: polymath: Trickster]] |
+^ 5th | [[re_completed: strategy: warrior: Cavalry]] | [[re_completed: strategy: guardian: Tank]] | [[re_completed: strategy: mystic: Alchemist]] | [[re_completed: strategy: healer: Necromancer]] | [[re_completed: strategy: polymath: Strategist]] |

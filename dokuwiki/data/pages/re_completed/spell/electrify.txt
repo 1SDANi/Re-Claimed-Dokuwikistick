@@ -1,0 +1,11 @@
+==== Electrify ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Applies [[re_completed: status: Electrified]] to the floor below the user
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

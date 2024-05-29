@@ -1,0 +1,9 @@
+==== Order ====
+----
+
+A character can select an ally with a lower [[re_claimed: Rank]] and use their command menu to order them to use a command. Allies will then [[re_completed: React]] to the order with that command.
+
+== See Also ==
+----
+
+[[re_completed: Command Menu]]

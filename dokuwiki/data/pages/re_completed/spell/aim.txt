@@ -1,0 +1,11 @@
+==== Aim ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Applies [[re_completed: status: Focus]] to the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

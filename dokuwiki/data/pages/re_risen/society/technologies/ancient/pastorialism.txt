@@ -1,0 +1,16 @@
+==== Pastoralism ====
+----
+
+Unit: [[re_risen: unit: Chariot]]
+
+Landmark: [[re_risen: tile: land: landmark: Pasture]]
+
+Landmark: [[re_risen: tile: land: landmark: Butchery]]
+
+Wonder: [[re_risen: tile: land: landmark: wonders: Sacred Mountain]]
+
+
+== See Also ==
+----
+
+[[re_risen: society: technologies: Ancient]]

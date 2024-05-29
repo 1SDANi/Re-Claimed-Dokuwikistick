@@ -1,0 +1,33 @@
+==== Action ====
+----
+
+^ Direction ^ Input ^ Default KBM |
+^ [[re_completed: action: Move]] Front | [[controls: inputs: LAU]] | W |
+^ [[re_completed: action: Move]] Back | [[controls: inputs: LAD]] | S |
+^ [[re_completed: action: Move]] Left | [[controls: inputs: LAL]] | A |
+^ [[re_completed: action: Move]] Right | [[controls: inputs: LAR]] | D |
+^ [[re_completed: action: Speed]] | [[controls: inputs: LAC]] | Control |
+^ [[re_completed: action: Look]] Up | [[controls: inputs: RAU]] | Mouse Up |
+^ [[re_completed: action: Look]] Down | [[controls: inputs: RAD]] | Mouse Down |
+^ [[re_completed: action: Look]] Left | [[controls: inputs: RAL]] | Mouse Left |
+^ [[re_completed: action: Look]] Right | [[controls: inputs: RAR]] | Mouse Right |
+^ [[re_completed: action: Lock-On]] | [[controls: inputs: RAC]] | Middle Mouse Button |
+^ [[re_completed: action: React]]/[[re_completed: action: Formchange]] | [[controls: inputs: RFU]] | Q |
+^ [[re_completed: action: Stance]] | [[controls: inputs: RFL]] | Shift |
+^ [[re_completed: action: Jump]] | [[controls: inputs: RFR]] | Space |
+^ [[re_completed: action: Use Command]] | [[controls: inputs: LFD]] | E |
+^ [[re_completed: action: Command Menu Up]] | [[controls: inputs: LFU]] | R |
+^ [[re_completed: action: Command Menu Down]] | [[controls: inputs: LFD]] | F |
+^ [[re_completed: action: Command Menu Right]] | [[controls: inputs: LFR]] | V |
+^ [[re_completed: action: Command Menu Left]] | [[controls: inputs: LFL]] | B |
+^ [[re_completed: Combo]] | [[controls: inputs: LBU]] | Left Mouse Button |
+^ [[re_completed: action: Defend]] | [[controls: inputs: RBU]] | Right Mouse Button |
+^ [[re_completed: action: Focus]] | [[controls: inputs: LBD]] | Mouse Wheel Up |
+^ [[re_completed: action: Shortcut Toggle]] | [[controls: inputs: RBD]] | Mouse Wheel Down |
+^ [[re_completed: action: Camera Mode]] | [[controls: inputs: LFC]] | Tab |
+^ [[re_completed: action: Pause]] | [[controls: inputs: RFC]] | Escape |
+
+== See Also ==
+----
+
+[[:Re Completed]]

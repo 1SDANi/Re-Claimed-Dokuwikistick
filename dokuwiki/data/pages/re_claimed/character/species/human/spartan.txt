@@ -1,0 +1,27 @@
+==== Spartan ====
+----
+
+[[re_claimed: character: Inherits]]: [[re_claimed: character: species: Human]]
+
+100/100
+
+[[re_claimed: Ability]]: [[re_claimed: ability: Integrated EMP]]
+
+[[re_claimed: Visibility]]: [[re_claimed: ability: Flashlight]]
+
+| [[re_claimed: character: flags: Cannot be infected or composed]] |
+| +25 to all [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Meter Value]]s |
+| +25 to [[re_claimed: character: species: human: Torso]] [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Meter Value]] |
+| [[re_claimed: character: flags: Broken shields regenerate]] |
+
+^ [[re_claimed: character: body_part: Shield]] [[re_claimed: character: body_part: Meter]] |
+| [[re_claimed: character: body_part: meter: Meter Value]]: 100 |
+| [[re_claimed: character: body_part: meter: Regen Value]]: 5 |
+| [[re_claimed: character: body_part: meter: Stun Time]]: 2 |
+| [[re_claimed: character: body_part: meter: Regen Time]]: 10 |
+| [[re_claimed: Armor Type]]: [[re_claimed: armor_type: Energy Shield]] |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: Human]]

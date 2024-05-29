@@ -1,0 +1,12 @@
+==== R ====
+----
+
+^ [[controls: inputs: LA]] | [[controls: inputs: LAR]]|
+^ [[controls: inputs: RA]] | [[controls: inputs: RAR]]|
+^ [[controls: inputs: LF]] | [[controls: inputs: LFR]]|
+^ [[controls: inputs: RF]] | [[controls: inputs: RFR]]|
+
+== See Also ==
+----
+
+[[controls: Inputs]]

@@ -1,0 +1,11 @@
+==== LAC ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: LS]] | [[controls: playstation: L3]] | [[controls: switch: LS]] |
+
+== See Also ==
+----
+[[controls: Inputs]]
+
+[[re_claimed: actions: Move]]

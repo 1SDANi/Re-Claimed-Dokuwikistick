@@ -1,0 +1,10 @@
+==== LB ====
+----
+
+^ [[controls: inputs: U]] | [[controls: inputs: LBU]]|
+^ [[controls: inputs: D]] | [[controls: inputs: LBD]]|
+
+== See Also ==
+----
+
+[[controls: Inputs]]

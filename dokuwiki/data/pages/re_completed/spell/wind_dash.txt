@@ -1,0 +1,11 @@
+==== Wind Dash ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Rides a gust of razor wind to attack an opponent
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

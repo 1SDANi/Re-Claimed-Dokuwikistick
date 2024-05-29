@@ -1,0 +1,16 @@
+==== Focus====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Greatly increases the projectile speed and damage of [[re_completed: spell: Missile]] and [[re_completed: spell: Homing]] spells cast by the afflicted
+
+Cured by moving or taking damage
+
+Enemies [[re_completed: Action: React]] to boosted moves using [[re_completed: reaction: Warp Snipe]] briefly before being hit
+
+
+== See Also ==
+----
+
+[[re_completed: spell: Aim]]

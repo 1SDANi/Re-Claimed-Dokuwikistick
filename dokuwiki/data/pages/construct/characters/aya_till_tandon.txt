@@ -1,0 +1,41 @@
+==== Aya Till Tandon ====
+----
+
+=== Part 1A ===
+----
+
+Age: 16
+
+Identity: Girl
+
+Expression: Sporty Feminine
+
+Orientation: Too busy looking for their limit
+
+Drive: Try everything
+
+Value: A person is defined by the height of their limit
+
+Line: Giving up is death
+
+Goal: Discover their limit
+
+Affiliation: [[construct: affiliation: Watchlist]]
+
+Category: [[construct: power_categories: Constructor]]
+
+== Regeneration
+The user can heal any injury sustained to their body, with some control over how it is healed, including but not limited to control over what parts are healed when, whether to regrow parts as longer than they previously were, and what is defined as a part to be healed, though all healing must make use of nutrients in blood that can reach the injured area.
+
+The user believes their power lets them heal
+
+Weapon: Weighted Clothing
+
+=== Part 1B ===
+----
+
+Affiliation: [[construct: affiliation: Peacekeepers]]
+
+=== See Also ===
+----
+[[construct: Characters]]

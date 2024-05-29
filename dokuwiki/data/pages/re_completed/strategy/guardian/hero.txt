@@ -1,0 +1,9 @@
+==== Hero ====
+----
+
+Change who you protect at will
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

@@ -1,0 +1,13 @@
+==== Scan ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Memory]]
+
+Builds a Scan Meter over time, can react while the Scan Meter is full using [[re_completed: reaction: Replikate]]
+
+== See Also ==
+----
+
+[[re_completed: limits: Data Sampler]]
+
+[[re_completed: reaction: Encrypt]]

@@ -1,0 +1,9 @@
+==== Escort ====
+----
+
+Protect one person and stay with them
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

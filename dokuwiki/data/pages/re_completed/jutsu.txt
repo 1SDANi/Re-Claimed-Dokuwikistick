@@ -1,0 +1,40 @@
+==== Jutsu ====
+----
+
+^ [[re_completed: element: Novice]] ^ [[re_completed: element: Animus]] ^ [[re_completed: element: Aero]] ^ [[re_completed: element: Unda]] ^ [[re_completed: element: Solum]] ^ [[re_completed: element: Lux]] ^ [[re_completed: element: Nox]] |
+^ [[re_completed: jutsu: Blitz]] | [[re_completed: jutsu: Stun Edge]] | [[re_completed: jutsu: Quick Blitz]] | [[re_completed: jutsu: Cleansing Edge]] | [[re_completed: jutsu: Stone Blitz]] | [[re_completed: jutsu: Last Charge]] | [[re_completed: jutsu: Dark Blitz]] |
+^ [[re_completed: jutsu: Sonic Blade]] | [[re_completed: jutsu: Stun Dash]] | [[re_completed: jutsu: Wind Dash]] | [[re_completed: jutsu: Cleansing Surge]] | [[re_completed: jutsu: Stalwart Blade]] | [[re_completed: jutsu: Barrier Surge]] | [[re_completed: jutsu: Chaos Blade]] |
+^ [[re_completed: jutsu: Strike Raid]] | [[re_completed: jutsu: Stun Raid]] | [[re_completed: jutsu: Air Raid]] | [[re_completed: jutsu: Cleanse Raid]] | [[re_completed: jutsu: Rock Raid]] | [[re_completed: jutsu: Reflect Raid]] | [[re_completed: jutsu: Magnet Raid]] |
+^ [[re_completed: jutsu: Sliding Rush]] | [[re_completed: jutsu: Stun Buster]] | [[re_completed: jutsu: Air Buster]] | [[re_completed: jutsu: Wave Buster]] | [[re_completed: jutsu: Solid Buster]] |[[re_completed: jutsu: Solar Rush]] | [[re_completed: jutsu: Shadow Rush]] |
+^ [[re_completed: jutsu: Land Crash]] | [[re_completed: jutsu: Diving Strike]] | [[re_completed: jutsu: Air Jump]] | [[re_completed: jutsu: Swan Dive]] | [[re_completed: jutsu: Diving Slam]] | [[re_completed: jutsu: Finishing Leap]] | [[re_completed: jutsu: Dark Break]] |
+^ [[re_completed: jutsu: Vicinity Break]] | [[re_completed: jutsu: Binding Strike]] | [[re_completed: jutsu: Windcutter]] | [[re_completed: jutsu: Wavebreaker]] | [[re_completed: jutsu: Rockbreaker]] | [[re_completed: jutsu: Spellweaver]] | [[re_completed: jutsu: Magnet Burst]] |
+^ [[re_completed: jutsu: Hurricane Period]] | [[re_completed: jutsu: Binding Storm]] | [[re_completed: jutsu: Cyclone]] | [[re_completed: jutsu: Typhoon]] | [[re_completed: jutsu: Stone Storm]] | [[re_completed: jutsu: Magic Storm]] | [[re_completed: jutsu: Dark Storm]] |
+^ [[re_completed: jutsu: Chain Rave]] | [[re_completed: jutsu: Binding Mill]] | [[re_completed: jutsu: Windmill]] | [[re_completed: jutsu: Watermill]] | [[re_completed: jutsu: Excavator]] | [[re_completed: jutsu: Light Mill]] | [[re_completed: jutsu: Dark Mill]] |
+^ [[re_completed: jutsu: Chain Whip]] | [[re_completed: jutsu: Binding Whip]] | [[re_completed: jutsu: Air Whip]] | [[re_completed: jutsu: Water Whip]] | [[re_completed: jutsu: Mason Whip]] | [[re_completed: jutsu: Light Whip]] | [[re_completed: jutsu: Dark Whip]] |
+
+^ [[re_completed: element: Adept]] ^ [[re_completed: element: Fire]] ^ [[re_completed: element: Thunder]] ^ [[re_completed: element: Blizzard]] ^ [[re_completed: element: Flower]] ^ [[re_completed: element: Time]] ^ [[re_completed: element: Gravity]] |
+^ [[re_completed: jutsu: Blitz]] | [[re_completed: jutsu: Fire Edge]] | [[re_completed: jutsu: Thunder Edge]] | [[re_completed: jutsu: Blizzard Edge]] | [[re_completed: jutsu: Poison Edge]] | [[re_completed: jutsu: Stop Edge]] | [[re_completed: jutsu: Gravity Break]] |
+^ [[re_completed: jutsu: Sonic Blade]] | [[re_completed: jutsu: Fire Surge]] | [[re_completed: jutsu: Spark Dash]] | [[re_completed: jutsu: Blizzard Surge]] | [[re_completed: jutsu: Poison Surge]] | [[re_completed: jutsu: Time Surge]] | [[re_completed: jutsu: Gravity Surge]] |
+^ [[re_completed: jutsu: Strike Raid]] | [[re_completed: jutsu: Fire Raid]] | [[re_completed: jutsu: Spark Raid]] | [[re_completed: jutsu: Freeze Raid]] | [[re_completed: jutsu: Poison Raid]] | [[re_completed: jutsu: Stop Raid]] | [[re_completed: jutsu: Gravity Raid]] |
+^ [[re_completed: jutsu: Sliding Rush]] | [[re_completed: jutsu: Flame Buster]] | [[re_completed: jutsu: Thunder Buster]] | [[re_completed: jutsu: Blizzard Buster]] | [[re_completed: jutsu: Poison Buster]] | [[re_completed: jutsu: Time Rush]] | [[re_completed: jutsu: Gravity Rush]] |
+^ [[re_completed: jutsu: Land Crash]] | [[re_completed: jutsu: Fire Dive]] | [[re_completed: jutsu: Spark Dive]] | [[re_completed: jutsu: Blizzard Dive]] | [[re_completed: jutsu: Poison Dive]] | [[re_completed: jutsu: Stop Slam]] | [[re_completed: jutsu: Gravity Slam]] |
+^ [[re_completed: jutsu: Vicinity Break]] | [[re_completed: jutsu: Fire Blast]] | [[re_completed: jutsu: Thunder Blast]] | [[re_completed: jutsu: Blizzard Blast]] | [[re_completed: jutsu: Poison Blast]] | [[re_completed: jutsu: Stop Burst]] | [[re_completed: jutsu: Gravity Burst]] |
+^ [[re_completed: jutsu: Hurricane Period]] | [[re_completed: jutsu: Firestorm]] | [[re_completed: jutsu: Thunderstorm]] | [[re_completed: jutsu: Snowstorm]] | [[re_completed: jutsu: Poison Storm]] | [[re_completed: jutsu: Time Spiral]] | [[re_completed: jutsu: Gravity Spiral]] |
+^ [[re_completed: jutsu: Chain Rave]] | [[re_completed: jutsu: Fire Mill]] | [[re_completed: jutsu: Thunder Mill]] | [[re_completed: jutsu: Blizzard Mill]] | [[re_completed: jutsu: Poison Mill]] | [[re_completed: jutsu: Timestorm]] | [[re_completed: jutsu: Gravity Storm]] |
+^ [[re_completed: jutsu: Chain Whip]] | [[re_completed: jutsu: Flame Whip]] | [[re_completed: jutsu: Thunder Whip]] | [[re_completed: jutsu: Blizzard Whip]] | [[re_completed: jutsu: Vine Whip]] | [[re_completed: jutsu: Time Whip]] | [[re_completed: jutsu: Gravity Whip]] |
+
+^ [[re_completed: element: Master]] ^ [[re_completed: element: Memory]] ^ [[re_completed: element: Dream]] ^ [[re_completed: element: Moon]] ^ [[re_completed: element: Pain]] ^ [[re_completed: element: Holy]] ^ [[re_completed: element: Curse]] |
+^ [[re_completed: jutsu: Blitz]] | [[re_completed: jutsu: Amnesia Blitz]] | [[re_completed: jutsu: Fantasy Blitz]] | [[re_completed: jutsu: Mad Blitz]] | [[re_completed: jutsu: Edge of Agony]] | [[re_completed: jutsu: Holy Edge]] | [[re_completed: jutsu: Cursed Edge]] |
+^ [[re_completed: jutsu: Sonic Blade]] | [[re_completed: jutsu: Memory Surge]] | [[re_completed: jutsu: Dream Surge]] | [[re_completed: jutsu: Berserker Blade]] | [[re_completed: jutsu: Torturous Blade]] | [[re_completed: jutsu: Silent Blade]] | [[re_completed: jutsu: Dark Haze]] |
+^ [[re_completed: jutsu: Strike Raid]] | [[re_completed: jutsu: Amnesia Raid]] | [[re_completed: jutsu: Sleep Raid]] | [[re_completed: jutsu: Lunar Raid]] | [[re_completed: jutsu: Raid of Despair]] | [[re_completed: jutsu: Holy Raid]] | [[re_completed: jutsu: Cursed Raid]] |
+^ [[re_completed: jutsu: Sliding Rush]] | [[re_completed: jutsu: Memory Buster]] | [[re_completed: jutsu: Dream Buster]] | [[re_completed: jutsu: Moon Buster]] | [[re_completed: jutsu: Pain Buster]] | [[re_completed: jutsu: Holy Rush]] | [[re_completed: jutsu: Cursed Rush]] |
+^ [[re_completed: jutsu: Land Crash]] | [[re_completed: jutsu: Memory Dive]] | [[re_completed: jutsu: Dream Drop]] | [[re_completed: jutsu: Moonfall]] | [[re_completed: jutsu: Submission to Torment]] | [[re_completed: jutsu: Holy Diver]] | [[re_completed: jutsu: Deep Dive]] |
+^ [[re_completed: jutsu: Vicinity Break]] | | | [[re_completed: jutsu: Limit Break]] | [[re_completed: jutsu: Sacrifice]] | [[re_completed: jutsu: Salvation]] | [[re_completed: jutsu: Brutal Blast]] |
+^ [[re_completed: jutsu: Hurricane Period]] | | | [[re_completed: jutsu: Limit Storm]] | | [[re_completed: jutsu: Holy Storm]] | [[re_completed: jutsu: Chaos Storm]] |
+^ [[re_completed: jutsu: Chain Rave]] | | | | | | |
+^ [[re_completed: jutsu: Chain Whip]] | | | | | | |
+
+== See Also ==
+----
+
+[[:Re Completed]]

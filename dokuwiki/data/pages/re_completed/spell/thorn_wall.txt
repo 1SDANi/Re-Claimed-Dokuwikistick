@@ -1,0 +1,11 @@
+==== Thorn Wall ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Creates a wall of electricity that blocks attacks
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

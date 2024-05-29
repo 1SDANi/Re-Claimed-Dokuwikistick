@@ -1,0 +1,17 @@
+==== All-Vanity ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Encases the user in a offensive shield of energy
+
+The user can [[re_completed: Action: Combo]] using [[re_completed: reaction: Vain Assault]]
+
+The user can [[re_completed: Action: React]] using [[re_completed: reaction: Omnipresent Absense]]
+
+Enemies can [[re_completed: Action: React]] using [[re_completed: reaction: Ego Breaker]] while close to the user
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

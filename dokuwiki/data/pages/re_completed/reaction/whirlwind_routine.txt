@@ -1,0 +1,11 @@
+==== Whirlwind Routine ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Slashes at the target with a series of rapid attacks
+
+== See Also ==
+----
+
+[[re_completed: limits: Whirlwind Dance]]

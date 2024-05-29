@@ -1,0 +1,9 @@
+==== LFD ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: D-DOWN]] | [[controls: playstation: D-DOWN]] | [[controls: switch: D-DOWN]] |
+
+== See Also ==
+----
+[[controls: Inputs]]

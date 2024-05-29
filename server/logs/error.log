@@ -39,3 +39,300 @@
 [Fri Mar 01 09:57:36.967356 2024] [core:notice] [pid 11532:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Halo Reclaimed/server'
 [Fri Mar 01 09:57:36.971354 2024] [mpm_winnt:notice] [pid 11532:tid 368] AH00418: Parent: Created child process 19712
 [Fri Mar 01 09:57:37.482681 2024] [mpm_winnt:notice] [pid 19712:tid 364] AH00354: Child: Starting 24 worker threads.
+[Fri Mar 01 10:09:58.054734 2024] [core:warn] [pid 20692:tid 368] AH00098: pid file C:/Users/bandd/Documents/Halo Reclaimed/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 01 10:09:58.263688 2024] [mpm_winnt:notice] [pid 20692:tid 368] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Mar 01 10:09:58.263688 2024] [mpm_winnt:notice] [pid 20692:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Mar 01 10:09:58.263688 2024] [core:notice] [pid 20692:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Halo Reclaimed/server'
+[Fri Mar 01 10:09:58.267687 2024] [mpm_winnt:notice] [pid 20692:tid 368] AH00418: Parent: Created child process 13796
+[Fri Mar 01 10:09:58.770214 2024] [mpm_winnt:notice] [pid 13796:tid 360] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 02 14:33:58.573533 2024] [core:warn] [pid 23660:tid 356] AH00098: pid file C:/Users/bandd/Documents/Halo Reclaimed/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 02 14:33:58.899786 2024] [mpm_winnt:notice] [pid 23660:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 02 14:33:58.899786 2024] [mpm_winnt:notice] [pid 23660:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 02 14:33:58.899786 2024] [core:notice] [pid 23660:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Halo Reclaimed/server'
+[Sat Mar 02 14:33:58.903787 2024] [mpm_winnt:notice] [pid 23660:tid 356] AH00418: Parent: Created child process 23788
+[Sat Mar 02 14:33:59.419791 2024] [mpm_winnt:notice] [pid 23788:tid 356] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 16 13:16:14.511422 2024] [core:warn] [pid 9800:tid 220] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 16 13:16:14.888488 2024] [mpm_winnt:notice] [pid 9800:tid 220] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 16 13:16:14.888488 2024] [mpm_winnt:notice] [pid 9800:tid 220] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 16 13:16:14.888488 2024] [core:notice] [pid 9800:tid 220] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat Mar 16 13:16:14.892094 2024] [mpm_winnt:notice] [pid 9800:tid 220] AH00418: Parent: Created child process 16624
+[Sat Mar 16 13:16:15.438183 2024] [mpm_winnt:notice] [pid 16624:tid 352] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 19 17:16:34.498232 2024] [core:warn] [pid 22248:tid 224] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 19 17:16:34.725207 2024] [mpm_winnt:notice] [pid 22248:tid 224] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 19 17:16:34.725207 2024] [mpm_winnt:notice] [pid 22248:tid 224] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 19 17:16:34.725207 2024] [core:notice] [pid 22248:tid 224] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue Mar 19 17:16:34.728876 2024] [mpm_winnt:notice] [pid 22248:tid 224] AH00418: Parent: Created child process 23856
+[Tue Mar 19 17:16:35.223263 2024] [mpm_winnt:notice] [pid 23856:tid 352] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 20 19:11:24.460483 2024] [core:warn] [pid 4372:tid 368] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 20 19:11:24.673029 2024] [mpm_winnt:notice] [pid 4372:tid 368] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 20 19:11:24.673029 2024] [mpm_winnt:notice] [pid 4372:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 20 19:11:24.673029 2024] [core:notice] [pid 4372:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed Mar 20 19:11:24.676650 2024] [mpm_winnt:notice] [pid 4372:tid 368] AH00418: Parent: Created child process 24216
+[Wed Mar 20 19:11:25.215527 2024] [mpm_winnt:notice] [pid 24216:tid 356] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 20 20:50:54.133398 2024] [core:warn] [pid 21132:tid 164] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 20 20:50:54.341498 2024] [mpm_winnt:notice] [pid 21132:tid 164] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 20 20:50:54.341498 2024] [mpm_winnt:notice] [pid 21132:tid 164] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 20 20:50:54.341498 2024] [core:notice] [pid 21132:tid 164] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed Mar 20 20:50:54.344502 2024] [mpm_winnt:notice] [pid 21132:tid 164] AH00418: Parent: Created child process 14920
+[Wed Mar 20 20:50:54.848859 2024] [mpm_winnt:notice] [pid 14920:tid 372] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 20 21:21:04.174117 2024] [core:warn] [pid 9396:tid 368] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 20 21:21:04.375644 2024] [mpm_winnt:notice] [pid 9396:tid 368] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 20 21:21:04.375644 2024] [mpm_winnt:notice] [pid 9396:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 20 21:21:04.375644 2024] [core:notice] [pid 9396:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed Mar 20 21:21:04.380385 2024] [mpm_winnt:notice] [pid 9396:tid 368] AH00418: Parent: Created child process 18900
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18900:tid 364] AH00354: Child: Starting 24 worker threads.
+[Fri Mar 22 20:27:28.344765 2024] [mpm_winnt:notice] [pid 9396:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 22 20:27:30.370064 2024] [mpm_winnt:notice] [pid 18900:tid 364] AH00364: Child: All worker threads have exited.
+[Fri Mar 22 20:27:30.411614 2024] [mpm_winnt:notice] [pid 9396:tid 368] AH00430: Parent: Child process 18900 exited successfully.
+[Sun Mar 24 11:27:30.862666 2024] [mpm_winnt:notice] [pid 6412:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sun Mar 24 11:27:30.863666 2024] [mpm_winnt:notice] [pid 6412:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Mar 24 11:27:30.863666 2024] [core:notice] [pid 6412:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sun Mar 24 11:27:30.867177 2024] [mpm_winnt:notice] [pid 6412:tid 356] AH00418: Parent: Created child process 4240
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4240:tid 352] AH00354: Child: Starting 24 worker threads.
+[Sun Mar 24 14:13:26.516881 2024] [php:warn] [pid 4240:tid 832] [client 127.0.0.1:37103] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_claimed:combat_evolved:levels:damnation:reconciliation&do=edit
+[Sun Mar 24 21:00:18.852197 2024] [php:warn] [pid 4240:tid 848] [client 127.0.0.1:39440] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_claimed:character:team:human:torso
+[Sun Mar 24 21:00:20.330717 2024] [php:warn] [pid 4240:tid 848] [client 127.0.0.1:39442] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_claimed:character:team:human:torso
+[Sun Mar 24 21:00:27.282371 2024] [php:warn] [pid 4240:tid 848] [client 127.0.0.1:39444] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_claimed:character:team:human:torso
+[Sun Mar 24 22:25:19.192502 2024] [php:warn] [pid 4240:tid 832] [client 127.0.0.1:39903] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_claimed:character:species:human
+[Sun Mar 24 23:54:47.880783 2024] [mpm_winnt:notice] [pid 6412:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 24 23:54:49.887376 2024] [mpm_winnt:notice] [pid 4240:tid 352] AH00364: Child: All worker threads have exited.
+[Sun Mar 24 23:54:49.946001 2024] [mpm_winnt:notice] [pid 6412:tid 356] AH00430: Parent: Child process 4240 exited successfully.
+[Mon Mar 25 04:12:19.941016 2024] [mpm_winnt:notice] [pid 10472:tid 392] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Mar 25 04:12:19.942037 2024] [mpm_winnt:notice] [pid 10472:tid 392] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 25 04:12:19.942037 2024] [core:notice] [pid 10472:tid 392] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Mon Mar 25 04:12:19.944803 2024] [mpm_winnt:notice] [pid 10472:tid 392] AH00418: Parent: Created child process 21244
+[Mon Mar 25 04:12:20.441937 2024] [mpm_winnt:notice] [pid 21244:tid 368] AH00354: Child: Starting 24 worker threads.
+[Mon Mar 25 04:49:01.610583 2024] [core:warn] [pid 24396:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 25 04:49:01.810723 2024] [mpm_winnt:notice] [pid 24396:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Mar 25 04:49:01.810723 2024] [mpm_winnt:notice] [pid 24396:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 25 04:49:01.810723 2024] [core:notice] [pid 24396:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Mon Mar 25 04:49:01.814489 2024] [mpm_winnt:notice] [pid 24396:tid 356] AH00418: Parent: Created child process 21228
+[Mon Mar 25 04:49:02.346557 2024] [mpm_winnt:notice] [pid 21228:tid 404] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 26 02:19:19.956240 2024] [core:warn] [pid 24220:tid 400] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 26 02:19:20.191826 2024] [mpm_winnt:notice] [pid 24220:tid 400] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 26 02:19:20.191826 2024] [mpm_winnt:notice] [pid 24220:tid 400] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 26 02:19:20.191826 2024] [core:notice] [pid 24220:tid 400] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue Mar 26 02:19:20.195829 2024] [mpm_winnt:notice] [pid 24220:tid 400] AH00418: Parent: Created child process 21408
+[Tue Mar 26 02:19:20.689845 2024] [mpm_winnt:notice] [pid 21408:tid 356] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 26 11:59:20.594537 2024] [core:warn] [pid 13400:tid 404] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 26 11:59:20.826273 2024] [mpm_winnt:notice] [pid 13400:tid 404] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 26 11:59:20.826273 2024] [mpm_winnt:notice] [pid 13400:tid 404] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 26 11:59:20.826273 2024] [core:notice] [pid 13400:tid 404] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue Mar 26 11:59:20.830208 2024] [mpm_winnt:notice] [pid 13400:tid 404] AH00418: Parent: Created child process 4480
+[Tue Mar 26 11:59:21.402612 2024] [mpm_winnt:notice] [pid 4480:tid 356] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 27 12:55:42.775079 2024] [core:warn] [pid 20488:tid 372] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 27 12:55:43.168432 2024] [mpm_winnt:notice] [pid 20488:tid 372] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 27 12:55:43.168432 2024] [mpm_winnt:notice] [pid 20488:tid 372] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 27 12:55:43.168432 2024] [core:notice] [pid 20488:tid 372] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed Mar 27 12:55:43.172232 2024] [mpm_winnt:notice] [pid 20488:tid 372] AH00418: Parent: Created child process 21044
+[Wed Mar 27 12:55:43.864285 2024] [mpm_winnt:notice] [pid 21044:tid 376] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 30 04:46:15.559242 2024] [core:warn] [pid 14408:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 30 04:46:15.773366 2024] [mpm_winnt:notice] [pid 14408:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 30 04:46:15.773366 2024] [mpm_winnt:notice] [pid 14408:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 30 04:46:15.773366 2024] [core:notice] [pid 14408:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat Mar 30 04:46:15.777312 2024] [mpm_winnt:notice] [pid 14408:tid 356] AH00418: Parent: Created child process 26368
+[Sat Mar 30 04:46:16.300595 2024] [mpm_winnt:notice] [pid 26368:tid 352] AH00354: Child: Starting 24 worker threads.
+[Sun Mar 31 03:51:15.249465 2024] [core:warn] [pid 22740:tid 392] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 31 03:51:15.470392 2024] [mpm_winnt:notice] [pid 22740:tid 392] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sun Mar 31 03:51:15.470392 2024] [mpm_winnt:notice] [pid 22740:tid 392] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Mar 31 03:51:15.470392 2024] [core:notice] [pid 22740:tid 392] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sun Mar 31 03:51:15.473927 2024] [mpm_winnt:notice] [pid 22740:tid 392] AH00418: Parent: Created child process 25868
+[Sun Mar 31 03:51:15.990920 2024] [mpm_winnt:notice] [pid 25868:tid 352] AH00354: Child: Starting 24 worker threads.
+[Mon Apr 01 13:13:44.702244 2024] [core:warn] [pid 31932:tid 368] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 01 13:13:44.926613 2024] [mpm_winnt:notice] [pid 31932:tid 368] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Apr 01 13:13:44.926613 2024] [mpm_winnt:notice] [pid 31932:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Apr 01 13:13:44.926613 2024] [core:notice] [pid 31932:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Mon Apr 01 13:13:44.930560 2024] [mpm_winnt:notice] [pid 31932:tid 368] AH00418: Parent: Created child process 26060
+[Mon Apr 01 13:13:45.510286 2024] [mpm_winnt:notice] [pid 26060:tid 352] AH00354: Child: Starting 24 worker threads.
+[Sat Apr 06 14:37:35.372459 2024] [core:warn] [pid 20120:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 06 14:37:35.799996 2024] [mpm_winnt:notice] [pid 20120:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Apr 06 14:37:35.799996 2024] [mpm_winnt:notice] [pid 20120:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Apr 06 14:37:35.799996 2024] [core:notice] [pid 20120:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat Apr 06 14:37:35.803999 2024] [mpm_winnt:notice] [pid 20120:tid 356] AH00418: Parent: Created child process 18456
+[Sat Apr 06 14:37:36.799863 2024] [mpm_winnt:notice] [pid 18456:tid 352] AH00354: Child: Starting 24 worker threads.
+[Sat Apr 06 21:45:27.626272 2024] [core:warn] [pid 10712:tid 184] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 06 21:45:27.884539 2024] [mpm_winnt:notice] [pid 10712:tid 184] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Apr 06 21:45:27.884539 2024] [mpm_winnt:notice] [pid 10712:tid 184] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Apr 06 21:45:27.884539 2024] [core:notice] [pid 10712:tid 184] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat Apr 06 21:45:27.888386 2024] [mpm_winnt:notice] [pid 10712:tid 184] AH00418: Parent: Created child process 17708
+[Sat Apr 06 21:45:28.462865 2024] [mpm_winnt:notice] [pid 17708:tid 352] AH00354: Child: Starting 24 worker threads.
+[Tue Apr 09 04:18:57.089088 2024] [core:warn] [pid 19116:tid 364] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 09 04:18:57.319340 2024] [mpm_winnt:notice] [pid 19116:tid 364] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Apr 09 04:18:57.319340 2024] [mpm_winnt:notice] [pid 19116:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Apr 09 04:18:57.319340 2024] [core:notice] [pid 19116:tid 364] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue Apr 09 04:18:57.323340 2024] [mpm_winnt:notice] [pid 19116:tid 364] AH00418: Parent: Created child process 19416
+[Tue Apr 09 04:18:58.036393 2024] [mpm_winnt:notice] [pid 19416:tid 356] AH00354: Child: Starting 24 worker threads.
+[Mon Apr 15 20:59:21.233987 2024] [core:warn] [pid 7048:tid 384] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 15 20:59:21.942982 2024] [mpm_winnt:notice] [pid 7048:tid 384] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Apr 15 20:59:21.943982 2024] [mpm_winnt:notice] [pid 7048:tid 384] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Apr 15 20:59:21.943982 2024] [core:notice] [pid 7048:tid 384] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Mon Apr 15 20:59:21.946982 2024] [mpm_winnt:notice] [pid 7048:tid 384] AH00418: Parent: Created child process 11024
+[Mon Apr 15 20:59:22.536392 2024] [mpm_winnt:notice] [pid 11024:tid 352] AH00354: Child: Starting 24 worker threads.
+[Tue Apr 16 13:13:36.936445 2024] [core:warn] [pid 7384:tid 380] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 16 13:13:37.149860 2024] [mpm_winnt:notice] [pid 7384:tid 380] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Apr 16 13:13:37.149860 2024] [mpm_winnt:notice] [pid 7384:tid 380] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Apr 16 13:13:37.149860 2024] [core:notice] [pid 7384:tid 380] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue Apr 16 13:13:37.153758 2024] [mpm_winnt:notice] [pid 7384:tid 380] AH00418: Parent: Created child process 2600
+[Tue Apr 16 13:13:37.681658 2024] [mpm_winnt:notice] [pid 2600:tid 352] AH00354: Child: Starting 24 worker threads.
+[Tue Apr 16 22:35:00.045063 2024] [core:warn] [pid 17136:tid 368] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 16 22:35:00.263281 2024] [mpm_winnt:notice] [pid 17136:tid 368] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Apr 16 22:35:00.263281 2024] [mpm_winnt:notice] [pid 17136:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Apr 16 22:35:00.263281 2024] [core:notice] [pid 17136:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue Apr 16 22:35:00.267283 2024] [mpm_winnt:notice] [pid 17136:tid 368] AH00418: Parent: Created child process 23256
+[Tue Apr 16 22:35:00.816631 2024] [mpm_winnt:notice] [pid 23256:tid 356] AH00354: Child: Starting 24 worker threads.
+[Wed Apr 17 18:11:36.814309 2024] [core:warn] [pid 24704:tid 204] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 17 18:11:37.374989 2024] [mpm_winnt:notice] [pid 24704:tid 204] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Apr 17 18:11:37.374989 2024] [mpm_winnt:notice] [pid 24704:tid 204] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Apr 17 18:11:37.374989 2024] [core:notice] [pid 24704:tid 204] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed Apr 17 18:11:37.531868 2024] [mpm_winnt:notice] [pid 24704:tid 204] AH00418: Parent: Created child process 30580
+[Wed Apr 17 18:11:38.497614 2024] [mpm_winnt:notice] [pid 30580:tid 352] AH00354: Child: Starting 24 worker threads.
+[Thu Apr 18 13:46:53.402928 2024] [core:warn] [pid 32076:tid 380] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 18 13:46:53.773244 2024] [mpm_winnt:notice] [pid 32076:tid 380] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Apr 18 13:46:53.773244 2024] [mpm_winnt:notice] [pid 32076:tid 380] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Apr 18 13:46:53.773244 2024] [core:notice] [pid 32076:tid 380] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Thu Apr 18 13:46:53.777896 2024] [mpm_winnt:notice] [pid 32076:tid 380] AH00418: Parent: Created child process 28708
+[Thu Apr 18 13:46:54.349622 2024] [mpm_winnt:notice] [pid 28708:tid 376] AH00354: Child: Starting 24 worker threads.
+[Thu Apr 18 18:55:52.265795 2024] [core:warn] [pid 33800:tid 412] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 18 18:55:52.512855 2024] [mpm_winnt:notice] [pid 33800:tid 412] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Apr 18 18:55:52.512855 2024] [mpm_winnt:notice] [pid 33800:tid 412] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Apr 18 18:55:52.512855 2024] [core:notice] [pid 33800:tid 412] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Thu Apr 18 18:55:52.518350 2024] [mpm_winnt:notice] [pid 33800:tid 412] AH00418: Parent: Created child process 39336
+[Thu Apr 18 18:55:53.294741 2024] [mpm_winnt:notice] [pid 39336:tid 368] AH00354: Child: Starting 24 worker threads.
+[Sat Apr 20 05:40:58.686824 2024] [core:warn] [pid 27544:tid 364] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 20 05:40:58.914312 2024] [mpm_winnt:notice] [pid 27544:tid 364] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Apr 20 05:40:58.914312 2024] [mpm_winnt:notice] [pid 27544:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Apr 20 05:40:58.914312 2024] [core:notice] [pid 27544:tid 364] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat Apr 20 05:40:58.917824 2024] [mpm_winnt:notice] [pid 27544:tid 364] AH00418: Parent: Created child process 40072
+[Sat Apr 20 05:40:59.461902 2024] [mpm_winnt:notice] [pid 40072:tid 352] AH00354: Child: Starting 24 worker threads.
+[Sat Apr 20 15:52:19.294220 2024] [core:warn] [pid 43716:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 20 15:52:19.516642 2024] [mpm_winnt:notice] [pid 43716:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Apr 20 15:52:19.516642 2024] [mpm_winnt:notice] [pid 43716:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Apr 20 15:52:19.516642 2024] [core:notice] [pid 43716:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat Apr 20 15:52:19.520153 2024] [mpm_winnt:notice] [pid 43716:tid 356] AH00418: Parent: Created child process 42080
+[Sat Apr 20 15:52:20.197529 2024] [mpm_winnt:notice] [pid 42080:tid 224] AH00354: Child: Starting 24 worker threads.
+[Mon Apr 22 21:13:40.454373 2024] [core:warn] [pid 24628:tid 360] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 22 21:13:40.693178 2024] [mpm_winnt:notice] [pid 24628:tid 360] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Apr 22 21:13:40.693178 2024] [mpm_winnt:notice] [pid 24628:tid 360] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Apr 22 21:13:40.693178 2024] [core:notice] [pid 24628:tid 360] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Mon Apr 22 21:13:40.697187 2024] [mpm_winnt:notice] [pid 24628:tid 360] AH00418: Parent: Created child process 21352
+[Mon Apr 22 21:13:41.389836 2024] [mpm_winnt:notice] [pid 21352:tid 352] AH00354: Child: Starting 24 worker threads.
+[Tue Apr 23 19:05:55.208895 2024] [core:warn] [pid 21772:tid 200] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 23 19:05:55.577954 2024] [mpm_winnt:notice] [pid 21772:tid 200] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Apr 23 19:05:55.577954 2024] [mpm_winnt:notice] [pid 21772:tid 200] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Apr 23 19:05:55.577954 2024] [core:notice] [pid 21772:tid 200] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue Apr 23 19:05:55.581954 2024] [mpm_winnt:notice] [pid 21772:tid 200] AH00418: Parent: Created child process 14068
+[Tue Apr 23 19:05:56.145255 2024] [mpm_winnt:notice] [pid 14068:tid 356] AH00354: Child: Starting 24 worker threads.
+[Tue Apr 23 21:39:41.438987 2024] [php:warn] [pid 14068:tid 824] [client 127.0.0.1:20335] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_completed:spell
+[Tue Apr 23 21:39:44.547392 2024] [php:warn] [pid 14068:tid 824] [client 127.0.0.1:20337] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_completed:spell
+[Wed Apr 24 03:13:44.968764 2024] [core:warn] [pid 30924:tid 400] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 24 03:13:45.201614 2024] [mpm_winnt:notice] [pid 30924:tid 400] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Apr 24 03:13:45.201614 2024] [mpm_winnt:notice] [pid 30924:tid 400] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Apr 24 03:13:45.201614 2024] [core:notice] [pid 30924:tid 400] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed Apr 24 03:13:45.205616 2024] [mpm_winnt:notice] [pid 30924:tid 400] AH00418: Parent: Created child process 7916
+[Wed Apr 24 03:13:45.736330 2024] [mpm_winnt:notice] [pid 7916:tid 368] AH00354: Child: Starting 24 worker threads.
+[Wed Apr 24 18:52:21.724384 2024] [core:warn] [pid 16408:tid 268] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 24 18:52:22.741905 2024] [mpm_winnt:notice] [pid 16408:tid 268] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Apr 24 18:52:22.742922 2024] [mpm_winnt:notice] [pid 16408:tid 268] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Apr 24 18:52:22.742922 2024] [core:notice] [pid 16408:tid 268] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed Apr 24 18:52:22.758476 2024] [mpm_winnt:notice] [pid 16408:tid 268] AH00418: Parent: Created child process 10680
+[Wed Apr 24 18:52:25.246213 2024] [mpm_winnt:notice] [pid 10680:tid 400] AH00354: Child: Starting 24 worker threads.
+[Fri Apr 26 13:23:24.875118 2024] [core:warn] [pid 6876:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 26 13:23:25.099805 2024] [mpm_winnt:notice] [pid 6876:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Apr 26 13:23:25.099805 2024] [mpm_winnt:notice] [pid 6876:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Apr 26 13:23:25.099805 2024] [core:notice] [pid 6876:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Fri Apr 26 13:23:25.103299 2024] [mpm_winnt:notice] [pid 6876:tid 356] AH00418: Parent: Created child process 13024
+[Fri Apr 26 13:23:25.651816 2024] [mpm_winnt:notice] [pid 13024:tid 352] AH00354: Child: Starting 24 worker threads.
+[Sun Apr 28 06:19:20.600725 2024] [core:warn] [pid 19724:tid 360] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 28 06:19:20.824818 2024] [mpm_winnt:notice] [pid 19724:tid 360] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sun Apr 28 06:19:20.824818 2024] [mpm_winnt:notice] [pid 19724:tid 360] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Apr 28 06:19:20.824818 2024] [core:notice] [pid 19724:tid 360] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sun Apr 28 06:19:20.828825 2024] [mpm_winnt:notice] [pid 19724:tid 360] AH00418: Parent: Created child process 7880
+[Sun Apr 28 06:19:21.358444 2024] [mpm_winnt:notice] [pid 7880:tid 352] AH00354: Child: Starting 24 worker threads.
+[Wed May 01 12:58:23.251875 2024] [core:warn] [pid 2124:tid 416] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 01 12:58:23.471760 2024] [mpm_winnt:notice] [pid 2124:tid 416] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed May 01 12:58:23.471760 2024] [mpm_winnt:notice] [pid 2124:tid 416] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed May 01 12:58:23.471760 2024] [core:notice] [pid 2124:tid 416] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed May 01 12:58:23.475768 2024] [mpm_winnt:notice] [pid 2124:tid 416] AH00418: Parent: Created child process 20564
+[Wed May 01 12:58:24.003312 2024] [mpm_winnt:notice] [pid 20564:tid 352] AH00354: Child: Starting 24 worker threads.
+[Fri May 03 03:27:09.257456 2024] [core:warn] [pid 22372:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 03 03:27:09.639904 2024] [mpm_winnt:notice] [pid 22372:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri May 03 03:27:09.639904 2024] [mpm_winnt:notice] [pid 22372:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri May 03 03:27:09.639904 2024] [core:notice] [pid 22372:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Fri May 03 03:27:09.644010 2024] [mpm_winnt:notice] [pid 22372:tid 356] AH00418: Parent: Created child process 3124
+[Fri May 03 03:27:10.166699 2024] [mpm_winnt:notice] [pid 3124:tid 368] AH00354: Child: Starting 24 worker threads.
+[Fri May 03 08:44:48.454734 2024] [php:warn] [pid 3124:tid 816] [client 127.0.0.1:54881] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_completed:characters:sora
+[Tue May 07 02:16:42.348371 2024] [core:warn] [pid 14432:tid 368] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 07 02:16:42.587564 2024] [mpm_winnt:notice] [pid 14432:tid 368] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue May 07 02:16:42.587564 2024] [mpm_winnt:notice] [pid 14432:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue May 07 02:16:42.587564 2024] [core:notice] [pid 14432:tid 368] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue May 07 02:16:42.590071 2024] [mpm_winnt:notice] [pid 14432:tid 368] AH00418: Parent: Created child process 20892
+[Tue May 07 02:16:43.233055 2024] [mpm_winnt:notice] [pid 20892:tid 356] AH00354: Child: Starting 24 worker threads.
+[Tue May 07 03:26:19.378518 2024] [php:warn] [pid 20892:tid 836] [client 127.0.0.1:8086] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_completed:combo:lion_style
+[Tue May 07 05:23:24.212234 2024] [php:warn] [pid 20892:tid 836] [client 127.0.0.1:8769] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_completed:jutsu&do=edit
+[Tue May 07 05:24:41.379660 2024] [php:warn] [pid 20892:tid 836] [client 127.0.0.1:8779] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_completed:characters:xemnas
+[Wed May 08 02:04:12.634232 2024] [core:warn] [pid 15464:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 08 02:04:12.855687 2024] [mpm_winnt:notice] [pid 15464:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed May 08 02:04:12.855687 2024] [mpm_winnt:notice] [pid 15464:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed May 08 02:04:12.855687 2024] [core:notice] [pid 15464:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed May 08 02:04:12.859216 2024] [mpm_winnt:notice] [pid 15464:tid 356] AH00418: Parent: Created child process 9016
+[Wed May 08 02:04:14.667279 2024] [mpm_winnt:notice] [pid 9016:tid 356] AH00354: Child: Starting 24 worker threads.
+[Wed May 08 03:03:56.704519 2024] [php:warn] [pid 9016:tid 844] [client 127.0.0.1:56206] PHP Warning:  Undefined array key "media" in C:\\Users\\bandd\\Documents\\Godot Projects\\Plans\\dokuwiki\\inc\\ChangeLog\\RevisionInfo.php on line 39, referer: http://localhost:8800/doku.php?id=re_completed:element:animus
+[Wed May 08 13:28:22.546699 2024] [core:warn] [pid 17112:tid 392] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 08 13:28:22.779689 2024] [mpm_winnt:notice] [pid 17112:tid 392] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed May 08 13:28:22.779689 2024] [mpm_winnt:notice] [pid 17112:tid 392] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed May 08 13:28:22.779689 2024] [core:notice] [pid 17112:tid 392] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Wed May 08 13:28:22.784181 2024] [mpm_winnt:notice] [pid 17112:tid 392] AH00418: Parent: Created child process 5028
+[Wed May 08 13:28:23.370539 2024] [mpm_winnt:notice] [pid 5028:tid 356] AH00354: Child: Starting 24 worker threads.
+[Fri May 10 09:08:12.867765 2024] [core:warn] [pid 1384:tid 420] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 10 09:08:13.510377 2024] [mpm_winnt:notice] [pid 1384:tid 420] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri May 10 09:08:13.510377 2024] [mpm_winnt:notice] [pid 1384:tid 420] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri May 10 09:08:13.510377 2024] [core:notice] [pid 1384:tid 420] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Fri May 10 09:08:13.513379 2024] [mpm_winnt:notice] [pid 1384:tid 420] AH00418: Parent: Created child process 18276
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18276:tid 360] AH00354: Child: Starting 24 worker threads.
+[Fri May 10 10:12:33.318441 2024] [mpm_winnt:notice] [pid 1384:tid 420] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 10 10:12:35.332549 2024] [mpm_winnt:notice] [pid 18276:tid 360] AH00364: Child: All worker threads have exited.
+[Fri May 10 10:12:35.377509 2024] [mpm_winnt:notice] [pid 1384:tid 420] AH00430: Parent: Child process 18276 exited successfully.
+[Fri May 10 23:12:04.357614 2024] [mpm_winnt:notice] [pid 22388:tid 376] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri May 10 23:12:04.357614 2024] [mpm_winnt:notice] [pid 22388:tid 376] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri May 10 23:12:04.357614 2024] [core:notice] [pid 22388:tid 376] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Fri May 10 23:12:04.362174 2024] [mpm_winnt:notice] [pid 22388:tid 376] AH00418: Parent: Created child process 2604
+[Fri May 10 23:12:04.998269 2024] [mpm_winnt:notice] [pid 2604:tid 356] AH00354: Child: Starting 24 worker threads.
+[Sat May 11 12:16:30.087087 2024] [core:warn] [pid 12356:tid 380] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 11 12:16:30.411256 2024] [mpm_winnt:notice] [pid 12356:tid 380] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat May 11 12:16:30.411256 2024] [mpm_winnt:notice] [pid 12356:tid 380] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 11 12:16:30.411256 2024] [core:notice] [pid 12356:tid 380] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat May 11 12:16:30.416289 2024] [mpm_winnt:notice] [pid 12356:tid 380] AH00418: Parent: Created child process 12112
+[Sat May 11 12:16:31.275977 2024] [mpm_winnt:notice] [pid 12112:tid 384] AH00354: Child: Starting 24 worker threads.
+[Tue May 14 00:44:49.321835 2024] [core:warn] [pid 14104:tid 196] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 14 00:44:49.540887 2024] [mpm_winnt:notice] [pid 14104:tid 196] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue May 14 00:44:49.540887 2024] [mpm_winnt:notice] [pid 14104:tid 196] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue May 14 00:44:49.540887 2024] [core:notice] [pid 14104:tid 196] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Tue May 14 00:44:49.543888 2024] [mpm_winnt:notice] [pid 14104:tid 196] AH00418: Parent: Created child process 9904
+[Tue May 14 00:44:50.078335 2024] [mpm_winnt:notice] [pid 9904:tid 356] AH00354: Child: Starting 24 worker threads.
+[Thu May 16 13:55:45.044801 2024] [core:warn] [pid 12668:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 16 13:55:45.300281 2024] [mpm_winnt:notice] [pid 12668:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu May 16 13:55:45.300281 2024] [mpm_winnt:notice] [pid 12668:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu May 16 13:55:45.300281 2024] [core:notice] [pid 12668:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Thu May 16 13:55:45.305569 2024] [mpm_winnt:notice] [pid 12668:tid 356] AH00418: Parent: Created child process 18656
+[Thu May 16 13:55:45.895095 2024] [mpm_winnt:notice] [pid 18656:tid 356] AH00354: Child: Starting 24 worker threads.
+[Sat May 18 04:45:19.841916 2024] [core:warn] [pid 19844:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 18 04:45:20.206855 2024] [mpm_winnt:notice] [pid 19844:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat May 18 04:45:20.206855 2024] [mpm_winnt:notice] [pid 19844:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 18 04:45:20.206855 2024] [core:notice] [pid 19844:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sat May 18 04:45:20.209856 2024] [mpm_winnt:notice] [pid 19844:tid 356] AH00418: Parent: Created child process 2148
+[Sat May 18 04:45:20.768816 2024] [mpm_winnt:notice] [pid 2148:tid 352] AH00354: Child: Starting 24 worker threads.
+[Thu May 23 08:42:29.329086 2024] [core:warn] [pid 17012:tid 356] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 23 08:42:29.572916 2024] [mpm_winnt:notice] [pid 17012:tid 356] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu May 23 08:42:29.572916 2024] [mpm_winnt:notice] [pid 17012:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu May 23 08:42:29.572916 2024] [core:notice] [pid 17012:tid 356] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Thu May 23 08:42:29.575917 2024] [mpm_winnt:notice] [pid 17012:tid 356] AH00418: Parent: Created child process 23440
+[Thu May 23 08:42:30.126031 2024] [mpm_winnt:notice] [pid 23440:tid 356] AH00354: Child: Starting 24 worker threads.
+[Sun May 26 02:10:12.206288 2024] [core:warn] [pid 16376:tid 348] AH00098: pid file C:/Users/bandd/Documents/Godot Projects/Plans/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 26 02:10:12.430624 2024] [mpm_winnt:notice] [pid 16376:tid 348] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sun May 26 02:10:12.430624 2024] [mpm_winnt:notice] [pid 16376:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun May 26 02:10:12.430624 2024] [core:notice] [pid 16376:tid 348] AH00094: Command line: 'mapache.exe -d C:/Users/bandd/Documents/Godot Projects/Plans/server'
+[Sun May 26 02:10:12.433621 2024] [mpm_winnt:notice] [pid 16376:tid 348] AH00418: Parent: Created child process 22432
+[Sun May 26 02:10:12.963751 2024] [mpm_winnt:notice] [pid 22432:tid 356] AH00354: Child: Starting 24 worker threads.

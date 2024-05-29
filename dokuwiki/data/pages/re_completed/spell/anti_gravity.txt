@@ -1,0 +1,11 @@
+==== Anti Gravity ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Creates a pillar of antigravity that throws those within it upwards
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

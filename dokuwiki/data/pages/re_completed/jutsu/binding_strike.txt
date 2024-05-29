@@ -1,0 +1,11 @@
+==== Binding Strike ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Performs a magic infused spin attack, applies [[re_completed: status: Bound]]
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

@@ -1,0 +1,20 @@
+==== Assault Rifle ====
+----
+
+^ [[general: Automatic Firearm]] ^ [[general: AP-Rounds]] ^ [[general: Fully Automatic]] ^
+| 10 Rounds per Second | 1 Rounds per Shot | 1 Pellets per Round |
+| 32 Rounds Reloaded | 4 Seconds until Empty |
+| 300 Max Rounds |
+| 150 Damage per Second | 480 Damage per Reload |
+| 4 [[general: Accuracy]] | 2 [[general: Stability]] | 0 [[general: Zoom]] |
+| [[general: Loud]] [[general: Volume]] |
+| [[general: Integrated Flashlight]] |
+
+
+^ Commando | [[general: Selective Scope]] | [[general: Underbarrel Grenade Launcher]] | [[general: Commando Magazine]] |
+^ SAW | [[general: HE-Rounds]] | [[general: Saw Conversion]] | [[general: SAW Magazine]] |
+
+
+
+
+

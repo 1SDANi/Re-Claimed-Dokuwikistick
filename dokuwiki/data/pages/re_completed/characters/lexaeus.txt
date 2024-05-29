@@ -1,0 +1,43 @@
+==== Lexaeus ====
+----
+
+^ [[re_completed: combo: Warrior Style]] |
+
+^ [[re_completed: Teleport: Corridor of Light]] |
+
+^ [[re_completed: element: Solum]] Spells |
+| [[re_completed: spell: Stone Shot]] |
+| [[re_completed: spell: Quake]] |
+| [[re_completed: spell: Rock Shatter]] |
+| [[re_completed: spell: Geo Impact]] |
+| [[re_completed: spell: Reinforce]] |
+
+^ [[re_completed: element: Solum]] Jutsu |
+| [[re_completed: jutsu: Stone Blitz]] |
+| [[re_completed: jutsu: Stalwart Blade]] |
+| [[re_completed: jutsu: Rock Raid]] |
+| [[re_completed: jutsu: Solid Buster]] |
+| [[re_completed: jutsu: Diving Slam]] |
+| [[re_completed: spell: Rockbreaker]] |
+
+^ Links |
+| [[re_completed: limits: Xaldin]] |
+| [[re_completed: limits: Zexion]] |
+
+^ Limits |
+| [[re_completed: limits: Mow Down]] |
+| [[re_completed: limits: Rockshatter]] |
+| [[re_completed: limits: Earthen Fury]] |
+
+^ Summons |
+| [[re_completed: character: Titan]] |
+| [[re_completed: character: Berserker]] |
+| [[re_completed: character: Dusk]] |
+
+^ Transformations |
+| [[re_completed: character: The Stalwart Warrior]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

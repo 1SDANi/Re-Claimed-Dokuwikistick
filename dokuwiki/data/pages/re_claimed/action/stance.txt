@@ -1,0 +1,8 @@
+^ Stance ^ [[re_claimed: action: Prone]] ^ [[re_claimed: action: Crouch]] ^ [[re_claimed: action: Stand]] ^ [[re_claimed: action: Walk]] ^ [[re_claimed: action: Run]] ^ [[re_claimed: action: Midair]] ^
+^ [[controls: input: Tap]] | [[re_claimed: action: Crouch]] | [[re_claimed: action: Stand]] | [[re_claimed: action: Crouch]] | [[re_claimed: action: Crouch]] | [[general: Slide]] | [[general: Dive]] |
+^ [[controls: input: Hold]] | [[re_claimed: action: Stand]] | [[re_claimed: action: Prone]] | [[re_claimed: action: Prone]] | [[re_claimed: action: Prone]] | [[general: Cartwheel]] | [[general: Swan Dive]] |
+
+== See Also ==
+----
+
+[[re_claimed: Action]]

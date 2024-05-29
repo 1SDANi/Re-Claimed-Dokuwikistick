@@ -1,0 +1,19 @@
+==== Captain ====
+----
+
+[[re_claimed: character: Inherits]]: [[re_claimed: character: species: Human]]
+
+100
+
+[[re_claimed: Ability]]: [[re_claimed: ability: Battle Sense]]
+
+[[re_claimed: Visibility]]: [[re_claimed: ability: Flashlight]]
+
+| +50 to [[re_claimed: character: species: human: Torso]] [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Meter Value]] |
+| +25 to [[re_claimed: character: species: human: Head]] [[re_claimed: character: body_part: meter: Meter Value]] |
+| +25 to all [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Meter Value]]s |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: Human]]

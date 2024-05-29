@@ -1,0 +1,9 @@
+==== Tank ====
+----
+
+Protect the ally other allies are relying on most
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

@@ -1,0 +1,50 @@
+^ Lion Style ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Swing]] | [[re_completed: combo: Leaping Swing]] | [[re_completed: combo: Aerial Swing]] | [[re_completed: combo: Aerial Flip]] |
+^ Towards Combo | [[re_completed: combo: Slapshot]] | [[re_completed: combo: Guard Break]] | [[re_completed: combo: Aerial Slap]] | [[re_completed: combo: Sonic Strike]] |
+^ Side Combo | [[re_completed: combo: Slash]] | [[re_completed: combo: Spinning Slash]] | [[re_completed: combo: Aerial Slash]] | [[re_completed: combo: Aerial Spin]] |
+^ Away Combo | [[re_completed: combo: Stab]] | [[re_completed: combo: Lunging Stab]] | [[re_completed: combo: Aerial Spiral]] | [[re_completed: combo: Hurricane Period]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Crown Charge]]  |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Run]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Fly]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Superjump]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Glide]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Counterattack]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Guard]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Ground Breaker]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Guard]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Roll]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Quick Run]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Air Kick]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Quick Run]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Emblem Shield]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Rising Spiral]] |
+^ [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Vortex]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Gravity Break]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Blitz]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Emblem Shield]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Rising Slash]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Aerial Dive]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Aerial Sweep]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Aerial Stab]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Sliding Dash]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Flash Step]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Zantetsuken]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Chainstep]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] Combo | [[re_completed: combo: Sliding Sidewinder]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Flash Step]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Zantetsuken]] |
+^ [[re_completed: Midair]] [[re_completed: action: Speed]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Chainstep]] |
+^ [[re_completed: action: Guard]] Combo | [[re_completed: combo: Counterattack]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Risk Dodge]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Stun Impact]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Handlehand]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Retaliating Slash]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Recovery Jump]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Recovery Block]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Ripple Drive]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Recovery Dash]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Blade Spear]] |

@@ -1,0 +1,7 @@
+^ Damage Table ^ [[re_claimed: armor_type: Light Armor]] ^ [[re_claimed: armor_type: Heavy Armor]] ^ [[re_claimed: armor_type: Energy Shield]] ^ [[re_claimed: armor_type: Loose Flesh]] ^ [[re_claimed: armor_type: Head]] ^ [[re_claimed: armor_type: Floodflesh]] ^ [[re_claimed: armor_type: Impenetrable]] ^
+| [[re_claimed: damage_type: Bullet]] | 150% | 75% | 75% | 100% | 200% | 100% | 18.75% |
+| [[re_claimed: damage_type: Plasma]] | 100% | 50% | 150% | 100% | 200% | 100% | 37.5% |
+| [[re_claimed: damage_type: Shrapnel]] | 100% | 125% | 100% | 75% | 200% | 100% | 25% |
+| [[re_claimed: damage_type: Nova]] | 75% | 75% | 100% | 150% | 200% | 100% | 25% |
+| [[re_claimed: damage_type: Power]] | 100% | 100% | 100% | 100% | 100% | 100% | 400% |
+| [[re_claimed: damage_type: Floodforce]] | 100% | 100% | 100% | 100% | 100% | 0% | 100% |

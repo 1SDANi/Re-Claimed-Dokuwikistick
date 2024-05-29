@@ -1,0 +1,12 @@
+==== Repair Kit ====
+----
+
+| [[re_claimed: ability: Active]] |
+| [[re_claimed: ability: Cooldown]]: 60 |
+| Can we fix it? Eh, gimme a minute. |
+| +100% to all [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Meter Value]]s of target [[re_claimed: Vehicle]] |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: human: Crew]]

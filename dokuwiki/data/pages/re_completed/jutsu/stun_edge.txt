@@ -1,0 +1,11 @@
+==== Stun Edge ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Attacks with a magic infused jump attack, deals high hitstun
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

@@ -1,0 +1,10 @@
+==== Ignite ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Fire]]
+
+Applies [[re_completed: status: Burn]] to the target
+
+== See Also ==
+----
+

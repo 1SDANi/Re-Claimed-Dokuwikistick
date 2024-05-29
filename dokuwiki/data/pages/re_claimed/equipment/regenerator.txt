@@ -1,0 +1,11 @@
+==== Regenerator ====
+----
+
+[[re_claimed: equipment: Use]]: [[re_claimed: equipment: Throw]] [[re_claimed: equipment: Health Pack]]
+
+[[re_claimed: equipment: AoE]]: -100% [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: meter: Stun Time]] on all all [[re_claimed: character: Body Part]]s
+
+== See Also ==
+----
+
+[[re_claimed: Equipment]]

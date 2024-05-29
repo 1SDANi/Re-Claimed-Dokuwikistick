@@ -1,9 +1,13 @@
 ^ Bayonet ^
+| -1 [[general: Stability]] |
 | [[general: Shrapnel]] [[general: Melee]] [[general: Damage Type]] |
 | +1 [[general: Melee]] |
-| +1 Stability |
 
 == See Also ==
 ----
 
 [[General: Plasma Pistol]]
+
+[[General: Submachine Gun]]
+
+[[General: Plasma Rifle]]

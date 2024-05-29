@@ -1,0 +1,13 @@
+==== Charge ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Increases the user's Power over time
+
+The user deals more damage the higher their power is, for every 1000 Power all of their spells cost 1 less mana
+
+== See Also ==
+----
+
+[[re_completed: combo: Warrior Style]]

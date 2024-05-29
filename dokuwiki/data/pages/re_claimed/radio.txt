@@ -1,0 +1,6 @@
+^ Radio ^ [[re_claimed: radio: Target]] ^ [[re_claimed: radio: Response]] ^ [[re_claimed: radio: Clarify]] ^ [[re_claimed: radio: Subject]] ^ [[re_claimed: radio: Request]] |
+^ 1st | [[re_claimed: callout: target: HQ]] | [[re_claimed: callout: response: Yes/Wilco/Confirmed]] | [[re_claimed: callout: clarify: Standby]] | [[re_claimed: callout: subject: Contact]] | [[re_claimed: callout: request: Status/Report]] |
+^ 2nd | [[re_claimed: callout: target: CP]] | [[re_claimed: callout: response: No/Negat/No Sign]] | [[re_claimed: callout: clarify: Please Respond/Say Again/Read Back]] | [[re_claimed: callout: subject: Unknown]] | [[re_claimed: callout: request: Clear]] |
+^ 3rd | [[re_claimed: callout: target: Leader]] | [[re_claimed: callout: response: Copy]] | [[re_claimed: callout: clarify: Disregard/Cancel/Correction]] | [[re_claimed: callout: subject: Friendly]] | [[re_claimed: callout: request: Caution]] |
+^ 4th | [[re_claimed: callout: target: Any]] | [[re_claimed: callout: response: Roger]] | [[re_claimed: callout: clarify: Over]] | [[re_claimed: callout: subject: Hostile]] | [[re_claimed: callout: request: Alert]] |
+^ 5th | [[re_claimed: callout: target: All]] | [[re_claimed: callout: response: Unable/Escaped]] | [[re_claimed: callout: clarify: Out]] | [[re_claimed: callout: subject: Civilian]] | [[re_claimed: callout: request: Reinforcements]] |

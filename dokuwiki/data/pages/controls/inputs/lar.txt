@@ -1,0 +1,11 @@
+==== LAR ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: LR]] | [[controls: playstation: LR]] | [[controls: switch: LR]] |
+
+== See Also ==
+----
+[[controls: Inputs]]
+
+[[re_claimed: actions: Move]]

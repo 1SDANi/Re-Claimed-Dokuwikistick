@@ -1,0 +1,11 @@
+^ Novice |
+| [[re_completed: element: Animus]] |
+| [[re_completed: element: Aero]] |
+| [[re_completed: element: Unda]] |
+| [[re_completed: element: Solum]] |
+| [[re_completed: element: Lux]] |
+| [[re_completed: element: Nox]] |
+
+== See Also ==
+----
+[[re_completed: Element]]

@@ -1,0 +1,13 @@
+==== Knight =====
+----
+
+Spend Mana on [[re_completed: Kata]]
+
+Spend Faith on [[re_completed: Limit]]
+
+Spend Drive on [[re_completed: Transform]]
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

@@ -1,0 +1,62 @@
+==== Sora====
+----
+
+^ [[re_completed: combo: Lion Style]] |
+
+^ [[re_completed: Element | Elements]] |
+
+^ [[re_completed: Teleport: Corridor of Darkness]] |
+
+^ [[re_completed: action: Guard]] |
+| [[re_completed: combo: Scourge]] |
+
+^ [[re_completed: action: Focus]] |
+| [[re_completed: combo: Sheathed Charge]] |
+
+^ [[re_completed: Grounded]] [[re_completed: Speed]] [[re_completed: Combo]] |
+| [[re_completed: combo: Lunge and Backflip]] |
+
+^ [[re_completed: Jutsu]] |
+| [[re_completed: jutsu: Blitz]] |
+| [[re_completed: jutsu: Hurricane Period]] |
+| [[re_completed: jutsu: Strike Raid]] |
+| [[re_completed: jutsu: Land Crash]] |
+| [[re_completed: jutsu: Sliding Rush]] |
+| [[re_completed: jutsu: Vicinity Break]] |
+
+^ [[re_completed: element: Pain]] [[re_completed: Jutsu]] |
+| [[re_completed: jutsu: Torturous Blade]] |
+
+^ [[re_completed: element: Anima]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Stun Impact]] |
+
+^ [[re_completed: element: Gravity]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Gravity Blast]] |
+| [[re_completed: spell: Heavy Strike]] |
+
+^ [[re_completed: element: Unda]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Cleanse]] |
+
+^ [[re_completed: Limit]] |
+| [[re_completed: limit: Solo Break]] |
+| [[re_completed: limit: Ars Arcanum]] |
+
+^ [[re_completed: Link]] |
+| [[re_completed: link: Riku (Link)]] |
+| [[re_completed: link: Kairi (Link)]] |
+| [[re_completed: link: Tidus (Link)]] |
+| [[re_completed: link: Wakka (Link)]] |
+| [[re_completed: link: Selphie (Link)]] |
+
+^ Keyblade | [[re_completed: item: Lionheart]] |
+^ Keychain | [[re_completed: item: Braveheart]] |
+^ Keychain with Roxas | [[re_completed: item: Total Eclipse]] |
+^ Keychain with Riku | [[re_completed: item: Nightmare's End]] |
+^ Keychain with Kairi | [[re_completed: item: Oathkeeper]] |
+
+
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

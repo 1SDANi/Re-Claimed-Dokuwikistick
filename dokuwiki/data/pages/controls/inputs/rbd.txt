@@ -1,0 +1,9 @@
+==== RBD ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: RT]] | [[controls: playstation: R2]] | [[controls: switch: RT]] |
+
+== See Also ==
+----
+[[controls: Inputs]]

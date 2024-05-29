@@ -5,3 +5,7 @@
 | Damage per Second: 375 | Damage per Reload: 1000 |
 | [[general: Accuracy]]: 2 | [[general: Stability]]: 2 | [[general: Zoom]]: 0 |
 | [[general: Volume]]: [[general: Loud]] |
+| [[general: Shrapnel]] [[general: Melee]] | 2 [[general: Melee]] |
+
+^ Drainer | [[general: Vampiric Antilight]] | [[general: Drainer Conversion]] | [[general: Toothless]] |
+^ Killer | [[general: AM-Spikes]] | [[general: Extra Bayonets]] | [[general: Overloaded Barrel]] |

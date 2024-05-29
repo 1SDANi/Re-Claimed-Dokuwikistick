@@ -1,0 +1,11 @@
+^ Shortened Stock ^
+| -1 [[general: Stability]] |
+| Faster melee speed |
+| Faster reload speed |
+
+== See Also ==
+----
+
+[[General: Plasma Pistol]]
+
+[[General: Submachine Gun]]

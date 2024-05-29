@@ -1,0 +1,9 @@
+==== RFL ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: D-LEFT]] | [[controls: playstation: D-LEFT]] | [[controls: switch: D-LEFT]] |
+
+== See Also ==
+----
+[[controls: Inputs]]

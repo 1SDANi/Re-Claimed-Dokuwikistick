@@ -1,0 +1,15 @@
+==== Pretztail ====
+----
+
+Animal: Fox
+
+Sweet: Pretzel
+
+Ability: Can sniff out known [[re_filled: Pinata]]
+
+Befriend: Fed one [[re_filled: pinata: Bunnycomb]]
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

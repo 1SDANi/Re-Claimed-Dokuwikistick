@@ -1,0 +1,11 @@
+==== Blitz ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Physical]]
+
+Performs an overhead jumping attack
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

@@ -1,0 +1,11 @@
+==== Laser Ring====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Creates a vertical ring of lasers above the user that fire after a set time at the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

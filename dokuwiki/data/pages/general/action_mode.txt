@@ -1,0 +1,10 @@
+==== Action Mode ====
+
+[[general: Grenade]]
+
+[[general: Equipment]]
+
+== See also ==
+----
+
+[[general: Controls]]

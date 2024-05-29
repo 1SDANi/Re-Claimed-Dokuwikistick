@@ -1,0 +1,12 @@
+==== Axel ====
+----
+
+^ Keyblade | [[re_completed: item: Bond of the Blaze]] |
+^ Keychain | [[re_completed: item: Twilight Blaze]] |
+^ Keychain with Roxas | [[re_completed: item: Bond of Flame]] |
+^ Keychain with Saix | [[re_completed: item: Maverick Flare]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

@@ -1,0 +1,10 @@
+==== Rikuplica ====
+----
+
+^ Keyblade | [[re_completed: item: Other Half]] |
+^ Keychain | [[re_completed: item: False Copy]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

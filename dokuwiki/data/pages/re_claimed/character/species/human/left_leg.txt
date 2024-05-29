@@ -1,0 +1,27 @@
+==== Left Leg ====
+----
+
+^ [[re_claimed: character: Flags]] |
+| [[re_claimed: character: flags: Inhibit jump on destruction]] |
+| [[re_claimed: character: flags: Inhibit run on destruction]] |
+| [[re_claimed: character: flags: Inhibit climb on destruction]] |
+| [[re_claimed: character: flags: Scale stats with health]] |
+
+^ [[re_claimed: character: Stats]] |
+| Greatly Increases  [[re_claimed: character: stats: Right Turn Speed]] |
+| Increases [[re_claimed: character: stats: Left Turn Speed]] |
+| Increases [[re_claimed: character: stats: Run Speed]] |
+| Increases [[re_claimed: character: stats: Walk Speed]] |
+| Increases [[re_claimed: character: stats: Jump Height]] |
+
+^ [[re_claimed: character: body_part: Health]] [[re_claimed: character: body_part: Meter]] |
+| [[re_claimed: character: body_part: meter: Meter Value]]: 25 |
+| [[re_claimed: character: body_part: meter: Regen Value]]: 5 |
+| [[re_claimed: character: body_part: meter: Stun Time]]: 2 |
+| [[re_claimed: character: body_part: meter: Regen Time]]: 10 |
+| [[re_claimed: Armor Type]]: [[re_claimed: armor_type: Light Armor]] |
+
+== See Also ==
+----
+
+[[re_claimed: Character: Species: Human]]

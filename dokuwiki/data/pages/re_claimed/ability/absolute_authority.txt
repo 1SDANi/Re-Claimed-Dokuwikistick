@@ -1,0 +1,11 @@
+==== Absolute Authority ====
+----
+
+| [[re_claimed: ability: Passive]] |
+| That's an Order! |
+| Your commands are always immediately followed by allies and neutral parties |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: human: Admiral]]

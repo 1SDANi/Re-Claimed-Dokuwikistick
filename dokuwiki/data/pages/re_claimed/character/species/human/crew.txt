@@ -1,0 +1,15 @@
+==== Crew ====
+----
+
+[[re_claimed: character: Inherits]]: [[re_claimed: character: species: Human]]
+
+50
+
+[[re_claimed: Ability]]: [[re_claimed: ability: Repair Kit]]
+
+[[re_claimed: Visibility]]: [[re_claimed: ability: Flashlight]]
+
+== See Also ==
+----
+
+[[re_claimed: character: species: Human]]

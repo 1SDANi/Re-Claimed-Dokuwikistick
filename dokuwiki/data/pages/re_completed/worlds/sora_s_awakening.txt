@@ -1,0 +1,307 @@
+==== Sora's Awakening ====
+----
+
+[[re_completed: Door To Darkness]]
+
+----
+
+World Unlock: Game Start
+
+Cutscene: [[re_completed: characters: Sora]] falling from the [[re_completed: concepts: Realm of Sleep]] into his [[re_completed: concepts: Heart]]
+
+Unlock:
+
+^ Neutral [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Swing]] ^
+^ Towards [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Slapshot]] ^
+^ Side [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Slash]] ^
+^ Away [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Stab]] ^
+^ Neutral [[re_completed: Grounded]] [[re_completed: Finisher]] ^ [[re_completed: combo: Leaping Swing]] ^
+^ Towards [[re_completed: Grounded]] [[re_completed: Finisher]] ^ [[re_completed: combo: Guard Break]] ^
+^ Side [[re_completed: Grounded]] [[re_completed: Finisher]] ^ [[re_completed: combo: Spinning Slash]] ^
+^ Away [[re_completed: Grounded]] [[re_completed: Finisher]] ^ [[re_completed: combo: Lunging Stab]] ^
+^ Neutral [[re_completed: Midair]] [[re_completed: Combo]] ^ [[re_completed: combo: Aerial Swing]] ^
+^ Towards [[re_completed: Midair]] [[re_completed: Combo]] ^ [[re_completed: combo: Aerial Slap]] ^
+^ Side [[re_completed: Midair]] [[re_completed: Combo]] ^ [[re_completed: combo: Aerial Slash]] ^
+^ Away [[re_completed: Midair]] [[re_completed: Combo]] ^ [[re_completed: combo: Aerial Spiral]] ^
+^ Neutral [[re_completed: Midair]] [[re_completed: Finisher]] ^ [[re_completed: combo: Aerial Flip]] ^
+^ Towards [[re_completed: Midair]] [[re_completed: Finisher]] ^ [[re_completed: combo: Aerial Strike]] ^
+^ Side [[re_completed: Midair]] [[re_completed: Finisher]] ^ [[re_completed: combo: Aerial Spin]] ^
+^ Away [[re_completed: Midair]] [[re_completed: Finisher]] ^ [[re_completed: combo: Hurricane Period]] ^
+^ [[re_completed: action: Run]] ^ [[re_completed: combo: Run]] ^
+^ [[re_completed: action: Parry]] ^ [[re_completed: combo: Counterattack]] ^
+^ [[re_completed: action: Guard]] ^ [[re_completed: combo: Guard]] ^
+^ [[re_completed: action: Air Parry]] ^ [[re_completed: combo: Ground Breaker]]  ^
+^ [[re_completed: action: Air Guard]] ^ [[re_completed: combo: Guard]] ^
+^ [[re_completed: action: Dodge]] ^ [[re_completed: combo: Roll]]  |
+^ [[re_completed: action: Defend]] Modifier ^ [[re_completed: combo: Vortex]] |
+^ [[re_completed: action: Stance]] Modifier ^ [[re_completed: jutsu: Blitz]] |
+^ Neutral [[re_completed: Midair]] [[re_completed: Target]] [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Rising Slash]] |
+^ Towards [[re_completed: Midair]] [[re_completed: Target]] [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Aerial Dive]] |
+^ Side [[re_completed: Midair]] [[re_completed: Target]] [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Aerial Sweep]] |
+^ Away [[re_completed: Midair]] [[re_completed: Target]] [[re_completed: Grounded]] [[re_completed: Combo]] ^ [[re_completed: combo: Aerial Stab]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo ^ [[re_completed: combo: Sliding Dash]] |
+^ [[re_completed: action: Guard]] Combo ^ [[re_completed: combo: Counterattack]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defend]] Modifier ^ [[re_completed: combo: Recovery Block]] |
+^ [[re_completed: Jutsu]] ^ [[re_completed: jutsu: Blitz]] |
+^ [[re_completed: Jutsu]] ^ [[re_completed: jutsu: Hurricane Period]] |
+
+New Party Member: [[re_completed: characters: Sora]]
+
+----
+
+Area: [[re_completed: worlds: sora's awakening: Vænt's' Station]]
+
+Landmark: [[re_completed: worlds: sora's awakening: Vænt's' Station]]
+
+Dialogue: [[re_completed: characters: Vænt's]] greeting Sora's awakening
+
+Goal: Select a weapon
+
+Option 1: Path of the Warrior, [[re_completed: weapons: Dream Sword]]
+
+Option 2: Path of the Guardian, [[re_completed: weapons: Dream Shield]]
+
+Option 3: Path of the Mystic, [[re_completed: weapons: Dream Staff]]
+
+Cutscene: A [[re_completed: characters: Shadow]] appears out of Sora's shadow
+
+Dialogue: [[re_completed: characters: Ventus]] warns Sora of the Shadow
+
+Gimmick: Being reduced to 0 HP results in [[re_completed: spell: Cure]] being cast on him
+
+Goal: Defeat the [[re_completed: characters: Shadow]]
+
+Cutscene: a Door appears
+
+Dialogue: Vanitas beckons Sora to open the [[re_completed: characters: Door to Darkness]]
+
+Goal: Open the Door
+
+----
+
+Area: [[re_completed: worlds: sora's awakening: Destiny Islands Treehouse]]
+
+Landmark: [[re_completed: worlds: sora's awakening: Destiny Islands Treehouse]]
+
+Cutscene: [[re_completed: characters: Sora]] NPC appears
+
+Goal: Speak to yourself
+
+Sora: What is most important to you? 
+
+Cutscene: Sora splits into [[re_completed: characters: Riku]], [[re_completed: characters: Kairi]], and [[re_completed: characters: Vænt's]] as they walk to the three corners of the area
+
+Goal: Speak to your friends
+
+Riku: The bonds I forge with others
+
+Kairi: Embarking on an incredible adventure
+
+Vænt's: Protecting myself from danger
+
+Unlock (Riku):
+
+^ [[re_completed: action: Guard]] ^ [[re_completed: combo: Scourge]] ^
+
+Unlock (Kairi):
+
+^ [[re_completed: Jutsu]] ^ [[re_completed: combo: Strike Raid]] ^
+
+Unlock (Vænt's):
+
+^ [[re_completed: Spell]] ^ [[re_completed: spell: Gravity Blast]] ^
+
+Cutscene: Riku, Kairi, and Vænt's walk back into the center of the area and fuse back into Sora
+
+Goal: Speak to yourself
+
+Sora: What are you most afraid of?
+
+Cutscene: Sora splits into [[re_completed: characters: Riku]], [[re_completed: characters: Kairi]], and [[re_completed: characters: Vænt's]] as they walk to the three corners of the area
+
+Goal: Speak to your friends
+
+Riku: Losing my friends
+
+Kairi: Being indecisive
+
+Vænt's: Being hurt by others
+
+Unlock (Riku):
+
+^ [[re_completed: Jutsu]] ^ [[re_completed: jutsu: Land Crash]] ^
+
+Unlock (Kairi):
+
+^ [[re_completed: Spell]] ^ [[re_completed: spell: Cleanse]] ^
+
+Unlock (Vænt's):
+
+^ [[re_completed: Grounded]] [[re_completed: action: Speed]] Combo ^ [[re_completed: combo: Lunge and Backflip]] ^
+
+Cutscene: Riku, Kairi, and Vænt's walk back into the center of the area and fuse back into Sora
+
+Goal: Speak to yourself
+
+Sora: What is most important to you?
+
+Cutscene: Sora splits into [[re_completed: characters: Riku]], [[re_completed: characters: Kairi]], and [[re_completed: characters: Vænt's]] as they walk to the three corners of the area
+
+Goal: Speak to your friends
+
+Riku: Freedom
+
+Kairi: Knowledge
+
+Vænt's: Existence
+
+Unlock (Riku):
+
+^ [[re_completed: Spell]] ^ [[re_completed: spell: Heavy Strike]] ^
+
+Unlock (Kairi):
+
+^ [[re_completed: action: Focus]] ^ [[re_completed: combo: Sheathed Charge]] ^
+
+Unlock (Vænt's):
+
+^ [[re_completed: Jutsu]] ^ [[re_completed: jutsu: Torturous Blade]] ^
+
+Cutscene: Riku, Kairi, and Vænt's walk back into the center of the area and fuse back into Sora (Heartless)
+
+Cutscene: Sora (Heartless) turns into a re_completed: characters: Darkside]] as Destiny Islands falls to darkness
+
+----
+
+Area: [[re_completed: worlds: sora's awakening: Kairi's Station]]
+
+Landmark: [[re_completed: worlds: sora's awakening: Kairi's Station]]
+
+Cutscene: Sora awakens, surrounded by [[re_completed: characters: Shadow | Shadows]]
+
+Goal: Defeat the Shadows
+
+Cutscene: Stairs to the next area appear
+
+----
+
+Area: [[re_completed: worlds: sora's awakening: Riku's Station]]
+
+Landmark: [[re_completed: worlds: sora's awakening: Riku's Station]]
+
+Cutscene: A [[re_completed: characters: Neoshadow]] rises from the station as stairs to the next area appear
+
+Note: Position it so it looks like the Neoshadow is coming from Riku's heart
+
+Goal: Reach the next area
+
+----
+
+Area: [[re_completed: worlds: sora's awakening: Sora's Station]]
+
+Landmark: [[re_completed: worlds: sora's awakening: Sora's Station]]
+
+Cutscene: [[re_completed: characters: Antisora]] rises from the station
+
+Note: Position it so it looks like the Neoshadow is coming from Sora's heart
+
+Boss Battle: [[re_completed: characters: Antisora]]
+
+Gimmick: Losing progresses the story without an Unlock
+
+Unlock:
+
+^ [[re_completed: Limit]] ^ [[re_completed: limit: Ars Arcanum]] ^
+
+== Phase 1 ==
+----
+
+Song: Sora's Theme (Lizz Robinett) (First Half) (Instrumental)
+
+^Far Tactic ^ Approach using Sliding Dash^
+^Neutral Tactic ^ Approach using Jump, Aerial Swing^
+^Close Tactic ^ Approach using Swing^
+^Pressure Tactic ^ Flinch using Guard^
+^Advantage Tactic ^ Pressure using Slash^
+^Punish Tactic ^ Punish using Counterattack^
+^Sliding Dash Landed ^ Combo using Slash, Leaping Swing^
+^Sliding Dash Dodged ^ Followup using Blitz^
+^Sliding Dash Guarded ^ Retreat using Roll^
+^Aerial Swing Landed ^ Combo using Aerial Slap, Aerial Spin^
+^Aerial Swing Dodged ^ Land quickly using Blitz^
+^Aerial Swing Guarded ^ Pressure using Aerial Spiral, Sonic Strike^
+^Swing Landed ^ Combo using Stab, Spinning Slash^
+^Swing Dodged ^ Followup using Blitz^
+^Swing Guarded ^ Pressure using Slapshot, Guard Break^
+^Guard Break ^ Counter using Counterattack^
+^Guard Punish ^ Combo using Jump, Aerial Slap^
+^Guard Escape ^ Retreat using Roll^
+^Midair Guard Break ^ Counter using Counterattack^
+^Slash Landed ^ Followup using Slapshot, Lunging Stab^
+^Slash Dodged ^ Space using Vortex^
+^Slash Guarded ^ Pressure using Swing, Guard Break^
+^Counterattack Landed ^ Combo using Swing, Jump, Aerial Slap, Aerial Spin^
+^Counterattack Dodged ^ Space using Vortex^
+^Counterattack Guarded ^ Flinch using Guard^
+^Midair Counterattack Landed ^ Combo using Aerial Slap, Aerial Flip^
+^Midair Counterattack Dodged ^ Land quickly using Blitz^
+^Midair Counterattack Guarded ^ Flinch using Guard^
+^Blitz Landed ^ Combo using Slapshot, Lunging Stab^
+^Blitz Dodged ^ Flinch using Guard^
+^Blitz Guarded ^ Retreat using Roll^
+^Aerial Slap Landed ^ Combo using Aerial Swing, Aerial Spin^
+^Aerial Slap Dodged ^ Land quickly using Blitz^
+^Aerial Slap Guarded ^ Combo using Aerial Slash, Sonic Strike^
+^Vortex Landed ^ Combo using Slash, Lunging Stab^
+^Vortex Dodged ^ Flinch using Guard^
+^Vortex Guarded ^ Pressure using Slash, Jump, Aerial Spiral, Blitz, Counterattack, Slapshot, Stab, Leaping Swing^
+^Midair Vortex Landed ^ Combo using Slash, Lunging Stab^
+^Midair Vortex Dodged ^ Land quickly using Blitz^
+^Midair Vortex Guarded ^ Pressure using Aerial Spiral, Sonic Strike^
+^Roll into Neutral ^ Space using Vortex^
+^Roll into Pressure ^ Flinch using Guard^
+^Roll into Advantage ^ Combo with Slapshot^
+^Second Wind ^ [[re_completed: limit: Ars Arcanum]]^
+^Desperation Move ^ [[re_completed: limit: Ars Nox]]^
+
+== Phase 2 ==
+----
+
+Trigger: Activate the boss' [[re_completed: ability: Second Wind]]
+
+Song: Sora's Theme (Lizz Robinett) (First Verse) (Lyrics) (Out in the distant horizon awaiting me)... (’cuz tomorrow's a brand new day)
+
+== Phase 3 ==
+----
+
+Trigger: Survive the boss' [[re_completed: ability: Second Wind]]
+
+Passive Song: Sora's Theme (Lizz Robinett) (First Half) (Instrumental)
+
+Active Song: (Lizz Robinett) (Second Verse) (Lyrics) (Somewhere, residing deep in my heart... I feel a power awaken within)
+
+^Close Tactic ^ Stuff using [[re_completed: spell: Gravity Blast]], active song^
+^Guard Break Close ^ Counter using [[re_completed: spell: Gravity Blast]], active song^
+^Midair Guard Break Close ^ Counter using [[re_completed: spell: Gravity Blast]], active song^
+^Far Tactic ^ [[re_completed: combo: Lunge and Backflip]], active song^
+^Instead of Guard ^ Flinch with [[re_completed: jutsu: Torturous Blade]], active song^
+
+== Phase 4 ==
+----
+
+Trigger: Trigger the Boss' [[re_completed: ability: Desperation Move]]
+
+Song: (Lizz Robinett) (Third Verse) (Lyrics) (With every journey, a brand new chapter unfolds)... (We'll adventure into the sky)
+
+----
+
+Cutscene: Whoever won falls shortly after the other falls, both being consumed by darkness as it engulfs the station from below
+
+Song: (Lizz Robinett) (Third Verse) (Lyrics) (Somehow, with every step that I take)... (I feel a part of myself slowly wake)
+
+Note: Parallel Ventus and Vanitas
+
+== See Also ==
+----
+
+[[re_completed: door_to_darkness: Key: Worlds]]

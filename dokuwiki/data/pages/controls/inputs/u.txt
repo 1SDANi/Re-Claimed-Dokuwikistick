@@ -1,0 +1,14 @@
+==== U ====
+----
+
+^ [[controls: inputs: LA]] | [[controls: inputs: LAU]]|
+^ [[controls: inputs: RA]] | [[controls: inputs: RAU]]|
+^ [[controls: inputs: LF]] | [[controls: inputs: LFU]]|
+^ [[controls: inputs: RF]] | [[controls: inputs: RFU]]|
+^ [[controls: inputs: LB]] | [[controls: inputs: LBU]]|
+^ [[controls: inputs: RB]] | [[controls: inputs: RBU]]|
+
+== See Also ==
+----
+
+[[controls: Inputs]]

@@ -1,0 +1,9 @@
+==== Necromancer ====
+----
+
+Revive fallen allies
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

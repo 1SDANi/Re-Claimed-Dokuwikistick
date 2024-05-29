@@ -1,0 +1,33 @@
+==== Zexion ====
+----
+
+^ [[re_completed: combo: Mage Style]] |
+
+^ [[re_completed: Teleport: Corridor of Light]] |
+
+^ [[re_completed: element: Memory]] Spells |
+| [[re_completed: spell: Lexicon Throw]] |
+| [[re_completed: spell: Lexicon Scatter]] |
+| [[re_completed: spell: Data Scrape]] |
+
+^ Links |
+| [[re_completed: limits: Lexaeus]] |
+| [[re_completed: limits: Marluxia]] |
+
+^ Limits |
+| [[re_completed: limits: Lexicalization]] |
+| [[re_completed: limits: Mirage Circle]] |
+| [[re_completed: limits: Cyclone Snatch]] |
+| [[re_completed: limits: Catastrophe]] |
+
+^ Summons |
+| [[re_completed: character: Mindflayer]] |
+| [[re_completed: character: Dusk]] |
+
+^ Transformations |
+| [[re_completed: character: The Scheming Mage]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

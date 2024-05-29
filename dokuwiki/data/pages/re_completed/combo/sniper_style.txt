@@ -1,0 +1,55 @@
+^ Sniper Style ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: Jab]] | [[re_completed: combo: Lunge Punch]] | [[re_completed: combo: Aerial Jab]] | [[re_completed: combo: Axe Kick]] |
+^ Towards Combo | [[re_completed: combo: Uppercut]] | [[re_completed: combo: Front Kick]] | [[re_completed: combo: Aerial Kick]] | [[re_completed: combo: Double Kick]] |
+^ Side Combo | [[re_completed: combo: Hook]] | [[re_completed: combo: Roundhouse]] | [[re_completed: combo: Aerial Roundhouse]] | [[re_completed: combo: Butterfly Kick]] |
+^ Away Combo | [[re_completed: combo: Knee]] | [[re_completed: combo: Back Kick]] | [[re_completed: combo: Aerial Knee]] | [[re_completed: combo: Drop Kick]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Reload]]  |
+
+^ [[re_completed: action: Run]] | [[re_completed: combo: Run]]  |
+^ [[re_completed: action: Fly]] | [[re_completed: combo: Air Run]]  |
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: Gravity Rise]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: Air Walk]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: Counterpunch]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Spectre]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: Counterkick]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Spectre]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: Dodge Punch]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: Warp]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: Dodge Kick]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: Warp]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: Keyblade Slash]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Buddy Warp]] |
+^ [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Overhand]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Sweep Kick]] |
+^ [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Swing]] |
+
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: Laser Shot]] |
+
+^ [[re_completed: Grounded]] [[re_completed: action: Run]] Combo | [[re_completed: combo: Flying Punch]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Run]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Flying Kick]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Run]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Run]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Stab]] |
+
+^ [[re_completed: Midair]] [[re_completed: action: Fly]] Combo | [[re_completed: combo: Flying Punch]] |
+^ [[re_completed: Midair]] [[re_completed: action: Fly]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: Flying Kick]] |
+^ [[re_completed: Midair]] [[re_completed: action: Fly]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: Midair]] [[re_completed: action: Fly]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Stab]] |
+
+^ [[re_completed: action: Guard]] Combo | [[re_completed: combo: Counterpunch]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Warp]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Spin]] |
+
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: Counterpunch]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: Counterpunch]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defense]] Modifier | [[re_completed: combo: Spectre]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: Warp]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Focus]] Modifier | [[re_completed: combo: Laser Shot]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: Keyblade Spin]] |

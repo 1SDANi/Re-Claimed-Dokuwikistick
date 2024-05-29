@@ -1,0 +1,5 @@
+^ Zoom ^ Magnification |
+^ 0 | 1x |
+^ 1 | 2x |
+^ 2 | 4x |
+^ 3 | 8x |

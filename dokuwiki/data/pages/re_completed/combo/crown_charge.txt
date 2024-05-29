@@ -1,0 +1,11 @@
+==== Crown Charge ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Increases the user's mana over time
+
+== See Also ==
+----
+
+[[re_completed: combo: Lion Style]]

@@ -1,0 +1,10 @@
+==== Ventus ====
+----
+
+^ Keyblade | [[re_completed: item: Lost Memory]] |
+^ Keychain | [[re_completed: item: Wayward Wind]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

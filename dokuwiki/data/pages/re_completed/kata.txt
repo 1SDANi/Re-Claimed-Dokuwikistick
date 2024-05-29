@@ -1,0 +1,10 @@
+==== Kata ====
+----
+
+^ [[re_completed: Element]] |
+^ [[re_completed: Jutsu]] |
+
+== See Also ==
+----
+
+[[:Re Completed]]

@@ -1,0 +1,11 @@
+==== Laser Shot ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Fires a cone of thorns
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

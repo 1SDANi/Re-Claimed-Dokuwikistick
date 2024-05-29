@@ -1,0 +1,11 @@
+==== Ammo Box ====
+----
+
+[[re_claimed: equipment: Use]]: [[re_claimed: equipment: Throw]] [[re_claimed: equipment: Ammo Box]]
+
+[[re_claimed: equipment: Pickup]]: +100% [[re_claimed: weapon: Ammo]] on all [[re_claimed: team: UNSC]] [[re_claimed: Weapon]]s and +2 of all [[re_claimed: team: UNSC]] Grenades
+
+== See Also ==
+----
+
+[[re_claimed: Equipment]]

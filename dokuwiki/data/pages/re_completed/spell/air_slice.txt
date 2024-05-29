@@ -1,0 +1,11 @@
+==== Air Slice ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Fires a slash of wind at the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

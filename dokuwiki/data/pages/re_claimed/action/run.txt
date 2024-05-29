@@ -1,0 +1,11 @@
+==== Run ====
+----
+
+[[re_claimed: actions: Skid]] if angle between direction and velocity is greater than or equal to -45°
+
+[[re_claimed: actions: Skid]] if angle between direction and velocity is less than or equal to 45°
+
+== See Also ==
+----
+
+[[re_claimed: Action]]

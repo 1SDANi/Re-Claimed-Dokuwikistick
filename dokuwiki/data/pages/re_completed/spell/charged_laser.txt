@@ -1,0 +1,13 @@
+==== Charged Laser ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Charges and fires a large laser that periodically bounces off the air towards its target
+
+Can [[re_completed: Action: React]] using [[re_completed: reaction: Warp Snipe]] briefly before being hit
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

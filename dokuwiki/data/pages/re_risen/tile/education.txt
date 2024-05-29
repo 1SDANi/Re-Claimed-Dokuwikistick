@@ -1,0 +1,11 @@
+==== Education ====
+----
+
+[[re_risen: tile: Labour]]
+
+When generic Education is produced on a [[re_risen: Tile]], its [[re_risen: tile: Labour]] value is randomly selected from among existing Education on that Tile
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

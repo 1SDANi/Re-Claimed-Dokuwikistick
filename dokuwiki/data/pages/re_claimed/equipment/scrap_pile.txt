@@ -1,0 +1,10 @@
+==== Scrap Pile ====
+----
+
+[[re_claimed: equipment: Use]]: [[re_claimed: equipment: Throw]] [[re_claimed: equipment: Scrap Pile]]
+
+[[re_claimed: equipment: AoE]]: +50% [[re_claimed: weapon: Ammo]] on all [[re_claimed: team: Jiralhanae]] [[re_claimed: Weapon]]s and +4 random [[re_claimed: team: Jiralhanae]] Grenades
+== See Also ==
+----
+
+[[re_claimed: Equipment]]

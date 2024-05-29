@@ -9,3 +9,5 @@
 ----
 
 [[General: Plasma Pistol]]
+
+[[General: Plasma Rifle]]

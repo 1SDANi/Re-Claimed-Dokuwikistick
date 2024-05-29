@@ -1,0 +1,12 @@
+==== Kairi ====
+----
+
+^ Keyblade | [[re_completed: item: Destiny's Embrace]] |
+^ Keychain | [[re_completed: item: Pixie Petal]] |
+^ Keychain with Sora | [[re_completed: item: Oathkeeper]] |
+^ Keychain with Riku| [[re_completed: item: Oblivion]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

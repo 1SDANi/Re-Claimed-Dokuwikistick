@@ -1,0 +1,11 @@
+==== Spark ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Fills the air around the user with electricity
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

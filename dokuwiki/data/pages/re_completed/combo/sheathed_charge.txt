@@ -1,0 +1,11 @@
+==== Sheathed Charge ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Sheathes their weapon, increasing their mana passively over time
+
+== See Also ==
+----
+
+[[re_completed: combo: Dolphin Style]]

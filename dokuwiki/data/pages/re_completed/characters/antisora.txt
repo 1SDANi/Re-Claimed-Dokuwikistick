@@ -1,0 +1,34 @@
+==== Sora====
+----
+
+^ [[re_completed: combo: Lion Style]] |
+
+^ [[re_completed: Element | Elements]] |
+
+^ [[re_completed: Teleport: Corridor of Darkness]] |
+
+^ [[re_completed: Grounded]] [[re_completed: Speed]] [[re_completed: Combo]] |
+| [[re_completed: combo: Lunge and Backflip]] |
+
+^ [[re_completed: element: Pain]] [[re_completed: Jutsu]] |
+| [[re_completed: jutsu: Torturous Blade]] |
+
+^ [[re_completed: element: Gravity]] [[re_completed: Spell | Spells]] |
+| [[re_completed: spell: Gravity Blast]] |
+
+^ [[re_completed: Limit]] |
+| [[re_completed: limit: Ars Arcanum]] |
+| [[re_completed: limit: Ars Nox]] |
+
+^ Keyblade | [[re_completed: item: Lionheart]] |
+^ Keychain | [[re_completed: item: Braveheart]] |
+^ Keychain with Roxas | [[re_completed: item: Total Eclipse]] |
+^ Keychain with Riku | [[re_completed: item: Oblivion]] |
+^ Keychain with Kairi | [[re_completed: item: Oathkeeper]] |
+
+
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

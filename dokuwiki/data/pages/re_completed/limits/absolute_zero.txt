@@ -1,0 +1,11 @@
+==== Absolute Zero ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Applies [[re_completed: status: Frozen]] to all enemies
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

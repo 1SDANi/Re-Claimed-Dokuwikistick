@@ -1,0 +1,11 @@
+==== Windcutter ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Projects a ring of razor wind outwards at nearby enemies
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

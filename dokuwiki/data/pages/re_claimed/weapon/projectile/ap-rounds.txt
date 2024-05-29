@@ -1,0 +1,8 @@
+^ AP-Rounds ^ [[re_claimed: damage_type: Bullet]] [[re_claimed: Damage Type]] ^
+| 15 Impact Damage | Low Knockback |
+| Fast | Small |
+
+== See Also ==
+----
+
+[[re_claimed: weapon: personal_handgun: Sidekick]]

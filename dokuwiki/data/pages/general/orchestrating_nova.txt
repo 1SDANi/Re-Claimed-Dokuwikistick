@@ -1,0 +1,11 @@
+^ Orchestrating Nova ^ [[general: Nova]] [[general: Damage Type]] ^
+| 3 Impact Damage | No Knockback |
+| Fast (None with [[general: Charge]]) | Small |
+| 4 burn damage over 4 seconds |
+| [[general: Compose]] on kill |
+
+
+== See Also ==
+----
+
+[[General: Orchestra Module]]

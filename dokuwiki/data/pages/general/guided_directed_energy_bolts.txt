@@ -1,9 +1,0 @@
-^ Guided Directed Energy Bolts ^ [[general: Damage Type]]: [[general: Plasma]] ^
-| 10 Impact Damage (25 with [[general: Charge]]) | Low Knockback |
-| Slow with [[general: Charge]] | Small (Medium with [[general: Charge]]) |
-| EMP with [[general: Charge]] |
-
-== See also ==
-----
-
-[[general: Plasma Pistol]]

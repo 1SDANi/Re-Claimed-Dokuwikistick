@@ -1,0 +1,10 @@
+==== Luxord ====
+----
+
+^ Original Keyblade | [[re_completed: item: Master's Defender]] |
+^ New Keyblade | [[re_completed: item: Unbound]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

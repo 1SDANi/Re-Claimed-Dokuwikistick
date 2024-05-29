@@ -1,0 +1,9 @@
+==== RFR ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: D-RIGHT]] | [[controls: playstation: D-RIGHT]] | [[controls: switch: D-RIGHT]] |
+
+== See Also ==
+----
+[[controls: Inputs]]

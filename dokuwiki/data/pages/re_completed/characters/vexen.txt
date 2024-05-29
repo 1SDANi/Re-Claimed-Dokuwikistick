@@ -1,0 +1,41 @@
+==== Vexen ====
+----
+
+^ [[re_completed: combo: Scholar Style]] |
+
+^ [[re_completed: Teleport: Teleportation Grid]] |
+
+^ [[re_completed: element: Blizzard]] Spells |
+| [[re_completed: spell: Heat Seeker]] |
+| [[re_completed: spell: Snowflake Saucer]] |
+| [[re_completed: spell: Hail]] |
+| [[re_completed: spell: Ice Barrage]] |
+| [[re_completed: spell: Sub Zero]] |
+| [[re_completed: spell: Ice Needle]] |
+| [[re_completed: spell: Ice Coat]] |
+| [[re_completed: spell: Freeze]] |
+
+^ Links |
+| [[re_completed: limits: Zexion]] |
+
+^ Limits |
+| [[re_completed: limits: Diamond Dust]] |
+| [[re_completed: limits: Icy Ensemble]] |
+| [[re_completed: limits: Absolute Zero]] |
+| [[re_completed: limits: Data Sampler]] |
+
+^ Summons |
+| [[re_completed: character: Shiva]] |
+| [[re_completed: character: Golem]] |
+| [[re_completed: character: Armored Replika]] |
+| [[re_completed: character: Replika]] |
+| [[re_completed: character: Scholar]] |
+| [[re_completed: character: Dusk]] |
+
+^ Transformations |
+| [[re_completed: character: The Frozen Scholar]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

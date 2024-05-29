@@ -1,0 +1,19 @@
+==== Electrified ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Turns the Command Menus of the affected into a roulette of three [[re_completed: action: Shock]] and one [[re_completed: action: Ground]]
+
+Deals damage and applies itself to those who make contact with the affected
+
+Cannot be applied to the original user
+
+== See Also ==
+----
+
+[[re_completed: spell: Jolt]]
+
+[[re_completed: spell: Electrify]]
+
+[[re_completed: limits: Invitation to Nothingness]]

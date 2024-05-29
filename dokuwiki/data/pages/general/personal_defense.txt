@@ -2,4 +2,4 @@
 ----
 
 ^ [[general: UNSC]] ^ [[general: Sangheili]] ^ [[general: Jiralhanae]] ^ [[general: Sentinel]] ^
-| [[general: Submachine Gun]] | [[general: Plasma Rifle]] | [[general: Spiker]] | [[general: Protector Pulser]] |
+| [[general: Submachine Gun]] | [[general: Plasma Rifle]] | [[general: Spiker]] | [[general: Pursuer Pulser]] |

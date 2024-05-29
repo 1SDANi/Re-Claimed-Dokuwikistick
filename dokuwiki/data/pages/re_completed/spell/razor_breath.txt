@@ -1,0 +1,11 @@
+==== Air Breath ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Fires a cone of razor wind
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

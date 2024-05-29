@@ -1,8 +1,0 @@
-^ Smart Scope ^
-| Cannot [[general: Duel Wield]] |
-| +2 [[general: Zoom]] |
-
-== See Also ==
-----
-
-[[General: Sidekick]]

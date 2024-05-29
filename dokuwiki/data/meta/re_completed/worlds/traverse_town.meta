@@ -1,0 +1,19 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1716709823;s:8:"modified";i:1716709823;}s:11:"last_change";a:8:{s:4:"date";i:1716709823;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:33:"re_completed:worlds:traverse_town";s:4:"user";s:0:"";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:3575;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:13:"Traverse Town";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:13:"traverse_town";s:5:"title";s:13:"Traverse Town";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:312:"Traverse Town
+
+----------
+
+ Door To Darkness
+
+----------
+
+World Unlock:  Destiny Islands
+
+Cutscene: Pluto wakes Sora in an alleyway and runs off
+
+Dialogue: Sora awakes and yells for Riku and Kairi
+
+----------
+
+Area:  First District
+
+Landmark: Designer Boutique, General Store, Crafts Contractor, Le Grand Bistrot";}s:8:"relation";a:2:{s:10:"references";a:11:{s:29:"re_completed:door_to_darkness";b:1;s:35:"re_completed:worlds:destiny_islands";b:1;s:48:"re_completed:worlds:traverse_town:first_district";b:0;s:51:"re_completed:worlds:traverse_town:designer_boutique";b:0;s:47:"re_completed:worlds:traverse_town:general_store";b:0;s:51:"re_completed:worlds:traverse_town:crafts_contractor";b:0;s:50:"re_completed:worlds:traverse_town:le_grand_bistrot";b:0;s:40:"re_completed:worlds:traverse_town:harbor";b:0;s:49:"re_completed:worlds:traverse_town:second_district";b:0;s:39:"re_completed:worlds:traverse_town:hotel";b:0;s:26:"re_completed:link:gus_link";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1716709823;}s:11:"last_change";a:8:{s:4:"date";i:1716709823;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:33:"re_completed:worlds:traverse_town";s:4:"user";s:0:"";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:3575;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

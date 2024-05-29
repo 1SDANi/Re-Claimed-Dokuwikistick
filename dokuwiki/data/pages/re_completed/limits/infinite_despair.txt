@@ -1,0 +1,13 @@
+==== Infinite Despair ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Creates a giant dome of lasers around the arena that fires inwards after a time
+
+Enemies can [[re_completed: Action: React]] using [[re_completed: reaction: Desperate Struggle]] briefly before being hit
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

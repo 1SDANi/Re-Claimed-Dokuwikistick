@@ -1,0 +1,11 @@
+==== Stun Buster ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Charges with a magic infused slapshot, deals high hitstun
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

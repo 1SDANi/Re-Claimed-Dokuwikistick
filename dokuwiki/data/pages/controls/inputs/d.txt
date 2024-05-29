@@ -1,0 +1,14 @@
+==== D ====
+----
+
+^ [[controls: inputs: LA]] | [[controls: inputs: LAD]]|
+^ [[controls: inputs: RA]] | [[controls: inputs: RAD]]|
+^ [[controls: inputs: LF]] | [[controls: inputs: LFD]]|
+^ [[controls: inputs: RF]] | [[controls: inputs: RFD]]|
+^ [[controls: inputs: LB]] | [[controls: inputs: LBD]]|
+^ [[controls: inputs: RB]] | [[controls: inputs: RBD]]|
+
+== See Also ==
+----
+
+[[controls: Inputs]]

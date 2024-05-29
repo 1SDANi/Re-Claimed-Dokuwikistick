@@ -1,0 +1,12 @@
+==== Demyx ====
+----
+
+^ Original Keyblade | [[re_completed: item: Desirous Eye]] |
+^ Original Keychain | [[re_completed: item: No Name]] |
+^ New Keyblade | [[re_completed: item: End of Pain]] |
+^ New Keychain | [[re_completed: item: Chaos Ripper]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

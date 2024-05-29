@@ -1,0 +1,38 @@
+^ Warrior Style ^ [[re_completed: Grounded]] ^ [[re_completed: Grounded]] [[re_completed: Finishing]] ^ [[re_completed: Midair]] ^ [[re_completed: Midair]] [[re_completed: Finishing]] |
+^ Neutral Combo | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] |
+^ Towards Combo | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] |
+^ Side Combo | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] |
+^ Away Combo | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] | [[re_completed: combo: ]] |
+
+^ [[re_completed: action: Focus]] | [[re_completed: combo: Charge]]  |
+
+^ [[re_completed: action: Doubleflight]] | [[re_completed: combo: ]]  |
+^ [[re_completed: action: Glide]] | [[re_completed: combo: ]] |
+
+^ [[re_completed: action: Parry]] | [[re_completed: combo: ]] |
+^ [[re_completed: action: Guard]] | [[re_completed: combo: Spin Throw]]  |
+^ [[re_completed: action: Air Parry]] | [[re_completed: combo: ]]  |
+^ [[re_completed: action: Air Guard]] | [[re_completed: combo: Helm Split]] |
+^ [[re_completed: action: Dodge]] | [[re_completed: combo: ]]  |
+^ [[re_completed: action: Dash]] | [[re_completed: combo: ]]  |
+^ [[re_completed: action: Air Dodge]] | [[re_completed: combo: ]]  |
+^ [[re_completed: action: Air Dash]] | [[re_completed: combo: ]]  |
+^ [[re_completed: action: Formchange]] | [[re_completed: combo: ]]  |
+
+^ [[re_completed: action: Jump]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Defense]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Stance]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Neutral Combo | [[re_completed: combo: ]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Towards Combo | [[re_completed: combo: ]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Side Combo | [[re_completed: combo: ]] |
+^ [[re_completed: Midair]] [[re_completed: Target]] Away Combo | [[re_completed: combo: ]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Run]] Combo | [[re_completed: combo: ]] |
+^ [[re_completed: Grounded]] [[re_completed: action: Run]] [[re_completed: action: Defend]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Guard]] Combo | [[re_completed: combo: ]] |
+^ [[re_completed: action: Guard]] [[re_completed: action: Evade]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Revenge]] Combo | [[re_completed: combo: ]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Jump]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Defense]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Stance]] Modifier | [[re_completed: combo: ]] |
+^ [[re_completed: action: Revenge]] [[re_completed: action: Formchange]] Modifier | [[re_completed: combo: ]] |

@@ -1,0 +1,11 @@
+==== Demand ====
+----
+
+[[re_risen: Good]]
+
+Generic Demand cannot be produced
+
+== See Also ==
+----
+
+[[re_risen: Tile]]

@@ -1,0 +1,31 @@
+==== Flags ====
+----
+
+[[re_claimed: character: flags: Kill character on destruction]]
+
+[[re_claimed: character: flags: Scale stats with health]]
+
+[[re_claimed: character: flags: Inhibit left combat on destruction]]
+
+[[re_claimed: character: flags: Inhibit right combat on destruction]]
+
+[[re_claimed: character: flags: Inhibit grenades on destruction]]
+
+[[re_claimed: character: flags: Inhibit ability on destruction]]
+
+[[re_claimed: character: flags: Inhibit run on destruction]]
+
+[[re_claimed: character: flags: Inhibit jump on destruction]]
+
+[[re_claimed: character: flags: Inhibit climb on destruction]]
+
+[[re_claimed: character: flags: Enable ability]]
+
+[[re_claimed: character: flags: Enable equipment]]
+
+[[re_claimed: character: flags: Broken shields regenerate]]
+
+== See Also ==
+----
+
+[[re_claimed: character: Body Part]]

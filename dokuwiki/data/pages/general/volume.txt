@@ -1,8 +1,0 @@
-==== Volume ====
-----
-
-  - [[general: Silent]]
-  - [[general: Quiet]]
-  - [[general: Medium]]
-  - [[general: Loud]]
-  - [[general: Shout]]

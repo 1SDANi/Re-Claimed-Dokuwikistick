@@ -1,0 +1,17 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1713647008;s:8:"modified";i:1715071786;}s:11:"last_change";a:8:{s:4:"date";i:1715071786;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:45:"re_completed:limits:invitation_to_nothingness";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:25:"Invitation to Nothingness";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:25:"invitation_to_nothingness";s:5:"title";s:25:"Invitation to Nothingness";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:328:"Invitation to Nothingness
+
+----------
+
+ Element:  Animus
+
+Summons a clone of the user and applies  Bound and  Electrified to the original target
+
+The user cannot move and cannot use any  Action, except  React
+
+The user can  React using  Binding Vow
+
+Enemies can  React using  Rescue while close to the user
+
+See Also
+
+----------";}s:8:"relation";a:2:{s:10:"references";a:9:{s:20:"re_completed:element";b:1;s:27:"re_completed:element:animus";b:1;s:25:"re_completed:status:bound";b:1;s:31:"re_completed:status:electrified";b:1;s:19:"re_completed:action";b:1;s:25:"re_completed:action:react";b:0;s:33:"re_completed:reaction:binding_vow";b:1;s:28:"re_completed:reaction:rescue";b:1;s:30:"re_completed:characters:xemnas";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1713647008;s:8:"modified";i:1715071786;}s:11:"last_change";a:8:{s:4:"date";i:1715071786;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:45:"re_completed:limits:invitation_to_nothingness";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

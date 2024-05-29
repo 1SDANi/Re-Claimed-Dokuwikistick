@@ -1,0 +1,11 @@
+==== Freeze ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+Applies [[re_completed: status: Frozen]] to the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Vexen]]

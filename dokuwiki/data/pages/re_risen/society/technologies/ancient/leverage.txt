@@ -1,0 +1,16 @@
+==== Leverage ====
+----
+
+Landmark: [[re_risen: tile: land: landmark: Road]]
+
+Landmark: [[re_risen: tile: land: landmark: Dock]]
+
+Landmark: [[re_risen: tile: land: landmark: Earthworks]]
+
+Wonder: [[re_risen: tile: land: landmark: wonders: Great Geogylphs]]
+
+
+== See Also ==
+----
+
+[[re_risen: society: technologies: Ancient]]

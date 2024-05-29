@@ -1,0 +1,6 @@
+^ Fully Automatic ^
+| [[re_claimed: weapon: personal_handgun: Sidekick]] |
+| [[re_claimed: weapon: personal_defense: Submachine Gun]] |
+| [[re_claimed: weapon: personal_defense: Plasma Rifle]] |
+| [[re_claimed: weapon: personal_defense: Spiker]] |
+| [[re_claimed: weapon: personal_handgun: Protector Pulser]] |

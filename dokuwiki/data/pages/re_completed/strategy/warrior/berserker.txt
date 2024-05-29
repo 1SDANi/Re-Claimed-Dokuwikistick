@@ -1,0 +1,9 @@
+==== Berserker ====
+----
+
+Fight anywhere
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

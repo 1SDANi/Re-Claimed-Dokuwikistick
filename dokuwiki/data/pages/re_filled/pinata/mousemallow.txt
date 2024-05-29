@@ -1,0 +1,15 @@
+==== Mousemallow ====
+----
+
+Animal: Mouse
+
+Sweet: Marshmallow
+
+Ability: Can carry [[re_filled: size: Small]] [[re_filled: plant | Plants]]
+
+Befriend: Fed one [[re_filled: plant: herb: Radish]]
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

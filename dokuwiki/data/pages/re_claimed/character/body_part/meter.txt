@@ -1,0 +1,16 @@
+==== Meter ====
+----
+[[re_claimed: character: body_part: meter: Meter Value]]
+
+[[re_claimed: character: body_part: meter: Regen Value]]
+
+[[re_claimed: character: body_part: meter: Stun Time]]
+
+[[re_claimed: character: body_part: meter: Regen Time]]
+
+[[re_claimed: Armor Type]]
+
+== See Also ==
+----
+
+[[re_claimed: character: Body Part]]

@@ -1,0 +1,13 @@
+==== Frozen Guard ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Blizzard]]
+
+The user's weapon floats in front of them while their weapon is out and they are not using physical attacks
+
+The user's weapon acts as a separate character for the purposes of being hit
+
+== See Also ==
+----
+
+[[re_completed: combo: Scholar Style]]

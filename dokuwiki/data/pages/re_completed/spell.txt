@@ -1,0 +1,49 @@
+==== Spell ====
+----
+
+^ [[re_completed: element: Novice]] ^ [[re_completed: element: Animus]] ^ [[re_completed: element: Aero]] ^ [[re_completed: element: Unda]] ^ [[re_completed: element: Solum]] ^ [[re_completed: element: Lux]] ^ [[re_completed: element: Nox]] |
+^ [[re_completed: spell: Missile]] | [[re_completed: spell: Laser Shot]] | [[re_completed: spell: Air Slice]] | [[re_completed: spell: Water Jet]] | [[re_completed: spell: Stone Shot]] | [[re_completed: spell: Light Ball]] | [[re_completed: spell: Dark Ball]] |
+^ [[re_completed: spell: Homing]] | [[re_completed: spell: Charged Laser]] | [[re_completed: spell: Razor Sphere]] | [[re_completed: spell: Water Balloon]] | [[re_completed: spell: Quake]] | [[re_completed: spell: Light Seeker]] | [[re_completed: spell: Dark Seeker]] |
+^ [[re_completed: spell: Bomb]] | [[re_completed: spell: Laser Ring]] | [[re_completed: spell: Tornado Strike]] | [[re_completed: spell: Water Bomb]] | [[re_completed: spell: Rock Shatter]] | [[re_completed: spell: Explosion]] | [[re_completed: spell: Rage]] |
+^ [[re_completed: spell: Spray]] | [[re_completed: spell: Thorn Beam]] | [[re_completed: spell: Razor Breath]] | [[re_completed: spell: Water Cannon]] | [[re_completed: spell: Geo Impact]] | [[re_completed: spell: Light Aura]] | [[re_completed: spell: Dark Aura]] |
+^ [[re_completed: spell: Shower]] | [[re_completed: spell: Ripple Drive]] | [[re_completed: spell: Razor Wind]] | [[re_completed: spell: Heavy Rain]] | [[re_completed: spell: Meteor Shower]] | [[re_completed: spell: Repel]] | [[re_completed: spell: Magnet]] |
+^ [[re_completed: spell: Pillar]] | [[re_completed: spell: Laser Circle]] | [[re_completed: spell: Tornado]] | [[re_completed: spell: Geyser]] | [[re_completed: spell: Meteor Impact]] |  |  |
+^ [[re_completed: spell: Trap]] | [[re_completed: spell: Cluster Laser]] | [[re_completed: spell: Airmine]] | [[re_completed: spell: Liquify]] | [[re_completed: spell: Fissure]] | [[re_completed: spell: Lightmine]] | [[re_completed: spell: Darkmine]] |
+^ [[re_completed: spell: Wall]] | [[re_completed: spell: Thorn Wall]] | [[re_completed: spell: Hardened Air]] | [[re_completed: spell: Water Wall]] | [[re_completed: spell: Rock Wall]] | [[re_completed: spell: Hardlight]] | [[re_completed: spell: Dark Barrier]] |
+^ [[re_completed: spell: Dome]] | [[re_completed: spell: Stun Impact]] | [[re_completed: spell: Cyclone]] | [[re_completed: spell: Bubble]] | [[re_completed: spell: Geo Bunker]] | [[re_completed: spell: Reflect]] | [[re_completed: spell: Magnet Spiral]] |
+^ [[re_completed: spell: Melee]] | [[re_completed: spell: Thorn Coat]] | [[re_completed: spell: Razor Coat]] | [[re_completed: spell: Water Coat]] | [[re_completed: spell: Rock Coat]] | [[re_completed: spell: Light Coat]] | [[re_completed: spell: Dark Coat]] |
+^ [[re_completed: spell: Enchant]] | [[re_completed: spell: Aim]] | [[re_completed: spell: Whirlwind]] | [[re_completed: spell: Cleanse]] | [[re_completed: spell: Reinforce]] | [[re_completed: spell: Cheer]] | [[re_completed: spell: Dark Charge]] |
+^ [[re_completed: spell: Condemn]] | [[re_completed: spell: Bind]] | [[re_completed: spell: Airtoss]] | [[re_completed: spell: Drown]] | [[re_completed: spell: Harden]] | | [[re_completed: spell: Possess]] |
+
+^ [[re_completed: element: Adept]] ^ [[re_completed: element: Fire]] ^ [[re_completed: element: Thunder]] ^ [[re_completed: element: Blizzard]] ^ [[re_completed: element: Flower]] ^ [[re_completed: element: Time]] ^ [[re_completed: element: Gravity]] |
+^ [[re_completed: spell: Missile]] | [[re_completed: spell: Fireblast]] | [[re_completed: spell: Thunderstrike]] | [[re_completed: spell: Icicle]] | [[re_completed: spell: Mana Beam]] | [[re_completed: spell: Sandblast]] | [[re_completed: spell: Gravity Shot]] |
+^ [[re_completed: spell: Homing]] | [[re_completed: spell: Fireball]] | [[re_completed: spell: Thundershock]] | [[re_completed: spell: Heat Seeker]] | [[re_completed: spell: Blossom Shot]] | [[re_completed: spell: Dustbunny]] | [[re_completed: spell: Gravity Missile]] |
+^ [[re_completed: spell: Bomb]] | [[re_completed: spell: Firebomb]] | [[re_completed: spell: Spark Bomb]] | [[re_completed: spell: Snowflake Saucer]] | [[re_completed: spell: Seed Bomb]] | [[re_completed: spell: Timebomb]] | [[re_completed: spell: Force Bomb]] |
+^ [[re_completed: spell: Spray]] | [[re_completed: spell: Flamethrower]] | [[re_completed: spell: Thunder Cannon]] | [[re_completed: spell: Blizzard]] | [[re_completed: spell: Seed Cannon]] | [[re_completed: spell: Sand Jet]] | [[re_completed: spell: Gravity Cannon]] |
+^ [[re_completed: spell: Shower]] | [[re_completed: spell: Fire Burst]] | [[re_completed: spell: Thundershower]] | [[re_completed: spell: Hail]] | [[re_completed: spell: Blossom Shower]] | [[re_completed: spell: Sandstorm]] | [[re_completed: spell: Heavy Gravity]] |
+^ [[re_completed: spell: Pillar]] | [[re_completed: spell: Eruption]] | [[re_completed: spell: Smite]] | [[re_completed: spell: Ice Barrage]] | [[re_completed: spell: Flower Wreath]] | [[re_completed: spell: Dust Devil]] | [[re_completed: spell: Anti Gravity]] |
+^ [[re_completed: spell: Trap]] | [[re_completed: spell: Landmine]] | [[re_completed: spell: Electrify]] | [[re_completed: spell: Sub Zero]] | [[re_completed: spell: Disturbed Bloom]] | [[re_completed: spell: Sandtrap]] | [[re_completed: spell: Gravity Well]] |
+^ [[re_completed: spell: Wall]] | [[re_completed: spell: Firewall]] | [[re_completed: spell: Spark Wall]] | [[re_completed: spell: Ice Needle]] | [[re_completed: spell: Rosebush]] | [[re_completed: spell: Stop Wall]] | [[re_completed: spell: Force Field]] |
+^ [[re_completed: spell: Dome]] | [[re_completed: spell: Flame Vortex]] | [[re_completed: spell: Spark]] | [[re_completed: spell: Deep Freeze]] | [[re_completed: spell: Blossom Vortex]] | [[re_completed: spell: Sandcastle]] | [[re_completed: spell: Gravity Blast]] |
+^ [[re_completed: spell: Melee]] | [[re_completed: spell: Flame Coat]] | [[re_completed: spell: Thunder Coat]] | [[re_completed: spell: Ice Coat]] | [[re_completed: spell: Poison Coat]] | [[re_completed: spell: Slow Coat]] | [[re_completed: spell: Heavy Strike]] |
+^ [[re_completed: spell: Enchant]] | [[re_completed: spell: Heat Up]] | [[re_completed: spell: Charge]] | [[re_completed: spell: Chill Out]] | [[re_completed: spell: Cure]] | [[re_completed: spell: Speed]] | [[re_completed: spell: Inverted Gravity]] |
+^ [[re_completed: spell: Condemn]] | [[re_completed: spell: Ignite]] | [[re_completed: spell: Jolt]] | [[re_completed: spell: Freeze]] | [[re_completed: spell: Poison]] | [[re_completed: spell: Stop]] | [[re_completed: spell: Zero Gravity]] |
+
+^ [[re_completed: element: Master]] ^ [[re_completed: element: Memory]] ^ [[re_completed: element: Dream]] ^ [[re_completed: element: Moon]] ^ [[re_completed: element: Pain]] ^ [[re_completed: element: Holy]] ^ [[re_completed: element: Curse]] |
+^ [[re_completed: spell: Missile]] | [[re_completed: spell: Lexicon Throw]] | | | | [[re_completed: spell: Holy Beam]] | [[re_completed: spell: Dark Impulse]] |
+^ [[re_completed: spell: Homing]] | | | | | [[re_completed: spell: Pearl]] | |
+^ [[re_completed: spell: Bomb]] | [[re_completed: spell: Lexicon Pincer]] | | | | [[re_completed: spell: Magic Pulse]] | |
+^ [[re_completed: spell: Spray]] | [[re_completed: spell: Lexicon Scatter]] | | | | [[re_completed: spell: Flare]] | |
+^ [[re_completed: spell: Shower]] | | | | | [[re_completed: spell: Heaven's Light]] | |
+^ [[re_completed: spell: Pillar]] | | | | | [[re_completed: spell: God Ray]] | |
+^ [[re_completed: spell: Trap]] | [[re_completed: spell: Memory Pod]] | | | | | [[re_completed: spell: Dark Bite]] |
+^ [[re_completed: spell: Wall]] | | | | | | |
+^ [[re_completed: spell: Dome]] | | | | | [[re_completed: spell: Faith]] | |
+^ [[re_completed: spell: Melee]] | [[re_completed: spell: Data Scrape]] | | | | [[re_completed: spell: Heavenly Vector]] | |
+^ [[re_completed: spell: Enchant]] | [[re_completed: spell: Restore]] | [[re_completed: spell: Song]] | [[re_completed: spell: Berserk]] | [[re_completed: spell: Vampire]] | [[re_completed: spell: Revive]] | [[re_completed: spell: Reanimate]] |
+^ [[re_completed: spell: Condemn]] | [[re_completed: spell: Amnesia]] | [[re_completed: spell: Sleep]] | [[re_completed: spell: Enrage]] | [[re_completed: spell: Bleed]] | [[re_completed: spell: Silence]] | [[re_completed: spell: Doom]] |
+
+== See Also ==
+----
+
+[[:Re Completed]]

@@ -1,0 +1,11 @@
+==== RAC ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[controls: xbox: RS]] | [[controls: playstation: R3]] | [[controls: switch: RS]] |
+
+== See Also ==
+----
+[[controls: Inputs]]
+
+[[re_claimed: actions: Look]]

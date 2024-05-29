@@ -1,0 +1,14 @@
+=== PlayStation ====
+----
+
+^ Input ^ [[controls: inputs: U]] ^ [[controls: inputs: D]] ^ [[controls: inputs: L]] ^ [[controls: inputs: R]] ^ [[controls: inputs: C]] |
+^ [[controls: inputs: LA]] | [[controls: playstation: LU]] | [[controls: playstation: LD]] | [[controls: playstation: LL]] | [[controls: playstation: LR]] | [[controls: playstation: L3]] |
+^ [[controls: inputs: LF]] | [[controls: playstation: D-UP]] | [[controls: playstation: D-DOWN]] | [[controls: playstation: D-LEFT]] | [[controls: playstation: D-RIGHT]] | [[controls: playstation: Select]] |
+^ [[controls: inputs: LB]] | [[controls: playstation: L1]] | [[controls: playstation: L2]] |
+^ [[controls: inputs: RA]] | [[controls: playstation: RU]] | [[controls: playstation: RD]] | [[controls: playstation: RL]] | [[controls: playstation: RR]] | [[controls: playstation: R3]] |
+^ [[controls: inputs: RF]] | [[controls: playstation: △]] | [[controls: playstation: X]] | [[controls: playstation: ▢]] | [[controls: playstation: O]] | [[controls: playstation: Start]] |
+^ [[controls: inputs: RB]] | [[controls: playstation: R1]] | [[controls: playstation: R2]] |
+
+== See Also ==
+----
+[[:Controls]]

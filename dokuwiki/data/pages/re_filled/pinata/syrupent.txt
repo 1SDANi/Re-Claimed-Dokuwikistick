@@ -1,0 +1,15 @@
+==== Syrupent ====
+----
+
+Animal: Serpent
+
+Sweet: Syrup
+
+Ability: Can carry [[re_filled: size: Small]] [[re_filled: Object | Objects]]
+
+Befriend: Fed one [[re_filled: pinata: Mousemallow]]
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

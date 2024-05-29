@@ -1,0 +1,22 @@
+==== Bullet ====
+----
+
+200% damage: [[re_claimed: armor_type: Head]]
+
+150% damage: [[re_claimed: armor_type: Light Armor]]
+
+100% damage: [[re_claimed: armor_type: Loose Flesh]], [[re_claimed: armor_type: Floodflesh]]
+
+75% damage: [[re_claimed: armor_type: Heavy Armor]], [[re_claimed: armor_type: Energy Shield]]
+
+18.75% damage: [[re_claimed: armor_type: Impenetrable]]
+
+
+== See also ==
+----
+
+[[re_claimed: Damage Type]]
+
+[[re_claimed: Damage Table]]
+
+[[re_claimed: weapon: projectile: AP-Rounds]]

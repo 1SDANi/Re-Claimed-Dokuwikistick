@@ -1,0 +1,11 @@
+==== Solo Stance ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Changes the user's moveset and they passively gain mana over time but can't gain mana from dealing damage
+
+== See Also ==
+----
+
+[[re_completed: combo: Amoeba Style]]

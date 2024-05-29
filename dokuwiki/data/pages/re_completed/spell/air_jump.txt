@@ -1,0 +1,13 @@
+==== Air Jump ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Aero]]
+
+Rides a gust of air skyward and strikes from above in a blast of wind
+
+Can [[re_completed: Action: React]] to using [[re_completed: reaction: Learn]]
+
+== See Also ==
+----
+
+[[re_completed: characters: Xaldin]]

@@ -1,0 +1,13 @@
+==== Sniping Warp ====
+----
+
+[[re_completed: Element]]: Depends on the user's [[re_completed: Teleport]]
+
+Teleports to a new sniping location
+
+== See Also ==
+----
+
+[[re_completed: limits: Gravity Sniper]]
+
+[[re_completed: limits: Ultimate Sniper]]

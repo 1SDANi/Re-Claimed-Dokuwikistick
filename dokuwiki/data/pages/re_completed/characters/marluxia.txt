@@ -1,0 +1,10 @@
+==== Marluxia ====
+----
+
+^ Keyblade | [[re_completed: item: Divine Rose]] |
+^ Keychain | [[re_completed: item: Circle of Life]] |
+
+== See Also ==
+----
+
+[[re_completed: Characters]]

@@ -1,0 +1,12 @@
+==== Spare Hat ====
+----
+
+| [[re_claimed: ability: Active]] |
+| [[re_claimed: ability: Cooldown]]: 5 |
+| Never leave home without a spare hat... or a hundred |
+|+100% [[re_claimed: character: team: human: Head]] [[re_claimed: character: body_part: Shield]] [[re_claimed: character: body_part: meter: Meter Value]] |
+
+== See Also ==
+----
+
+[[re_claimed: character: species: human: Sergeant]]

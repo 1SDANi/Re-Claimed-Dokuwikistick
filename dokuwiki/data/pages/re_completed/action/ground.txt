@@ -1,0 +1,11 @@
+==== Ground ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Cures [[re_completed: status: Electrified]]
+
+== See Also ==
+----
+
+[[re_completed: status: Electrified]]

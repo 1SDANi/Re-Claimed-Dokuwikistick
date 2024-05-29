@@ -1,0 +1,11 @@
+==== Gloat ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Animus]]
+
+Increases the mana of both allies and enemies over time
+
+== See Also ==
+----
+
+[[re_completed: combo: Lancer Style]]

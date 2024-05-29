@@ -1,0 +1,7 @@
+^ Jump ^ [[re_claimed: actions: Prone]] ^ [[re_claimed: actions: Crouch]] ^ [[re_claimed: actions: Stand]] ^ [[re_claimed: actions: Walk]] ^ [[re_claimed: actions: Midair]] |
+^ [[controls: inputs: Tap]] | [[re_claimed: actions: Stand]] | [[re_claimed: actions: Crouch Jump]] | [[re_claimed: actions: Short Jump]] | [[re_claimed: actions: Short Jump]] | [[re_claimed: actions: Somersault]] |
+^ [[controls: inputs: Hold]] | [[re_claimed: actions: Crouch Jump]] | [[re_claimed: actions: Short Jump]] | [[re_claimed: actions: High Jump]] | [[re_claimed: actions: High Jump]] | [[re_claimed: actions: Backflip]] |
+== See Also ==
+----
+
+[[re_claimed: Action]]

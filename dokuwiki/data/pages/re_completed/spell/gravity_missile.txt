@@ -1,0 +1,11 @@
+==== Gravity Missile ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Fires a homing missile of gravity
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]

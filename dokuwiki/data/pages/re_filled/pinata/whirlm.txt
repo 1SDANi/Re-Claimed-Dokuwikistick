@@ -1,0 +1,15 @@
+==== Whirlm ====
+----
+
+Animal: Worm
+
+Sweet: Whirls
+
+Ability: Can eat [[re_filled: terrain: Hardsoil]], producing [[re_filled: terrain: Soil]]
+
+Befriend: When petted
+
+== See Also ==
+----
+
+[[re_filled: Pinata]]

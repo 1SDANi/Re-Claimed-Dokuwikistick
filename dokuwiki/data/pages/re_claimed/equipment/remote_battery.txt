@@ -1,0 +1,13 @@
+==== Remote Battery ====
+----
+
+[[re_claimed: equipment: Use]]: [[re_claimed: equipment: Throw]] [[re_claimed: equipment: Remote Battery]]
+
+[[re_claimed: equipment: AoE]]: [[re_claimed: equipment: Status]] and +1 random [[re_claimed: team: Sangheili]] Grenade
+
+[[re_claimed: equipment: Status]]: +10% [[re_claimed: weapon: Battery]] on all [[re_claimed: team: Sangheili]] [[re_claimed: Weapon]]s per second for 10 seconds
+
+== See Also ==
+----
+
+[[re_claimed: Equipment]]

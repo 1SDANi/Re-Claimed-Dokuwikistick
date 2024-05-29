@@ -1,0 +1,11 @@
+^ Smart Laser ^
+| Cannot [[re_claimed: Dual Wield]] |
+| +1 [[re_claimed: Zoom]] |
+| +1 [[re_claimed: Stability ]] |
+
+== See Also ==
+----
+
+[[re_claimed: weapon: personal_handgun: Sidekick]]
+
+[[re_claimed: weapon: personal_handgun: Plasma Pistol]]

@@ -1,0 +1,9 @@
+==== Trickster ====
+----
+
+Debuff enemies
+
+== See Also ==
+----
+
+[[re_completed: Strategy]]

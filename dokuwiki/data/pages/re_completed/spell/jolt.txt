@@ -1,0 +1,11 @@
+==== Jolt ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Thunder]]
+
+Applies [[re_completed: status: Electrified]] to the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Xemnas]]

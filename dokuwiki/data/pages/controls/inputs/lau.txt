@@ -1,0 +1,12 @@
+==== LAU ====
+----
+
+^ Scheme ^ [[controls: XBOX]] ^ [[controls: PlayStation]] ^ [[controls: Switch]] |
+^ Input | [[rc: controls: xbox: LU]] | [[rc: controls: playstation: LU]] | [[rc: controls: switch: LU]] |
+
+== See Also ==
+----
+
+[[controls: Inputs]]
+
+[[re_claimed: actions: Move]]

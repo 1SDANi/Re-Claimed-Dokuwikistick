@@ -1,0 +1,11 @@
+==== Inverted Gravity ====
+----
+
+[[re_completed: Element]]: [[re_completed: element: Gravity]]
+
+Applies [[Invert]] to the target
+
+== See Also ==
+----
+
+[[re_completed: characters: Xigbar]]
